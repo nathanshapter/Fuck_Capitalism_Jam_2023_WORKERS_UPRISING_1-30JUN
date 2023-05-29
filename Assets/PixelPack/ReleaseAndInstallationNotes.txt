@@ -1,0 +1,87 @@
+GENERAL
+
+All PixelPacks include original .psd files where each sprite is on it's own named layer. 
+In each PixelPack there's a playable scene that showcases the use of most of the included elements (sprites and animations). 
+Majority of the sprites are tilable and/or can be flipped. Base tile size is 16x16 pixels, 
+but there are also larger (or smaller) sprites included, that may use some other square power of two (e.g. 8x8 or 32x48). 
+PixelPacks also share the same 16 color palette (except for the PixelPack Forest, that uses 256 color palette). 
+
+The included demonstrational project is created with Unity 2019.1.8f1 to ensure backward compatibility. 
+Compatibility is also tested with Unity 2019.2.x, 2019.3.x, 2019.4.x and 2020.1.x (however example's platformer code is provided as is without any warranties, 
+PixelPacks are graphics packages and provided example is just additional content).
+
+INSTALLATION AND HOW-TO-USE
+
+Sliced sprite sheet including all the sprites can be found from Sprites folder. All the PixelPacks also include sprite sheets shared by all packages. 
+You can find shared sprite sheets from SharedSpriteSheets subfolder. Essentially sprite sheets are Photoshop's psd-format images imported to Unity.
+Every individual sprite is on it's on layer in the psd-file and each individual sprite is already sliced with Unity's Sprite Editor. You can start
+using sprites simply by clcking the small arrow next to sprite sheet to open the list of sliced sprites and then start dragging and dropping the
+sprites to currently open scene.
+
+Since this is a graphics package, you can just copy the single .psd file containing all sprites to any Unity or other project and start using them. 
+If your project mode is set to 2D, the image you import is automatically set as a Sprite (in this case you have to set Sprite Mode to multiple and slice
+sprites yourself using Unity's Sprite Editor). 
+
+Or if you want to preserve sprites already sliced in Unity's sprite editor, you can export the .psd file as a Unity package (Right-click .psd file -> Export package...) and
+import it to any other Unity project.
+
+DEMO PROJECT
+
+Important! For unknown reason some Unity 2020.x versions break ScriptableObject references in Player prefab's SuitSpriteSheet list.
+You may have to manually select and set SuitItem InventoryItemDatas (BasicSuit, CyberSuit, BarbarianSuit). 
+In Unity 2020.2.3f1 this issue seems to be fixed.
+
+The demo platformer project is created with Unity 2019.1.8f1 to ensure backward compatibility. 
+If you're working with latest Unity versions, you may need to update 2D Pixel Perfect package from Package Manager to version 2.x (or later). 
+This should happen automatically, but sometimes Unity fails to do this. 
+Prefabs/sprites in demo scenes have Layers and Sorting Layers specific for this project. 
+If you are using them in your existing project remember to change them 
+to conform to your Tags and Layers settings (or replace ProjectSettings/TagManager.asset with the one provided with this project. 
+Warning! It replaces all layers and tags in your current project). 
+If you just want the sprites, create a new temporary project for this asset and then export/import only Sprites folder to your project.
+
+Example code utilizes free third-party libraries UniRx and DOTween (see: Third-party Notices.txt) that may or may not have issues with the Unity version you are using. 
+Ensure that you have compatible version of both libraries installed (in later Unity versions: see Package Manager).
+
+If you encounter any compile errors after importing the package, open the Package Manager window 
+and ensure that you have installed packages that are compatible with the Unity version that 
+you are using (e.g. 11.10.2020 the latest released 2D Pixel Perfect package version was 3.0.2 
+but the latest Unity 2019.1.8f1 compatible 2D Pixel Perfect packge version is 1.01 (preview)).
+
+You can find a full code reference to demo project from the included Documentation folder. 
+Open the index.html file from Documentation folder to open the code reference main page.
+
+DEMO PROJECT CONTROLS
+
+LEFT/RIGHT
+Keyboard: arrow left/arrow right, a/d
+Xbox One Controller: left analog stick left/right
+
+JUMP
+Keyboard: left ctrl/space
+Xbox One Controller: A button
+
+ENTER DOOR
+Keyboard: arrow up/w
+Xbox One Controller: left analog stick up
+
+DUCK/SLIDE
+Keyboard: arrow up/w
+Xbox One Controller: left analog stick down
+
+INVENTORY LEFT
+Keyboard: q/left shift
+Xbox One Controller: left trigger
+
+INVENTORY RIGHT
+Keyboard: r/right shift
+Xbox One Controller: right trigger
+
+INVENTORY USE / ACTIVATE
+Keyboard: e
+Xbox One Controller: Y button
+
+CANCEL/BACK
+Keyboard: esc
+Xbox One Controller: B button
+

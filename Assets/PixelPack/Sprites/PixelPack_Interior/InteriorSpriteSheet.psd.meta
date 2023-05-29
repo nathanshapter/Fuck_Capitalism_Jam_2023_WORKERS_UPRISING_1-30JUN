@@ -1,0 +1,7062 @@
+fileFormatVersion: 2
+guid: 1c68427bba22d4647a8b74ccaff29a79
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6627097625049128375
+    second: WallPaper_blue_stripes
+  - first:
+      213: 5687529129017613365
+    second: WallPaper_blue_stripes_top_left_shadow
+  - first:
+      213: -5560490389483045612
+    second: WallPaper_blue_stripes_top_shadow
+  - first:
+      213: 661865935296556293
+    second: WallPaper_blue_stripes_left_shadow
+  - first:
+      213: 1285818139904061142
+    second: WallPaper_red_stripes_top_left_shadow
+  - first:
+      213: 6052220381770867086
+    second: WallPaper_red_stripes
+  - first:
+      213: 1972576475966492111
+    second: WallPaper_red_stripes_top_shadow
+  - first:
+      213: -9073783769346491634
+    second: WallPaper_red_stripes_left_shadow
+  - first:
+      213: 6714403555217905352
+    second: Floor_Green_Carpet
+  - first:
+      213: -2565050999278466414
+    second: Floor_grey_tile
+  - first:
+      213: 5530031445715524083
+    second: Floor_Red_Carpet
+  - first:
+      213: -6844983985240380595
+    second: DryWall
+  - first:
+      213: 3088906598942417258
+    second: DoorFrame
+  - first:
+      213: -5954177105263467811
+    second: DoorFrame_shadow_top
+  - first:
+      213: -3302128123894471348
+    second: Floor_hardwood
+  - first:
+      213: 8791242849331764477
+    second: Couch_red
+  - first:
+      213: 2599475703774296927
+    second: ArmChair_red
+  - first:
+      213: 2301694943621870198
+    second: ToiletSink
+  - first:
+      213: 758450104828294560
+    second: ToiletSeat
+  - first:
+      213: 6345280391769145228
+    second: Drawer_brown_small
+  - first:
+      213: 2038743232884704025
+    second: Drawer_brown_big
+  - first:
+      213: 316186749420508932
+    second: WashingMachine
+  - first:
+      213: 3355498879508141452
+    second: Fridge
+  - first:
+      213: -564312820729470203
+    second: Kitchen_brown_drawer
+  - first:
+      213: -6892907587067004262
+    second: Kitchen_brown_cabinet_right
+  - first:
+      213: 7745400511936353242
+    second: Kitchen_brown_cabinet_left_end
+  - first:
+      213: -1189426272862458335
+    second: Kitchen_brown_under_sink
+  - first:
+      213: 7904304704970160726
+    second: Kitchen_sink
+  - first:
+      213: 9144152157069387488
+    second: Table_small_night_stand
+  - first:
+      213: -2341534315704906572
+    second: Lamp_table_top
+  - first:
+      213: -5982168200081706984
+    second: Books_pile
+  - first:
+      213: -7492545249133584314
+    second: Painting_ship
+  - first:
+      213: -5898584396416161806
+    second: Clock_alarm
+  - first:
+      213: -1700947990531358221
+    second: Bed_double
+  - first:
+      213: 4324556760187275587
+    second: DoorFrame_top
+  - first:
+      213: 2483635851816316159
+    second: Shower_curtain
+  - first:
+      213: -1719465154972531509
+    second: Shower_side
+  - first:
+      213: -3108428858645700405
+    second: Trash_can_small_red
+  - first:
+      213: 414504797586055539
+    second: MirrorCabin
+  - first:
+      213: 7484191672846154530
+    second: Tiles_grey_white_base
+  - first:
+      213: 1183336134876246836
+    second: Tiles_grey_white_shadow_left
+  - first:
+      213: -3974132906557968727
+    second: Tiles_cyan_white_base
+  - first:
+      213: 694662719587178802
+    second: Tiles_cyan_white_shadow_left
+  - first:
+      213: 2559253633255338941
+    second: Tiles_blue_cyan_base
+  - first:
+      213: 7079565841625573371
+    second: Tiles_blue_cyan_shadow_left
+  - first:
+      213: 7322324250994162454
+    second: Tiles_blue_cyan_shadow_top_left
+  - first:
+      213: -8561433110403140356
+    second: Tiles_blue_cyan_shadow_top
+  - first:
+      213: 9064650063183672069
+    second: Tiles_cyan_white_shadow_top_left
+  - first:
+      213: -8313618543986298051
+    second: Tiles_cyan_white_shadow_top
+  - first:
+      213: 3259057321649616969
+    second: Tiles_grey_white_shadow_top_left
+  - first:
+      213: -3916117353331926817
+    second: Tiles_grey_white_shadow_top
+  - first:
+      213: -6731472651100604760
+    second: WallPaper_diagonal_yellow_squares
+  - first:
+      213: 8691307818895935831
+    second: WallPaper_diagonal_yellow_squares_left_shadow
+  - first:
+      213: -6493768284581722517
+    second: WallPaper_diagonal_yellow_squares_top_left_shadow
+  - first:
+      213: 4351406121531144054
+    second: WallPaper_diagonal_yellow_squares_top_shadow
+  - first:
+      213: -820483498594979720
+    second: Kitchen_brown_tall_cabinet_left
+  - first:
+      213: 5511122020117248205
+    second: Kitchen_brown_cooker_hood
+  - first:
+      213: 5671782501023938316
+    second: Kitchen_brown_microwave
+  - first:
+      213: 3829657470134538938
+    second: Kitchen_brown_wall_cabinet_left
+  - first:
+      213: 4929938540385989477
+    second: Kitchen_brown_wall_cabinet_right
+  - first:
+      213: -8047755157269149268
+    second: Kitchen_brown_cabinet_left_end
+  - first:
+      213: 2686367344577284023
+    second: Kitchen_brown_wall_cabinet_left_end
+  - first:
+      213: -7493432402954040805
+    second: Kitchen_top_molding_left_end
+  - first:
+      213: -4836399466225850286
+    second: Kitchen_top_molding_right_end
+  - first:
+      213: -1753775215269787046
+    second: Kitchen_counter_grey_left_end
+  - first:
+      213: -2757035493954744620
+    second: Kitchen_counter_grey_right_end
+  - first:
+      213: 355011566728671798
+    second: Kitchen_counter_grey
+  - first:
+      213: 542896008182529990
+    second: Clock_analog
+  - first:
+      213: 335688022340012451
+    second: Door_to_down_stairs
+  - first:
+      213: 6821846524472554382
+    second: Oven
+  - first:
+      213: 8384105561139205739
+    second: Plant_1
+  - first:
+      213: -2341602338155945000
+    second: ExteriorWall_red_brick
+  - first:
+      213: -721843280959241211
+    second: Wall_dark_grey_concrete_damaged_1
+  - first:
+      213: 144597272637664224
+    second: Wall_dark_grey_concrete_shadow_top
+  - first:
+      213: -133933724093161535
+    second: Wall_cyan_concrete_damaged_2
+  - first:
+      213: 9208379829253560930
+    second: Wall_cyan_concrete_damaged_1
+  - first:
+      213: 349213117290329347
+    second: Wall_cyan_concrete_base
+  - first:
+      213: -2037629866484571378
+    second: Door_out_red_closed
+  - first:
+      213: 5318004158784346868
+    second: Door_to_upstairs
+  - first:
+      213: 2686367344577284023
+    second: Wallpaper_circle_stripes_blue
+  - first:
+      213: 2761250295871795566
+    second: Wallpaper_circle_stripes_blue_shadow_left
+  - first:
+      213: 7987370324481939656
+    second: Wallpaper_circle_stripes_blue_shadow_top
+  - first:
+      213: 7429939003306667649
+    second: Wallpaper_circle_stripes_blue_shadow_top_left
+  - first:
+      213: -50016179755682510
+    second: Wall_cyan_concrete_damaged_3
+  - first:
+      213: -7546324185213861844
+    second: Wall_dark_grey_concrete_damaged_2
+  - first:
+      213: 6639200418545440628
+    second: Wood_panel_plain
+  - first:
+      213: -2641444767669303683
+    second: Wood_panel_white_20px
+  - first:
+      213: -5264364383857513691
+    second: ConcreteFloorGround
+  - first:
+      213: 644885259068822849
+    second: Wall_cyan_concrete_light_left
+  - first:
+      213: 7774504846132830249
+    second: Wall_cyan_concrete_light_right
+  - first:
+      213: 4289969608057174869
+    second: Wall_dark_grey_concrete_light_lfet
+  - first:
+      213: -7278121659928535891
+    second: Wall_dark_grey_concrete_light_right
+  - first:
+      213: 2686367344577284023
+    second: Lamp_ceiling_flourescent
+  - first:
+      213: 2469429583214636800
+    second: Wall_cyan_concrete_light_full
+  - first:
+      213: 3495317808049557528
+    second: Wallpaper_circle_stripes_blue_light_left_2
+  - first:
+      213: 1866378648151258105
+    second: Wallpaper_circle_stripes_blue_light_left_1
+  - first:
+      213: -5961592513731671908
+    second: Wallpaper_circle_stripes_blue_light_right_1
+  - first:
+      213: 2686367344577284023
+    second: Wallpaper_circle_stripes_blue_light_right_2
+  - first:
+      213: -2671722191761557660
+    second: Wallpaper_circle_stripes_blue_light_full
+  - first:
+      213: 1697392124254670788
+    second: Electronics_console
+  - first:
+      213: -3644167196908958077
+    second: Electronics_keyboard
+  - first:
+      213: 1940311680552347958
+    second: Electronics_crt_display
+  - first:
+      213: 5184746320364596894
+    second: Electronics_tv
+  - first:
+      213: 6873000163994972862
+    second: Wood_panel_plain_shadow_left
+  - first:
+      213: -8036578743778602842
+    second: Lamp_ceiling_bulb
+  - first:
+      213: -6023712137186825426
+    second: Lamp_cord
+  - first:
+      213: 8997115684187600640
+    second: Lamp_ceiling_double
+  - first:
+      213: 1149424377169202444
+    second: Lamp_floor_1
+  - first:
+      213: 4317707498224993527
+    second: Window_basement
+  - first:
+      213: -945145788705551322
+    second: Plant_cactus_small
+  - first:
+      213: 1514457523572838101
+    second: Electronics_coffee_maker
+  - first:
+      213: 7894416900816530927
+    second: Plant_2
+  - first:
+      213: -9166306914261100991
+    second: WallPaper_diagonal_squares
+  - first:
+      213: -7962871404569539049
+    second: WallPaper_diagonal_squares_left_shadow
+  - first:
+      213: -4050932853002276400
+    second: WallPaper_diagonal_squares_top_left_shadow
+  - first:
+      213: 5890912148885176245
+    second: WallPaper_diagonal_squares_top_shadow
+  - first:
+      213: 8809747731840774054
+    second: WallPaper_red_pattern
+  - first:
+      213: 5617679768073042565
+    second: WallPaper_red_pattern_left_shadow
+  - first:
+      213: -1762230525283243496
+    second: WallPaper_red_pattern_top_shadow
+  - first:
+      213: -6536766103103957558
+    second: WallPaper_red_pattern_top_left_shadow
+  - first:
+      213: -2185599183333415556
+    second: Wood_panel_white_20px_shadow_left
+  - first:
+      213: -1753775162444325644
+    second: Coat_rack
+  - first:
+      213: -1757543216919547775
+    second: Window_white_frame
+  - first:
+      213: 5009711618282877099
+    second: Floor_cyan_carpet
+  - first:
+      213: -1433195436597207448
+    second: Concrete_molding_low_tile
+  - first:
+      213: 1860131699533424700
+    second: Concrete_molding_vertical
+  - first:
+      213: 6388985100830042306
+    second: Carage_door
+  - first:
+      213: 6331718390507614428
+    second: WoodBeam_vertical_bottom
+  - first:
+      213: 3328177444911364087
+    second: WoodBeam_vertical_top
+  - first:
+      213: -2168506760693172892
+    second: WoodBeam_vertical_middle
+  - first:
+      213: 7592386589147020795
+    second: WoodBeam_support_left
+  - first:
+      213: 2228741151296776386
+    second: WoodBeam_support_right
+  - first:
+      213: 1520013764552388351
+    second: Wall_brick_red
+  - first:
+      213: 7328128363416258404
+    second: Wall_brick_red_top_shadow
+  - first:
+      213: -5638769176941109321
+    second: Wall_brick_red_top_left_shadow
+  - first:
+      213: 8217508707868551964
+    second: Wall_brick_red_left_shadow
+  - first:
+      213: 3739309409375274780
+    second: WallPaper_green_yellow_stripes
+  - first:
+      213: -1318279401111497841
+    second: WallPaper_green_yellow_stripes_left_shadow
+  - first:
+      213: 2768279259495672143
+    second: WallPaper_green_yellow_stripes_top_left_shadow
+  - first:
+      213: 6375239556513497025
+    second: WallPaper_green_yellow_stripes_top_shadow
+  - first:
+      213: 1840696036118032012
+    second: WallPaper_zigzag
+  - first:
+      213: 2517578307319786825
+    second: WallPaper_zigzag_top_shadow
+  - first:
+      213: 366043647957899000
+    second: WallPaper_zigzag_top_left_shadow
+  - first:
+      213: 5251644831683143285
+    second: WallPaper_zigzag_left_shadow
+  - first:
+      213: -6465573802180468866
+    second: Electronics_speaker
+  - first:
+      213: 1951630871264237879
+    second: ArmChair_yellow
+  - first:
+      213: -3738184351685314655
+    second: TV_desk
+  - first:
+      213: 4578704727952463577
+    second: Mirror_black_frame
+  - first:
+      213: -4891728112951941634
+    second: Poster_exterminator
+  - first:
+      213: 6459219437100808835
+    second: Electronics_casette_player
+  - first:
+      213: 5825948080405704607
+    second: Bed_single
+  - first:
+      213: 338115822773301564
+    second: Poster_hang
+  - first:
+      213: 5249881127549648332
+    second: Electronics_radio_yellow
+  - first:
+      213: 3091681347479328298
+    second: DesktopLamp_bankers
+  - first:
+      213: 2804968355760249059
+    second: Desk
+  - first:
+      213: 2991707771965080721
+    second: ToolBox_red
+  - first:
+      213: -211067311102274897
+    second: PaintBucket_small_green_label
+  - first:
+      213: -4474636103283960433
+    second: Shelf_open_big_top
+  - first:
+      213: 1836451748478279778
+    second: PaintBucket_small_cyan_white_label
+  - first:
+      213: 1560023742387035588
+    second: PaintBucket_small_cyan_label
+  - first:
+      213: -6481717167512666377
+    second: PaintBucket_small_red_label
+  - first:
+      213: 1695459217364574759
+    second: PaintBucket_big_green
+  - first:
+      213: -4689886675041687352
+    second: PaintBucket_big_red
+  - first:
+      213: 2256581408391027167
+    second: Shelf_open_big_left
+  - first:
+      213: 4389155360647844426
+    second: Shelf_open_big_right
+  - first:
+      213: -2940122198746887682
+    second: Shelf_open_big_center
+  - first:
+      213: -4722861223450066596
+    second: Calendar
+  - first:
+      213: -2689018613486341682
+    second: Drawer_red_on_wheels
+  - first:
+      213: -5971075592286002134
+    second: Safe_old
+  - first:
+      213: -7320710002423778519
+    second: Office_chair_boss
+  - first:
+      213: -9129118128700861031
+    second: Office_chair_basic_cyan
+  - first:
+      213: 4373109957662238773
+    second: WaterBoiler
+  - first:
+      213: 2686367344577284023
+    second: Pipe_copper_vertical
+  - first:
+      213: 3644176893267316000
+    second: Pipe_copper_top_left
+  - first:
+      213: 885980043348215270
+    second: Pipe_copper_top_right
+  - first:
+      213: -3026483685842703321
+    second: Pipe_copper_bottom_left
+  - first:
+      213: -2954435047629490789
+    second: Pipe_copper_bottom_right
+  - first:
+      213: -3837524938578732193
+    second: Pipe_copper_connection_down
+  - first:
+      213: 3445296522466186085
+    second: Pipe_copper_connection_up
+  - first:
+      213: -4259033973312504486
+    second: Pipe_copper_connection_left
+  - first:
+      213: -6450282024158144832
+    second: Pipe_copper_connection_right
+  - first:
+      213: 5591257904986658482
+    second: Pipe_copper_horizontal_meter
+  - first:
+      213: 7772700893996732329
+    second: Pipe_copper_horizontal_valve
+  - first:
+      213: -2699002967578500132
+    second: Pipe_copper_horizontal
+  - first:
+      213: -5004041479650475267
+    second: Pipe_copper_vertical_meter
+  - first:
+      213: -810218097561821979
+    second: InteriorSpriteSheet_13
+  - first:
+      213: 9103973661847681279
+    second: Pipe_copper_vertical_valve
+  - first:
+      213: 8641894353057975350
+    second: Pipe_big_horizontal
+  - first:
+      213: 8641894353057975350
+    second: Pipe_big_vertical
+  - first:
+      213: 6413280129804353233
+    second: Pipe_big_vertical_connection
+  - first:
+      213: -1102897552940815373
+    second: Pipe_big_horizontal_connection
+  - first:
+      213: -564055604610505009
+    second: Pipe_big_top_right
+  - first:
+      213: 655938347269890540
+    second: Pipe_big_top_left
+  - first:
+      213: 5985410043867351138
+    second: Pipe_big_bottom_left
+  - first:
+      213: -6741625059936654675
+    second: Pipe_big_bottom_right
+  - first:
+      213: 9170700648283165459
+    second: FurnaceBasement
+  - first:
+      213: 3884106429003992098
+    second: Furnace_fire_1
+  - first:
+      213: -8003008378038956292
+    second: Furnace_fire_2
+  - first:
+      213: 7452068025831552052
+    second: Furnace_fire_3
+  - first:
+      213: -8834652277628777822
+    second: Pipe_big_vertical_thick
+  - first:
+      213: -2464910411698225868
+    second: Pipe_big_horizontal_thick
+  - first:
+      213: 6464861048638317003
+    second: Pipe_big_connection_right
+  - first:
+      213: 8728705126794312546
+    second: Pipe_big_connection_up
+  - first:
+      213: 5963917859669675222
+    second: Pipe_big_connection_left
+  - first:
+      213: 4941229782850180827
+    second: Pipe_big_connection_down
+  - first:
+      213: 710497355705543356
+    second: Tires_set_of_4
+  - first:
+      213: 2686367344577284023
+    second: Car_green
+  - first:
+      213: 8038955458421636623
+    second: Tools_shelf
+  - first:
+      213: -3901614142902349940
+    second: Bottle_1
+  - first:
+      213: 3650119651995200057
+    second: Jerry_can
+  - first:
+      213: 7054854037272283639
+    second: Bottle_wine_standing
+  - first:
+      213: -3613948417604495051
+    second: Bottle_wine_standing_half
+  - first:
+      213: -492796649178692913
+    second: Bottle_wine_front
+  - first:
+      213: -5575468944990029504
+    second: Shelf_wine
+  - first:
+      213: -8064411482835056307
+    second: Barrel
+  - first:
+      213: -1938559707946175465
+    second: Wall_dark_grey_concrete_shadow_left
+  - first:
+      213: 629039016483159054
+    second: Wall_dark_grey_concrete_shadow_top_left
+  - first:
+      213: 5667035249594401945
+    second: Pillar_concrete_1
+  - first:
+      213: -6125416373710256375
+    second: Pillar_concrete_2
+  - first:
+      213: 339657060451317128
+    second: Pillar_concrete_3
+  - first:
+      213: -1044969400472468699
+    second: Wall_cyan_concrete_plain_shadow_left
+  - first:
+      213: -2142488511114650119
+    second: Wall_cyan_concrete_base_shadow_left
+  - first:
+      213: 4586295591586097717
+    second: WallCoatRack_left
+  - first:
+      213: -3534171709053958290
+    second: WallCoatRack_center
+  - first:
+      213: 6682276833652342183
+    second: WallCoatRack_right
+  - first:
+      213: -1301066665219632716
+    second: Bottle_2
+  - first:
+      213: -4385041043024908382
+    second: TowelRack
+  - first:
+      213: 5686324065413242220
+    second: LaundryBasket
+  - first:
+      213: -4061998530639877094
+    second: ArcadeMachine
+  - first:
+      213: 772918955617307779
+    second: Dumbbell rack
+  - first:
+      213: 2463792675340368681
+    second: Weights_big
+  - first:
+      213: 2686367344577284023
+    second: Weights_small
+  - first:
+      213: 4734739017828740442
+    second: Boxing_bag
+  - first:
+      213: 1176926860359698332
+    second: Chain_tiny
+  - first:
+      213: -4663727604227091892
+    second: MonkeyBars_left
+  - first:
+      213: 3316497759042464258
+    second: MonkeyBars_center
+  - first:
+      213: -1467183487465230874
+    second: MonkeyBars_right
+  - first:
+      213: -4139464973298861033
+    second: MonkeyBars_top
+  - first:
+      213: -2949045167690019238
+    second: Wall_plain_board
+  - first:
+      213: 7248231135067132379
+    second: Table_dining_room_left
+  - first:
+      213: 4511430065209743298
+    second: Table_dining_room_right
+  - first:
+      213: 8870503808407676713
+    second: Table_dining_room_center
+  - first:
+      213: 7289950747302970898
+    second: Chair_dining_room_front
+  - first:
+      213: -2739137652117452307
+    second: Chair_dining_room_side
+  - first:
+      213: 3537779963370325358
+    second: Lamp_ceiling_triple
+  - first:
+      213: -1723073918169710583
+    second: WallPaper_blue_cross_top_left_shadow
+  - first:
+      213: 7601252244081441920
+    second: WallPaper_blue_cross_top_shadow
+  - first:
+      213: 1769356199407759735
+    second: WallPaper_blue_cross_left_shadow
+  - first:
+      213: -4808701567014349927
+    second: WallPaper_blue_cross
+  - first:
+      213: 7406810369379933714
+    second: WallPaper_diagonal_grey_top_left_shadow
+  - first:
+      213: -6821145666603214709
+    second: WallPaper_diagonal_grey_top_shadow
+  - first:
+      213: -3368147515629666161
+    second: WallPaper_diagonal_grey_left_shadow
+  - first:
+      213: -4513966962101299094
+    second: WallPaper_diagonal_grey
+  - first:
+      213: 3406377258040304065
+    second: PaperPile
+  - first:
+      213: 2367815691092331379
+    second: LaundryPile
+  - first:
+      213: 2742649739133586986
+    second: Painting_scenery
+  - first:
+      213: -3845285002885464547
+    second: BookShelf_wood
+  - first:
+      213: -3316287003479444606
+    second: Cabinet_vitrine
+  - first:
+      213: 6040297987273658278
+    second: Diploma_1
+  - first:
+      213: 2212033553632398024
+    second: Diploma_2
+  - first:
+      213: -1975024261989062264
+    second: SideTable_white
+  - first:
+      213: -2998355169996594576
+    second: Desk_white
+  - first:
+      213: -6398609153088646257
+    second: Plant_cactus_2
+  - first:
+      213: 1661396466427497849
+    second: Drawer_white
+  - first:
+      213: 7724556665021380774
+    second: Door_out_red_open_2
+  - first:
+      213: 2992860062838380461
+    second: Door_out_red_open_1
+  - first:
+      213: 763332647527399206
+    second: GrandFatherClock
+  - first:
+      213: -5935040962050378245
+    second: GrandFatherClock_anim_3
+  - first:
+      213: 437367771882536704
+    second: GrandFatherClock_anim_2
+  - first:
+      213: 5340225930134341429
+    second: GrandFatherClock_anim_1
+  - first:
+      213: -2266189018488642233
+    second: Crate_wood_1
+  - first:
+      213: -9007653162042026866
+    second: Crate_wood_2
+  - first:
+      213: -2688048569233517514
+    second: Trunk_old
+  - first:
+      213: -8695458698204052806
+    second: Cardboard_box_2
+  - first:
+      213: 1683170958112491237
+    second: Cardboard_box_1
+  - first:
+      213: -4426696633116404723
+    second: Towel_dryer
+  - first:
+      213: -8193235803352726892
+    second: BookShelf_white
+  - first:
+      213: 3854098096736250956
+    second: Lamp_ceiling_bulk
+  - first:
+      213: 2785662356775167023
+    second: JarOfPencils
+  - first:
+      213: 6155418177699475600
+    second: Couch_yellow
+  - first:
+      213: -3851947017807509107
+    second: SideTable_wood
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: WallPaper_blue_stripes
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4aca051bd5f4e04c93bc31f76983c08
+      internalID: 6627097625049128375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallPaper_blue_stripes_top_left_shadow
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 16
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b56fede57e541e4a92efca7448d51ba
+      internalID: 5687529129017613365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallPaper_blue_stripes_top_shadow
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 16
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b7a2b51cc9271746ab21fffd8fb3630
+      internalID: -5560490389483045612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallPaper_blue_stripes_left_shadow
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 0
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 792dc065c13afe644b5890bc93b93d8b
+      internalID: 661865935296556293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallPaper_red_stripes_top_left_shadow
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 16
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2644a4991e3a654baf9ce901408c43c
+      internalID: 1285818139904061142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallPaper_red_stripes
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15655028ce089cd4d947b91439824d0a
+      internalID: 6052220381770867086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallPaper_red_stripes_top_shadow
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 16
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da20494fa5870404c808be4019856089
+      internalID: 1972576475966492111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallPaper_red_stripes_left_shadow
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 0
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a835f6c471a7e3b4db57abc868421063
+      internalID: -9073783769346491634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor_Green_Carpet
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a022bcc75c2aa774fbdab2d795131a57
+      internalID: 6714403555217905352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor_grey_tile
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 32
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5aad08bc3f7699d429d4d64e5422113f
+      internalID: -2565050999278466414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor_Red_Carpet
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 32
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d648804eb03deee4e8f90a9419bafbea
+      internalID: 5530031445715524083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DryWall
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 32
+        width: 8
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fe3b678f19f92142a877fa23ed10db8
+      internalID: -6844983985240380595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DoorFrame
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 32
+        width: 8
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c4c5cc17210dae4a930244f2129c028
+      internalID: 3088906598942417258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DoorFrame_shadow_top
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 32
+        width: 8
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbaf79cf5a80a6346be0b0f873f1f9a9
+      internalID: -5954177105263467811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor_hardwood
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 32
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ee50433262585d4dad7d8ee1bf0d366
+      internalID: -3302128123894471348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Couch_red
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 48
+        width: 48
+        height: 24
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff1fce7635cb8844095eeb8cdc83d105
+      internalID: 8791242849331764477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArmChair_red
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 48
+        width: 26
+        height: 24
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c3e8475128e8f04d84ca4b10a37afd4
+      internalID: 2599475703774296927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ToiletSink
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 176
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a49415bf4dad4c044b6a82a469334d08
+      internalID: 2301694943621870198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ToiletSeat
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 236
+        width: 12
+        height: 20
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e45ad40b227eb544c8aea23d2617931a
+      internalID: 758450104828294560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drawer_brown_small
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 236
+        width: 16
+        height: 20
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a97e305ae3c7a54dbafcaeec5ee5294
+      internalID: 6345280391769145228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drawer_brown_big
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 236
+        width: 24
+        height: 20
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3104f95bd1eb8d8429f21c1385369ac1
+      internalID: 2038743232884704025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WashingMachine
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 236
+        width: 20
+        height: 20
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ac0b86680b255d4aae9d3fe06e73414
+      internalID: 316186749420508932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fridge
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 208
+        width: 20
+        height: 38
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69caccf042983f248ae91921a0a1e155
+      internalID: 3355498879508141452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kitchen_brown_drawer
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 0
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15f8368473316e1468853127d2d2dbfb
+      internalID: -564312820729470203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kitchen_brown_cabinet_right
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 0
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7f9bbc465785fd42a3f4db4b4a7996f
+      internalID: -6892907587067004262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kitchen_brown_cabinet_left
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 0
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a1c1acd1cdb4944ab49b4d25b0852c0
+      internalID: -8047755157269149268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kitchen_brown_under_sink
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 0
+        width: 32
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16db1fcd005e4e648b8110d86c0bb26b
+      internalID: -1189426272862458335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kitchen_sink
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 16
+        width: 20
+        height: 6
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68d9b1ed76d546c4e9adb70633363e3f
+      internalID: 7904304704970160726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Table_small_night_stand
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 176
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8c625e7b0c6f754ba88b23becd1219f
+      internalID: 9144152157069387488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lamp_table_top
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 176
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f433a6b851863204a903b1a30a7f9679
+      internalID: -2341534315704906572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Books_pile
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 176
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0bff1fc26086394991f876e28f7a48f
+      internalID: -5982168200081706984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Painting_ship
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 20
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ff671bc3d63af547b35fe9a294aa969
+      internalID: -7492545249133584314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clock_alarm
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 248
+        width: 8
+        height: 8
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ae2b2dbd8c514e41af8aef5fa9d96bc
+      internalID: -5898584396416161806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bed_double
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 80
+        width: 40
+        height: 32
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dea2b5409911f1545bc6bbfeb1d21b6f
+      internalID: -1700947990531358221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DoorFrame_top
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 72
+        width: 8
+        height: 8
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e581623f1f914734793d7b8df2222667
+      internalID: 4324556760187275587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shower_curtain
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 144
+        width: 24
+        height: 32
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a22403be91f81b49a66831420169b38
+      internalID: 2483635851816316159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shower_side
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 144
+        width: 20
+        height: 32
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea75da6a0c590ca4eb12a403a77e6edb
+      internalID: -1719465154972531509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trash_can_small_red
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 32
+        width: 8
+        height: 8
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddc832debc2665f4daa4ca8cb6b8fb3d
+      internalID: -3108428858645700405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MirrorCabin
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 236
+        width: 16
+        height: 20
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b93419607ed2ef45abbac2c262afb60
+      internalID: 414504797586055539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles_grey_white_base
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 112
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 154212f700ab7ba47a95ff15435b1a2b
+      internalID: 7484191672846154530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles_grey_white_shadow_left
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 112
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f12f8702b3fa2c44b80561f9e0ab83c
+      internalID: 1183336134876246836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles_cyan_white_base
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 112
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d586cfa31af06f4fb6aa2fb09d24156
+      internalID: -3974132906557968727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles_cyan_white_shadow_left
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 112
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9681c822b7132ab4592c2cf353902d15
+      internalID: 694662719587178802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles_blue_cyan_base
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 112
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 059f9b0bfd3bf1445b708c4a3300f7c6
+      internalID: 2559253633255338941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles_blue_cyan_shadow_left
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 112
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 975d5101b0c4a0045a8641f0893fbc9e
+      internalID: 7079565841625573371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles_blue_cyan_shadow_top_left
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b817e2f56c5d6c4cb458171a5f77a1e
+      internalID: 7322324250994162454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles_blue_cyan_shadow_top
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 128
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31b3b0f907e7ba742939673921868a79
+      internalID: -8561433110403140356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles_cyan_white_shadow_top_left
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 128
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f364589aa6e32146b3c3142b53ab363
+      internalID: 9064650063183672069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles_cyan_white_shadow_top
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 128
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45813e0e073909d41b476677dd87e388
+      internalID: -8313618543986298051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles_grey_white_shadow_top_left
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 128
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 241acad0ba745f241a5129fdbdbc362c
+      internalID: 3259057321649616969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles_grey_white_shadow_top
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 128
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb54b970388a64a4e87a9ac2fa53385b
+      internalID: -3916117353331926817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallPaper_diagonal_yellow_squares
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 0
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cf7ead2d0825b042b38c2eef9ffe473
+      internalID: -6731472651100604760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallPaper_diagonal_yellow_squares_left_shadow
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f17b8058d6e605c4caaec32d56dcb5ed
+      internalID: 8691307818895935831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallPaper_diagonal_yellow_squares_top_left_shadow
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 16
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36a2c298666d32e44830e3544bc18045
+      internalID: -6493768284581722517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallPaper_diagonal_yellow_squares_top_shadow
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 16
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b0d9a50d8ad3094c8be7b7fc48a7c05
+      internalID: 4351406121531144054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kitchen_brown_tall_cabinet_left
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 0
+        width: 16
+        height: 60
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3919fa1cac05074eb6032041b402ede
+      internalID: -820483498594979720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kitchen_brown_cooker_hood
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 0
+        width: 16
+        height: 24
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49a2e65bbddeeab4e917b979684017df
+      internalID: 5511122020117248205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kitchen_brown_microwave
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 16
+        height: 24
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e7605259362cc14fa6eff4c8a0adacc
+      internalID: 5671782501023938316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kitchen_brown_wall_cabinet_left
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 0
+        width: 16
+        height: 24
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f6b4f954138a0a4abd0cfc5a2dcd640
+      internalID: 3829657470134538938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kitchen_brown_wall_cabinet_right
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 0
+        width: 16
+        height: 24
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 968dd39003e31db4cb8207a9e3afc65d
+      internalID: 4929938540385989477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kitchen_brown_cabinet_left_end
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 0
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a01f5c4bd11b1a4fa276941d8ca6f1f
+      internalID: 7745400511936353242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kitchen_brown_wall_cabinet_left_end
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 16
+        width: 16
+        height: 24
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc56d51346025444eb0b4c5add0a651d
+      internalID: 2686367344577284023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kitchen_top_molding_left_end
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 24
+        width: 4
+        height: 4
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecb24af0822fad4429996f788219910d
+      internalID: -7493432402954040805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kitchen_top_molding_right_end
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 24
+        width: 4
+        height: 4
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f7e20f41ff082d41b727e4938970937
+      internalID: -4836399466225850286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kitchen_counter_grey_left_end
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 20
+        width: 4
+        height: 4
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9a04d2bfb871ff46b0d07a776041287
+      internalID: -1753775215269787046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kitchen_counter_grey_right_end
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 20
+        width: 4
+        height: 4
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee11d94952147bb4e85971aa00b1e735
+      internalID: -2757035493954744620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kitchen_counter_grey
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 16
+        width: 16
+        height: 4
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29e88c2a78cb42a4e9bf21f02b62f8c7
+      internalID: 355011566728671798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clock_analog
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 176
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9d8dacd72b5355478b992ef0d925497
+      internalID: 542896008182529990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Door_to_down_stairs
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 160
+        width: 32
+        height: 44
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59678b80a3ef31541abc95e6fba2d9de
+      internalID: 335688022340012451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oven
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6475b44d981e7a41bb56d129f57cd91
+      internalID: 6821846524472554382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plant_1
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 236
+        width: 16
+        height: 20
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dac7ccac1f7d5d0429bd5e67573f8de1
+      internalID: 8384105561139205739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExteriorWall_red_brick
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 208
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 230b1370eae6f2c4c8515018b2f346a7
+      internalID: -2341602338155945000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall_dark_grey_concrete_damaged_1
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 64
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fbcf858a2d075b478981ce92174a760
+      internalID: -721843280959241211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall_dark_grey_concrete_shadow_top
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 48
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 194aba44e719d9347a59692a30214907
+      internalID: 144597272637664224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall_cyan_concrete_damaged_2
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 32
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c8b55ac99cf5664eabf132cf712fda2
+      internalID: -133933724093161535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall_cyan_concrete_damaged_1
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 16
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3636db97de3afbe418bcee4aed46f1e0
+      internalID: 9208379829253560930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall_cyan_concrete_base
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 0
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57153f8bdeb59ae40bd4157fd7fc30eb
+      internalID: 349213117290329347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Door_out_red_closed
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 64
+        width: 32
+        height: 44
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fd2a04fa5ce75245ad24d49a45ba12d
+      internalID: -2037629866484571378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Door_to_upstairs
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 112
+        width: 32
+        height: 44
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61346d744d12e9b43961b423df1a1776
+      internalID: 5318004158784346868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wallpaper_circle_stripes_blue
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 0
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0021e90c1b2e0504baa6263e327a33aa
+      internalID: -2041733254617531125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wallpaper_circle_stripes_blue_shadow_left
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9545f44e12548d844bfe33ecc17943c7
+      internalID: 2761250295871795566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wallpaper_circle_stripes_blue_shadow_top
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 16
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca63ca9ab5cddaa4c906680a886dd6ea
+      internalID: 7987370324481939656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wallpaper_circle_stripes_blue_shadow_top_left
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 16
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5697e242587f7643a36cd7bb997f667
+      internalID: 7429939003306667649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall_cyan_concrete_damaged_3
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 16
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee33208c2bdd0f94aa7890a4d440f014
+      internalID: -50016179755682510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall_dark_grey_concrete_damaged_2
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 64
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cc663efeef5ebc47a55f3650464ef49
+      internalID: -7546324185213861844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wood_panel_plain
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 80
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd69a5ef21fc0d84dbb1bd585c70493a
+      internalID: 6639200418545440628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wood_panel_white_20px
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 96
+        width: 16
+        height: 20
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a2c23d379cb38843a8127f7b0711700
+      internalID: -2641444767669303683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ConcreteFloorGround
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 80
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6db227041668c6f46a43a1f5434f9f73
+      internalID: -5264364383857513691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lamp_ceiling_flourescent
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 176
+        width: 32
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88b165cdfded4dd459290e486ad9c40c
+      internalID: 588860894763335855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wallpaper_circle_stripes_blue_light_left_2
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 245ce34e7269a5240a828033e9a5c099
+      internalID: 3495317808049557528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wallpaper_circle_stripes_blue_light_left_1
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 16
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5a3be981be226740b2d790651606f8a
+      internalID: 1866378648151258105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wallpaper_circle_stripes_blue_light_right_1
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 16
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f9816f85bfe3fe4a990bd82c39c4f5c
+      internalID: -5961592513731671908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wallpaper_circle_stripes_blue_light_right_2
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 0
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af2a9ca79ddc3c844b438916f1608227
+      internalID: -2959927339229204682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wallpaper_circle_stripes_blue_light_full
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 32
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ea81bbda84bbf84c979535ffc4d1beb
+      internalID: -2671722191761557660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electronics_console
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 72
+        width: 12
+        height: 8
+      alignment: 9
+      pivot: {x: 0.16666667, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e5aed8e1318b4e4396b2d965e2ad6dc
+      internalID: 1697392124254670788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electronics_keyboard
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 72
+        width: 12
+        height: 8
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 087899d02978b9d4fb5a0c5fa362560e
+      internalID: -3644167196908958077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electronics_crt_display
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 176
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 552b3da96d864bc4fb4557f103f9f894
+      internalID: 1940311680552347958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electronics_tv
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 192
+        width: 20
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb1e2eef8a7d59946b022fd8a79f236f
+      internalID: 5184746320364596894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wood_panel_plain_shadow_left
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 80
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aee84c4fbd56ed141aa93e243eaa4109
+      internalID: 6873000163994972862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lamp_ceiling_bulb
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 176
+        width: 12
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66dcc515efaafef41be632f0ff6343ff
+      internalID: -8036578743778602842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lamp_cord
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 176
+        width: 4
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bd834c2ea476714796a8c714e4fd1b5
+      internalID: -6023712137186825426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lamp_ceiling_double
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 176
+        width: 24
+        height: 16
+      alignment: 9
+      pivot: {x: 0.083333336, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01a8f1f61fa291d4bba8717bfe01c91e
+      internalID: 8997115684187600640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lamp_floor_1
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 192
+        width: 12
+        height: 32
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b71891a9d5c2ef4cbd5d4da0ee26e83
+      internalID: 1149424377169202444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Window_basement
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 48
+        width: 32
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ea0216a7f7e2324b938323a36b0e2e3
+      internalID: 4317707498224993527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plant_cactus_small
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 80
+        width: 8
+        height: 12
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 588a3b6fc2019a442b069386d68f70c2
+      internalID: -945145788705551322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electronics_coffee_maker
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 176
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02bdb1875434e9447ba6117876978c01
+      internalID: 1514457523572838101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plant_2
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 192
+        width: 16
+        height: 32
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1b9285fb5799ef48b6f40225c0344f4
+      internalID: 7894416900816530927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallPaper_diagonal_squares
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 32
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e243fb8cc690f645a269c8be61b71ca
+      internalID: -9166306914261100991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallPaper_diagonal_squares_left_shadow
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 32
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 859c1724d848ef5479c875562236dd80
+      internalID: -7962871404569539049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallPaper_diagonal_squares_top_left_shadow
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 48
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37846729d951ebc438c6d5be999c2e44
+      internalID: -4050932853002276400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallPaper_diagonal_squares_top_shadow
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 48
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4a7d82f3e3afde4e9a0e301c6820349
+      internalID: 5890912148885176245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallPaper_red_pattern
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 64
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5019bc6e3d35d94bb6237be883e5a53
+      internalID: 8809747731840774054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallPaper_red_pattern_left_shadow
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 64
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71fbeb561dadd1440ae1e6326aa6666e
+      internalID: 5617679768073042565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallPaper_red_pattern_top_shadow
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 80
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80435d1f1410b6e4c818f355f6f6cb98
+      internalID: -1762230525283243496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallPaper_red_pattern_top_left_shadow
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 80
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48bda14b628163f48b75950861e49007
+      internalID: -6536766103103957558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wood_panel_white_20px_shadow_left
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 96
+        width: 16
+        height: 20
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea40957d2faf8bb4b9572b6f90cf38b2
+      internalID: -2185599183333415556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coat_rack
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 192
+        width: 16
+        height: 32
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5583f6121bdfbc547bd787ad98c74f50
+      internalID: -1753775162444325644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Window_white_frame
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 16
+        width: 24
+        height: 32
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10ac51236a60b8043b1dcdb84f46f022
+      internalID: -1757543216919547775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor_cyan_carpet
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 48
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11d24e9095ac8e84aba1b0469ca4eb4b
+      internalID: 5009711618282877099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Concrete_molding_low_tile
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 208
+        width: 16
+        height: 8
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a3cbdb5cc05b5649935c0b14dbb80ac
+      internalID: -1433195436597207448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Concrete_molding_vertical
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 208
+        width: 8
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6c7dc77b860a57408609c5d3eb4301a
+      internalID: 1860131699533424700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carage_door
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 208
+        width: 8
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db03d2e1245a01f42a09833179790109
+      internalID: 6388985100830042306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WoodBeam_vertical_bottom
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 144
+        width: 8
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c52fd94e4ec076a4683d980ea020a229
+      internalID: 6331718390507614428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WoodBeam_vertical_top
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 144
+        width: 8
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f15a1e35ba0b7f4ebf1138a24c9b6da
+      internalID: 3328177444911364087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WoodBeam_vertical_middle
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 144
+        width: 8
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d77ee388496b88a47a74141545e7defe
+      internalID: -2168506760693172892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WoodBeam_support_left
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 160
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91c48d1c4c5059f419186239b8b53ebd
+      internalID: 7592386589147020795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WoodBeam_support_right
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 160
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01c2cd1041442a041b22122fc69cb70c
+      internalID: 2228741151296776386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall_brick_red
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 160
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e0032668fa4e964d82a6c56ad6ea37f
+      internalID: 1520013764552388351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall_brick_red_top_shadow
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 160
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 837ac51754a417b48bec9871ee4f84a2
+      internalID: 7328128363416258404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall_brick_red_top_left_shadow
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 144
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c79f6be42e0e334b99e2583632a1431
+      internalID: -5638769176941109321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall_brick_red_left_shadow
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 144
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a707745f1b0c26d41b4bd673bd95c225
+      internalID: 8217508707868551964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallPaper_green_yellow_stripes
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 96
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c28459b28e9ded645bbf67255ded09c8
+      internalID: 3739309409375274780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallPaper_green_yellow_stripes_left_shadow
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 96
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 315203e52d572eb4b95b3a1e0930673a
+      internalID: -1318279401111497841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallPaper_green_yellow_stripes_top_left_shadow
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 112
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72375800be8fd5646bf78ad8820a2fd5
+      internalID: 2768279259495672143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallPaper_green_yellow_stripes_top_shadow
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 112
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74d3485005ca8774086110405e391867
+      internalID: 6375239556513497025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallPaper_zigzag
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 96
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2860c47ad52ebeb4ab587c95c91bfcd4
+      internalID: 1840696036118032012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallPaper_zigzag_top_shadow
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 112
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3f5bebdfc59c51459479a76754f9610
+      internalID: 2517578307319786825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallPaper_zigzag_top_left_shadow
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f826918e9be3ea342bca98a07b9333a4
+      internalID: 366043647957899000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallPaper_zigzag_left_shadow
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 128
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96e652d1f5ca5ff4597a1fe255720ae9
+      internalID: 5251644831683143285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electronics_speaker
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 236
+        width: 16
+        height: 20
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcd620341e5e62b4a87c583223cb3d9a
+      internalID: -6465573802180468866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArmChair_yellow
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 64
+        width: 22
+        height: 24
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c7fc4ea5d49db542b8144251152d24e
+      internalID: 1951630871264237879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TV_desk
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 176
+        width: 40
+        height: 12
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d88a373340542f47bcad531d1ef783a
+      internalID: -3738184351685314655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mirror_black_frame
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 160
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a55049980ec5a044baa8d693a1b3e1d
+      internalID: 4578704727952463577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poster_exterminator
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 192
+        width: 16
+        height: 24
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da110ece8d0183c4ba095f0f8ab72b22
+      internalID: -4891728112951941634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electronics_casette_player
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 176
+        width: 16
+        height: 12
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8eebc94f71a9dea499ee43973e22f34f
+      internalID: 6459219437100808835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bed_single
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 92
+        width: 40
+        height: 20
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd0d4b6b9bf2e574bad4945ae10c6d1d
+      internalID: 5825948080405704607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poster_hang
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 192
+        width: 16
+        height: 24
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48bccf8453f21a440888e4d206b12e90
+      internalID: 338115822773301564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electronics_radio_yellow
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 176
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 504915d60b1a1e041bd8c1e22299af95
+      internalID: 5249881127549648332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DesktopLamp_bankers
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 160
+        width: 16
+        height: 12
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56a81f6db001af64998b29ea115782c0
+      internalID: 3091681347479328298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desk
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 160
+        width: 32
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5716ed4e53f22a4d8c5ae54fb50a4c9
+      internalID: 2804968355760249059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ToolBox_red
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 160
+        width: 16
+        height: 12
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd2a972ad26103843a0d123b823d7802
+      internalID: 2991707771965080721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PaintBucket_small_green_label
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 152
+        width: 8
+        height: 8
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 589a7750a67ccea47bdbf0b9f9592099
+      internalID: -211067311102274897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shelf_open_big_top
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 144
+        width: 8
+        height: 8
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c56049db1dd11e4e94197948b5c5901
+      internalID: -4474636103283960433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PaintBucket_small_cyan_white_label
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 144
+        width: 8
+        height: 8
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6de827882a09add4f83b8053d8485c55
+      internalID: 1836451748478279778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PaintBucket_small_cyan_label
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 144
+        width: 8
+        height: 8
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb5436c667ccd9d43912d24a2f4b626c
+      internalID: 1560023742387035588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PaintBucket_small_red_label
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 152
+        width: 8
+        height: 8
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 820c091af2cc67d4bb33e039924bfa53
+      internalID: -6481717167512666377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PaintBucket_big_green
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 144
+        width: 12
+        height: 12
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee28ad8bf54e8ac4eaac94d7f2f64e57
+      internalID: 1695459217364574759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PaintBucket_big_red
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 144
+        width: 12
+        height: 12
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ade2206c08f0d14e9348d251d6ac41f
+      internalID: -4689886675041687352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shelf_open_big_left
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 128
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90a9afedae1352043a26f1dd6d1490fe
+      internalID: 2256581408391027167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shelf_open_big_right
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 128
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cf0cbc6559721c4387bb702fa9f21fd
+      internalID: 4389155360647844426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shelf_open_big_center
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 136
+        width: 16
+        height: 8
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e06a7a288dc88a4d9af259366ef4896
+      internalID: -2940122198746887682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Calendar
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 192
+        width: 16
+        height: 24
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 387487944b0d7774498f38e4b9ecc95f
+      internalID: -4722861223450066596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drawer_red_on_wheels
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 236
+        width: 20
+        height: 20
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a55a9e78163f7b43a74b697259b170d
+      internalID: -2689018613486341682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Safe_old
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 236
+        width: 16
+        height: 20
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a46ab9db8d084d46a2406a635bcc578
+      internalID: -5971075592286002134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Office_chair_boss
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 192
+        width: 16
+        height: 24
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38d3499a61e067447b4d02dc45858aab
+      internalID: -7320710002423778519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Office_chair_basic_cyan
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 192
+        width: 16
+        height: 24
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63132d0c0d3e3ff439e22c5d882fb2dd
+      internalID: -9129118128700861031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterBoiler
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 208
+        width: 20
+        height: 40
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 584f55123b673c248bb6b98e08d2080f
+      internalID: 4373109957662238773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pipe_copper_vertical
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 248
+        width: 8
+        height: 8
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d70c4f0650f8ce47b7f9a59b09ec413
+      internalID: 2070675081682008545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pipe_copper_top_left
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 248
+        width: 8
+        height: 8
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8f22b3b6e351fd4aa021415346f10cd
+      internalID: 3644176893267316000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pipe_copper_top_right
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 248
+        width: 8
+        height: 8
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8b6a8cea86ba6b4f9f11481d119dd24
+      internalID: 885980043348215270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pipe_copper_bottom_left
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 248
+        width: 8
+        height: 8
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ccc4ba2d0c47fe468e26946bda2a5b9
+      internalID: -3026483685842703321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pipe_copper_bottom_right
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 248
+        width: 8
+        height: 8
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7c05cbb6c799d949a7542ee5244b105
+      internalID: -2954435047629490789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pipe_copper_connection_down
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 248
+        width: 8
+        height: 8
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca396e61e090c5c44ac5fc6408beaf8c
+      internalID: -3837524938578732193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pipe_copper_connection_up
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 248
+        width: 8
+        height: 8
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f2a8816988204b43b44d4e985367145
+      internalID: 3445296522466186085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pipe_copper_connection_left
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 248
+        width: 8
+        height: 8
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6cc7575f17a929418e500411cc5b301
+      internalID: -4259033973312504486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pipe_copper_connection_right
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 248
+        width: 8
+        height: 8
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35e2061c9c8754f4e9888abd26e633d3
+      internalID: -6450282024158144832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pipe_copper_horizontal_meter
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 248
+        width: 16
+        height: 8
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61cfa5cf6bd255443bdf1a30415564a1
+      internalID: 5591257904986658482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pipe_copper_horizontal_valve
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 248
+        width: 16
+        height: 8
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 077bdb05bb3719e42b8dc335f37a8c6f
+      internalID: 7772700893996732329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pipe_copper_horizontal
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 248
+        width: 8
+        height: 8
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 595c5a8540e50954e8bc85d031c08a8a
+      internalID: -2699002967578500132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pipe_copper_vertical_meter
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 224
+        width: 8
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a5647e683d449b4c85128cb8cf998f9
+      internalID: -5004041479650475267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InteriorSpriteSheet_13
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 248
+        width: 16
+        height: 8
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 189d8fb0132769a4a99b73ea7913c8e9
+      internalID: -810218097561821979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pipe_copper_vertical_valve
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 208
+        width: 8
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1009f9d158ee0ac458cafc489de0289b
+      internalID: 9103973661847681279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pipe_big_horizontal
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 224
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df74b3ff74f30c049bcfc70da5aef1f8
+      internalID: 8641894353057975350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pipe_big_vertical
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 208
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcda92be6fc4ed749aecd795ecf12382
+      internalID: 2835390676427568082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pipe_big_vertical_connection
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 192
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14e8eadc3246bfb4ca9db4fd565859de
+      internalID: 6413280129804353233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pipe_big_horizontal_connection
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 192
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67475a21766748543a14b19192a25efe
+      internalID: -1102897552940815373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pipe_big_top_right
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 224
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f6990edac88ad748a5bbf4943f2c11c
+      internalID: -564055604610505009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pipe_big_top_left
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 224
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 745aefc05a17f4a4882315239410c8de
+      internalID: 655938347269890540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pipe_big_bottom_left
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 208
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87ce25d91ec66b342b7750c1ab1b1835
+      internalID: 5985410043867351138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pipe_big_bottom_right
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 208
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d4ece4b22913bf49a84e7fe0c5c7b02
+      internalID: -6741625059936654675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FurnaceBasement
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 208
+        width: 24
+        height: 32
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 967c347b7d5307e4c8fb0d3ab093db3d
+      internalID: 9170700648283165459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Furnace_fire_1
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 248
+        width: 8
+        height: 8
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2167ca13f44e3e44e9b4909ece77085a
+      internalID: 3884106429003992098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Furnace_fire_2
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 248
+        width: 8
+        height: 8
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00618fa337c88bb468ec6a1ce88d47d2
+      internalID: -8003008378038956292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Furnace_fire_3
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 248
+        width: 8
+        height: 8
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 849f9692c5d94b24daf37753f7227313
+      internalID: 7452068025831552052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pipe_big_vertical_thick
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 176
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3aabe585f59d8d24587ad550709ed502
+      internalID: -8834652277628777822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pipe_big_horizontal_thick
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 160
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73e3d0df1c6c8e64e8ad0bc703dcb14a
+      internalID: -2464910411698225868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pipe_big_connection_right
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 192
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f718f65385e149242b0530c46fdf903e
+      internalID: 6464861048638317003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pipe_big_connection_up
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 192
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70f6cf94e4462b146a6302449204d007
+      internalID: 8728705126794312546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pipe_big_connection_left
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 192
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7bd0ca0365d0eb449e88f427b941fbb
+      internalID: 5963917859669675222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pipe_big_connection_down
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 192
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 459d0f160bc058d408bd23218b30cf23
+      internalID: 4941229782850180827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tires_set_of_4
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 176
+        width: 32
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1f62b4c531464541befceb083ad7d69
+      internalID: 710497355705543356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Car_green
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 144
+        width: 56
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c21ab4f4d34413499ebb00edff21838
+      internalID: 9169622270186003295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tools_shelf
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 236
+        width: 40
+        height: 20
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3b20ffdd768aec43a444c38d9976580
+      internalID: 8038955458421636623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bottle_1
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 160
+        width: 8
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9b38ee59050ff14a894a0f2954f45e2
+      internalID: -3901614142902349940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jerry_can
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 160
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d4826e2695184b478fa535e74d09422
+      internalID: 3650119651995200057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bottle_wine_standing
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 144
+        width: 8
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b74b84657879db49958a67206085616
+      internalID: 7054854037272283639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bottle_wine_standing_half
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 144
+        width: 8
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ae4803f152e9284085a710ed6cfeab8
+      internalID: -3613948417604495051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bottle_wine_front
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 224
+        width: 8
+        height: 8
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d5a37919bcabd94da178d836d2c514a
+      internalID: -492796649178692913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shelf_wine
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 192
+        width: 40
+        height: 48
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd1d6b8bb6523174abce84daa9eeb5f9
+      internalID: -5575468944990029504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barrel
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 208
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30be0806c699e7b448732246b66975b4
+      internalID: -8064411482835056307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall_dark_grey_concrete_shadow_left
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 48
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 943b11206631aef41bce068fd93c5e61
+      internalID: -1938559707946175465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall_dark_grey_concrete_shadow_top_left
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 48
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b30f8c2790e1a64c95f268c822fd909
+      internalID: 629039016483159054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pillar_concrete_1
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 192
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e2e62c73304414489ca6713ad8ec981
+      internalID: 5667035249594401945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pillar_concrete_2
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 208
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 889851122d5aed04db755077de70d473
+      internalID: -6125416373710256375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pillar_concrete_3
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 192
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 595a130b9586cc648b4c0b872122bdca
+      internalID: 339657060451317128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall_cyan_concrete_plain_shadow_left
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 32
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23f85552b2d648d4b9850ca43e36e818
+      internalID: -1044969400472468699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall_cyan_concrete_base_shadow_left
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e458978f00c1af4c86d9298a1d272ae
+      internalID: -2142488511114650119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallCoatRack_left
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 224
+        width: 16
+        height: 8
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c724d98a36b38a84a949013331c49e19
+      internalID: 4586295591586097717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallCoatRack_center
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 224
+        width: 16
+        height: 8
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ac3fb4ba0c000b4f94a8fb206bae400
+      internalID: -3534171709053958290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallCoatRack_right
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 224
+        width: 16
+        height: 8
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bfee20421e1cbe498dac5047bea43ba
+      internalID: 6682276833652342183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bottle_2
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 144
+        width: 8
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d65e4081a603c1147be7cee00cbc1787
+      internalID: -1301066665219632716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TowelRack
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 144
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc7a16b6a886be640962055f0d309a1b
+      internalID: -4385041043024908382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LaundryBasket
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 216
+        width: 16
+        height: 20
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45403e4d847be15409602d1236a642db
+      internalID: 5686324065413242220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArcadeMachine
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 48
+        width: 20
+        height: 40
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdda9103725b9854e92fa70b1c9d8d8c
+      internalID: -4061998530639877094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dumbbell rack
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 96
+        width: 32
+        height: 24
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8958c295494cd8448ace2ec622cdd701
+      internalID: 772918955617307779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weights_big
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 96
+        width: 24
+        height: 12
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03068de864828414c8afe0cfd6009130
+      internalID: 2463792675340368681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weights_small
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 108
+        width: 16
+        height: 12
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd86ccacc0daa3748b53f6fdee39de4a
+      internalID: 5401754770137975294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boxing_bag
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 96
+        width: 12
+        height: 32
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81cf45d7585ecfb4c9b7abf198ebf198
+      internalID: 4734739017828740442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chain_tiny
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 112
+        width: 4
+        height: 8
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3945b0da66b72f4ab3899a0ea34ad8f
+      internalID: 1176926860359698332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonkeyBars_left
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 224
+        width: 8
+        height: 8
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c93710837fdbeb44892578167bc8569
+      internalID: -4663727604227091892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonkeyBars_center
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 224
+        width: 16
+        height: 8
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa81a4201495d74448a4c9a3409a5f67
+      internalID: 3316497759042464258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonkeyBars_right
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 224
+        width: 8
+        height: 8
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b67a1b8646a00f42b39b0a639806f42
+      internalID: -1467183487465230874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonkeyBars_top
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 224
+        width: 8
+        height: 4
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fabd0e787b08b640a8e7b2fb249b6b6
+      internalID: -4139464973298861033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall_plain_board
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 144
+        width: 32
+        height: 32
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8360bc62d034cad4ca9d11b03bc1077b
+      internalID: -2949045167690019238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Table_dining_room_left
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 128
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05cfd98da51e82348a334bb646266534
+      internalID: 7248231135067132379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Table_dining_room_right
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 128
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6128151cadb5cd04b85df21115425ba6
+      internalID: 4511430065209743298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Table_dining_room_center
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 144
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1f6bedb1e902bc499fc52c770d54638
+      internalID: 8870503808407676713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chair_dining_room_front
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 120
+        width: 16
+        height: 24
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 086c06be33e8de14e9131cbe3d8ffc90
+      internalID: 7289950747302970898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chair_dining_room_side
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 120
+        width: 16
+        height: 24
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4b9aeab20414b944ab17e8c57610386
+      internalID: -2739137652117452307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lamp_ceiling_triple
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 144
+        width: 32
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0900f6f74c49f14b94fa12182722818
+      internalID: 3537779963370325358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallPaper_blue_cross_top_left_shadow
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 80
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8980778743fc2214c87429b955bbf07c
+      internalID: -1723073918169710583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallPaper_blue_cross_top_shadow
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 80
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a52745351a7614f4687caffded7ec7b4
+      internalID: 7601252244081441920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallPaper_blue_cross_left_shadow
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 64
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94a8943bac1a4f842bdb5a25f5072e3c
+      internalID: 1769356199407759735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallPaper_blue_cross
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 64
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fedc07796a3164438e52ebe80108d5f
+      internalID: -4808701567014349927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallPaper_diagonal_grey_top_left_shadow
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 64
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14b82d25265167b4281fd839d9879dc7
+      internalID: 7406810369379933714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallPaper_diagonal_grey_top_shadow
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 64
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b96200739c8810f47838a64efe162152
+      internalID: -6821145666603214709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallPaper_diagonal_grey_left_shadow
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 48
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f8c807a9736f5e4f85622ae61961ed1
+      internalID: -3368147515629666161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallPaper_diagonal_grey
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 32
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c80528657f2b6b94d87ca0fbd5a92fa2
+      internalID: -4513966962101299094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PaperPile
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 240
+        width: 16
+        height: 8
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c57ed61f73e95e48a034fb7ed0ab74d
+      internalID: 3406377258040304065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LaundryPile
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 240
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12f658a259350254b9b3aa5d01e94ba2
+      internalID: 2367815691092331379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Painting_scenery
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 176
+        width: 20
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea47f574dac310f4b8ff32d6faf58028
+      internalID: 2742649739133586986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BookShelf_wood
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 64
+        width: 20
+        height: 40
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ccbd0492766f7a49912cf5f1c55407f
+      internalID: -3845285002885464547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cabinet_vitrine
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 104
+        width: 20
+        height: 40
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d469f749f798c4f4aa145fbafc96db64
+      internalID: -3316287003479444606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diploma_1
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 224
+        width: 10
+        height: 12
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8b5d3d6dd582b24b96605a88133bccb
+      internalID: 6040297987273658278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diploma_2
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 224
+        width: 10
+        height: 12
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0406c61783a73104d8b59ea549c71b3f
+      internalID: 2212033553632398024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SideTable_white
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 220
+        width: 24
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ca87c16f0d0cb14dacfe773bf680d85
+      internalID: -1975024261989062264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desk_white
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 128
+        width: 28
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a02adae96098e724b8ca12e334c88fc9
+      internalID: -2998355169996594576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plant_cactus_2
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 80
+        width: 8
+        height: 12
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af318251c91bc9943afe446d1568385c
+      internalID: -6398609153088646257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drawer_white
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 216
+        width: 20
+        height: 20
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 005b5ad8b4be57148a35168ae496b8c6
+      internalID: 1661396466427497849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Door_out_red_open_2
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 64
+        width: 32
+        height: 44
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a46fed621970eb48ae5efaf21becee7
+      internalID: 7724556665021380774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Door_out_red_open_1
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 64
+        width: 32
+        height: 44
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a843ad7aed921824fbcb004167ea1679
+      internalID: 2992860062838380461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrandFatherClock
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 32
+        width: 16
+        height: 32
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51cec3d98a10fe3468913991d735d5ab
+      internalID: 763332647527399206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrandFatherClock_anim_3
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 88
+        width: 8
+        height: 12
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0edaa653def01a43b367a702da0616a
+      internalID: -5935040962050378245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrandFatherClock_anim_2
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 76
+        width: 8
+        height: 12
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e78d4e27e17391244984081e15b4899c
+      internalID: 437367771882536704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrandFatherClock_anim_1
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 64
+        width: 8
+        height: 12
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 376fd33053215a949ab3ee7fea5880d5
+      internalID: 5340225930134341429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crate_wood_1
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 32
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70cf3e1ebfb332c48add87573575f28d
+      internalID: -2266189018488642233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crate_wood_2
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 32
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4edffed0d00cceb4f8b42c01c2e9a350
+      internalID: -9007653162042026866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trunk_old
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 32
+        width: 24
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a243351b71e1f048b904882fc2aaf7a
+      internalID: -2688048569233517514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cardboard_box_2
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 48
+        width: 24
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d833ce9651b32254a9adef0bba2ad0ca
+      internalID: -8695458698204052806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cardboard_box_1
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 48
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 551d86d4c45ca1e4ba294ae7e42a7133
+      internalID: 1683170958112491237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Towel_dryer
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 40
+        width: 16
+        height: 24
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5310f684862e9c042be91f9629dbb487
+      internalID: -4426696633116404723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BookShelf_white
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 24
+        width: 20
+        height: 40
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 807bc7329f1fe62498cd7c7e58d950de
+      internalID: -8193235803352726892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lamp_ceiling_bulk
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 112
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da64f201112a6d64d9f0abe64577ad9f
+      internalID: 3854098096736250956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JarOfPencils
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 240
+        width: 8
+        height: 12
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecfd69e794e35ce4099d8944fe2a1f8c
+      internalID: 2785662356775167023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Couch_yellow
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 112
+        width: 36
+        height: 24
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22034b7268c94814c882f2d0185702d9
+      internalID: 6155418177699475600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SideTable_wood
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 208
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 219c093abfbb893459bf36e6c2d47ba4
+      internalID: -3851947017807509107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: e367cccce9b55374ab9b01050780bc90
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Wood_panel_plain: 6639200418545440628
+      Kitchen_brown_cabinet_right: -6892907587067004262
+      Poster_hang: 338115822773301564
+      WallPaper_red_stripes_top_shadow: 1972576475966492111
+      Mirror_black_frame: 4578704727952463577
+      PaintBucket_small_green_label: -211067311102274897
+      Dumbbell rack: 772918955617307779
+      Pipe_big_connection_up: 8728705126794312546
+      Shelf_wine: -5575468944990029504
+      Wall_cyan_concrete_base: 349213117290329347
+      Poster_exterminator: -4891728112951941634
+      PaperPile: 3406377258040304065
+      Kitchen_brown_cooker_hood: 5511122020117248205
+      WallPaper_blue_cross_left_shadow: 1769356199407759735
+      ToiletSeat: 758450104828294560
+      WallCoatRack_left: 4586295591586097717
+      Pipe_copper_vertical_valve: 9103973661847681279
+      WallPaper_diagonal_grey_top_shadow: -6821145666603214709
+      Electronics_radio_yellow: 5249881127549648332
+      MonkeyBars_top: -4139464973298861033
+      Trunk_old: -2688048569233517514
+      Lamp_ceiling_bulb: -8036578743778602842
+      Tiles_blue_cyan_shadow_top_left: 7322324250994162454
+      Kitchen_brown_cabinet_left_end: 7745400511936353242
+      Wallpaper_circle_stripes_blue: -2041733254617531125
+      Desk: 2804968355760249059
+      WoodBeam_support_left: 7592386589147020795
+      WoodBeam_vertical_bottom: 6331718390507614428
+      Kitchen_sink: 7904304704970160726
+      Plant_1: 8384105561139205739
+      Diploma_2: 2212033553632398024
+      Furnace_fire_2: -8003008378038956292
+      Pipe_big_connection_left: 5963917859669675222
+      Pillar_concrete_3: 339657060451317128
+      Couch_red: 8791242849331764477
+      Electronics_tv: 5184746320364596894
+      Shelf_open_big_top: -4474636103283960433
+      PaintBucket_small_red_label: -6481717167512666377
+      Kitchen_top_molding_left_end: -7493432402954040805
+      GrandFatherClock_anim_1: 5340225930134341429
+      SideTable_white: -1975024261989062264
+      Wallpaper_circle_stripes_blue_light_right_1: -5961592513731671908
+      WallPaper_diagonal_yellow_squares_left_shadow: 8691307818895935831
+      Wallpaper_circle_stripes_blue_light_full: -2671722191761557660
+      Pipe_copper_top_left: 3644176893267316000
+      WoodBeam_vertical_top: 3328177444911364087
+      Wall_brick_red_left_shadow: 8217508707868551964
+      Wallpaper_circle_stripes_blue_light_right_2: -2959927339229204682
+      Concrete_molding_vertical: 1860131699533424700
+      Shelf_open_big_center: -2940122198746887682
+      ToolBox_red: 2991707771965080721
+      LaundryBasket: 5686324065413242220
+      Wall_dark_grey_concrete_shadow_top_left: 629039016483159054
+      Table_small_night_stand: 9144152157069387488
+      Boxing_bag: 4734739017828740442
+      GrandFatherClock_anim_2: 437367771882536704
+      WallPaper_red_pattern_top_shadow: -1762230525283243496
+      Tiles_cyan_white_shadow_top: -8313618543986298051
+      Tiles_cyan_white_shadow_left: 694662719587178802
+      Wallpaper_circle_stripes_blue_shadow_top: 7987370324481939656
+      WallPaper_red_pattern_left_shadow: 5617679768073042565
+      WallPaper_diagonal_yellow_squares_top_left_shadow: -6493768284581722517
+      WallPaper_red_stripes: 6052220381770867086
+      Calendar: -4722861223450066596
+      Pipe_big_connection_down: 4941229782850180827
+      Books_pile: -5982168200081706984
+      WallPaper_zigzag_top_shadow: 2517578307319786825
+      Pipe_big_vertical_connection: 6413280129804353233
+      Pipe_big_horizontal: 8641894353057975350
+      Jerry_can: 3650119651995200057
+      Wall_cyan_concrete_damaged_1: 9208379829253560930
+      Desk_white: -2998355169996594576
+      Clock_alarm: -5898584396416161806
+      Wall_dark_grey_concrete_shadow_top: 144597272637664224
+      Pipe_copper_horizontal: -2699002967578500132
+      Tools_shelf: 8038955458421636623
+      FurnaceBasement: 9170700648283165459
+      Bottle_wine_standing: 7054854037272283639
+      Pipe_big_bottom_right: -6741625059936654675
+      Tiles_grey_white_shadow_top_left: 3259057321649616969
+      Lamp_ceiling_flourescent: 588860894763335855
+      WallCoatRack_center: -3534171709053958290
+      Drawer_brown_big: 2038743232884704025
+      Electronics_keyboard: -3644167196908958077
+      WallPaper_diagonal_grey: -4513966962101299094
+      TV_desk: -3738184351685314655
+      Kitchen_brown_drawer: -564312820729470203
+      Pipe_copper_bottom_right: -2954435047629490789
+      Bottle_2: -1301066665219632716
+      Floor_grey_tile: -2565050999278466414
+      Pipe_copper_connection_left: -4259033973312504486
+      Drawer_white: 1661396466427497849
+      WallPaper_diagonal_grey_top_left_shadow: 7406810369379933714
+      WoodBeam_support_right: 2228741151296776386
+      Wall_brick_red_top_shadow: 7328128363416258404
+      Trash_can_small_red: -3108428858645700405
+      Lamp_ceiling_double: 8997115684187600640
+      WallPaper_diagonal_squares_top_shadow: 5890912148885176245
+      Pipe_big_horizontal_connection: -1102897552940815373
+      WallCoatRack_right: 6682276833652342183
+      Pipe_copper_vertical: 2070675081682008545
+      WallPaper_red_pattern: 8809747731840774054
+      Table_dining_room_left: 7248231135067132379
+      WallPaper_blue_stripes: 6627097625049128375
+      GrandFatherClock_anim_3: -5935040962050378245
+      ConcreteFloorGround: -5264364383857513691
+      Pipe_big_top_left: 655938347269890540
+      ArmChair_yellow: 1951630871264237879
+      Plant_cactus_small: -945145788705551322
+      ExteriorWall_red_brick: -2341602338155945000
+      Floor_cyan_carpet: 5009711618282877099
+      WallPaper_zigzag_left_shadow: 5251644831683143285
+      Pipe_big_bottom_left: 5985410043867351138
+      Tiles_blue_cyan_base: 2559253633255338941
+      Office_chair_basic_cyan: -9129118128700861031
+      WallPaper_diagonal_grey_left_shadow: -3368147515629666161
+      Pipe_copper_connection_up: 3445296522466186085
+      Pillar_concrete_2: -6125416373710256375
+      Table_dining_room_right: 4511430065209743298
+      Couch_yellow: 6155418177699475600
+      LaundryPile: 2367815691092331379
+      Clock_analog: 542896008182529990
+      Pipe_copper_connection_right: -6450282024158144832
+      Painting_scenery: 2742649739133586986
+      MonkeyBars_left: -4663727604227091892
+      Kitchen_counter_grey_right_end: -2757035493954744620
+      Cabinet_vitrine: -3316287003479444606
+      Shower_side: -1719465154972531509
+      Furnace_fire_3: 7452068025831552052
+      PaintBucket_small_cyan_white_label: 1836451748478279778
+      PaintBucket_big_red: -4689886675041687352
+      Wall_cyan_concrete_base_shadow_left: -2142488511114650119
+      Floor_Red_Carpet: 5530031445715524083
+      Weights_small: 5401754770137975294
+      Floor_Green_Carpet: 6714403555217905352
+      Tiles_grey_white_shadow_top: -3916117353331926817
+      Oven: 6821846524472554382
+      Window_basement: 4317707498224993527
+      Cardboard_box_2: -8695458698204052806
+      Lamp_cord: -6023712137186825426
+      Tiles_grey_white_shadow_left: 1183336134876246836
+      WallPaper_blue_cross_top_left_shadow: -1723073918169710583
+      InteriorSpriteSheet_13: -810218097561821979
+      ArcadeMachine: -4061998530639877094
+      Drawer_brown_small: 6345280391769145228
+      Wallpaper_circle_stripes_blue_shadow_top_left: 7429939003306667649
+      Furnace_fire_1: 3884106429003992098
+      Pillar_concrete_1: 5667035249594401945
+      TowelRack: -4385041043024908382
+      Kitchen_counter_grey: 355011566728671798
+      Pipe_copper_horizontal_valve: 7772700893996732329
+      Bottle_wine_standing_half: -3613948417604495051
+      Chair_dining_room_front: 7289950747302970898
+      Wall_dark_grey_concrete_damaged_1: -721843280959241211
+      ToiletSink: 2301694943621870198
+      Coat_rack: -1753775162444325644
+      WallPaper_red_stripes_top_left_shadow: 1285818139904061142
+      WallPaper_blue_stripes_top_left_shadow: 5687529129017613365
+      Tiles_blue_cyan_shadow_top: -8561433110403140356
+      ArmChair_red: 2599475703774296927
+      MonkeyBars_center: 3316497759042464258
+      Office_chair_boss: -7320710002423778519
+      Shelf_open_big_right: 4389155360647844426
+      GrandFatherClock: 763332647527399206
+      Wall_brick_red: 1520013764552388351
+      Crate_wood_1: -2266189018488642233
+      Pipe_copper_top_right: 885980043348215270
+      Electronics_console: 1697392124254670788
+      Wallpaper_circle_stripes_blue_light_left_1: 1866378648151258105
+      Wall_brick_red_top_left_shadow: -5638769176941109321
+      WallPaper_blue_cross_top_shadow: 7601252244081441920
+      Door_out_red_open_2: 7724556665021380774
+      DryWall: -6844983985240380595
+      Tiles_blue_cyan_shadow_left: 7079565841625573371
+      Tires_set_of_4: 710497355705543356
+      Kitchen_brown_wall_cabinet_right: 4929938540385989477
+      Bottle_wine_front: -492796649178692913
+      Pipe_copper_vertical_meter: -5004041479650475267
+      BookShelf_white: -8193235803352726892
+      Concrete_molding_low_tile: -1433195436597207448
+      WallPaper_zigzag: 1840696036118032012
+      Electronics_casette_player: 6459219437100808835
+      WallPaper_green_yellow_stripes: 3739309409375274780
+      Shelf_open_big_left: 2256581408391027167
+      Pipe_big_horizontal_thick: -2464910411698225868
+      WallPaper_zigzag_top_left_shadow: 366043647957899000
+      DoorFrame_top: 4324556760187275587
+      Wall_cyan_concrete_plain_shadow_left: -1044969400472468699
+      Shower_curtain: 2483635851816316159
+      Wall_dark_grey_concrete_shadow_left: -1938559707946175465
+      WashingMachine: 316186749420508932
+      DoorFrame_shadow_top: -5954177105263467811
+      Tiles_cyan_white_shadow_top_left: 9064650063183672069
+      Bottle_1: -3901614142902349940
+      Lamp_ceiling_triple: 3537779963370325358
+      BookShelf_wood: -3845285002885464547
+      Bed_double: -1700947990531358221
+      Car_green: 9169622270186003295
+      Lamp_floor_1: 1149424377169202444
+      Lamp_ceiling_bulk: 3854098096736250956
+      Bed_single: 5825948080405704607
+      PaintBucket_big_green: 1695459217364574759
+      Kitchen_brown_wall_cabinet_left_end: 2686367344577284023
+      Drawer_red_on_wheels: -2689018613486341682
+      Pipe_copper_horizontal_meter: 5591257904986658482
+      Kitchen_brown_under_sink: -1189426272862458335
+      Wall_cyan_concrete_damaged_2: -133933724093161535
+      Cardboard_box_1: 1683170958112491237
+      WaterBoiler: 4373109957662238773
+      Kitchen_brown_microwave: 5671782501023938316
+      WallPaper_diagonal_yellow_squares_top_shadow: 4351406121531144054
+      Plant_2: 7894416900816530927
+      Electronics_crt_display: 1940311680552347958
+      WallPaper_diagonal_squares: -9166306914261100991
+      Door_out_red_closed: -2037629866484571378
+      Door_out_red_open_1: 2992860062838380461
+      Door_to_upstairs: 5318004158784346868
+      WallPaper_red_pattern_top_left_shadow: -6536766103103957558
+      MirrorCabin: 414504797586055539
+      Pipe_big_vertical_thick: -8834652277628777822
+      WallPaper_red_stripes_left_shadow: -9073783769346491634
+      Wall_dark_grey_concrete_damaged_2: -7546324185213861844
+      WallPaper_blue_stripes_left_shadow: 661865935296556293
+      Wood_panel_plain_shadow_left: 6873000163994972862
+      WallPaper_diagonal_squares_top_left_shadow: -4050932853002276400
+      Door_to_down_stairs: 335688022340012451
+      Pipe_copper_connection_down: -3837524938578732193
+      Pipe_copper_bottom_left: -3026483685842703321
+      WoodBeam_vertical_middle: -2168506760693172892
+      Table_dining_room_center: 8870503808407676713
+      SideTable_wood: -3851947017807509107
+      WallPaper_green_yellow_stripes_left_shadow: -1318279401111497841
+      Kitchen_brown_tall_cabinet_left: -820483498594979720
+      WallPaper_diagonal_squares_left_shadow: -7962871404569539049
+      MonkeyBars_right: -1467183487465230874
+      Crate_wood_2: -9007653162042026866
+      Wood_panel_white_20px: -2641444767669303683
+      DesktopLamp_bankers: 3091681347479328298
+      Barrel: -8064411482835056307
+      Floor_hardwood: -3302128123894471348
+      Plant_cactus_2: -6398609153088646257
+      JarOfPencils: 2785662356775167023
+      WallPaper_green_yellow_stripes_top_shadow: 6375239556513497025
+      WallPaper_green_yellow_stripes_top_left_shadow: 2768279259495672143
+      Electronics_coffee_maker: 1514457523572838101
+      Kitchen_counter_grey_left_end: -1753775215269787046
+      WallPaper_blue_cross: -4808701567014349927
+      Tiles_grey_white_base: 7484191672846154530
+      Kitchen_brown_cabinet_left: -8047755157269149268
+      Pipe_big_connection_right: 6464861048638317003
+      DoorFrame: 3088906598942417258
+      Tiles_cyan_white_base: -3974132906557968727
+      Lamp_table_top: -2341534315704906572
+      Pipe_big_vertical: 2835390676427568082
+      Weights_big: 2463792675340368681
+      WallPaper_blue_stripes_top_shadow: -5560490389483045612
+      Painting_ship: -7492545249133584314
+      Chain_tiny: 1176926860359698332
+      Wallpaper_circle_stripes_blue_light_left_2: 3495317808049557528
+      Kitchen_brown_wall_cabinet_left: 3829657470134538938
+      Safe_old: -5971075592286002134
+      Pipe_big_top_right: -564055604610505009
+      PaintBucket_small_cyan_label: 1560023742387035588
+      Kitchen_top_molding_right_end: -4836399466225850286
+      Carage_door: 6388985100830042306
+      Towel_dryer: -4426696633116404723
+      Window_white_frame: -1757543216919547775
+      Electronics_speaker: -6465573802180468866
+      Wood_panel_white_20px_shadow_left: -2185599183333415556
+      Wallpaper_circle_stripes_blue_shadow_left: 2761250295871795566
+      Wall_cyan_concrete_damaged_3: -50016179755682510
+      Chair_dining_room_side: -2739137652117452307
+      Wall_plain_board: -2949045167690019238
+      WallPaper_diagonal_yellow_squares: -6731472651100604760
+      Diploma_1: 6040297987273658278
+      Fridge: 3355498879508141452
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
