@@ -1,6 +1,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.InputSystem;
 
 public class RespawnManager : MonoBehaviour
 {
@@ -17,30 +18,24 @@ public class RespawnManager : MonoBehaviour
    
     PlayerController pc;
    public Vector2 respawnPosition;
+    PlayerHealth health;
+    PlayerInput playerInput;
+    
     private void Start()
     {
         
         animator = GetComponentInChildren<Animator>();
       
-       
+       health= GetComponent<PlayerHealth>();
         pc = GetComponent<PlayerController>();
+        playerInput = GetComponent<PlayerInput>();
     }
 
-    private void OnCollisionEnter2D(Collision2D collision)
+   
+
+    public IEnumerator ReturnPlayerToStart()
     {
-        if (collision.gameObject.CompareTag("Spike"))
-        {
-
-            ProcessDeath();
-
-
-
-        }
-    }
-
-    private IEnumerator ReturnPlayerToStart()
-    {
-
+        playerInput.enabled= false;
         yield return new WaitForSeconds(waitBeforeRespawn);
 
 
@@ -49,7 +44,12 @@ public class RespawnManager : MonoBehaviour
       this.transform.position = respawnPosition;
 
         deathInProgress = false;
+        if (isDying)
+        {
+            health.health = 100;
+        }
         isDying = false;
+        playerInput.enabled = true;
 
     }
     bool isDying = false;
