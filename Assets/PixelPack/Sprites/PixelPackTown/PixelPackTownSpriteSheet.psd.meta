@@ -2277,7 +2277,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: c2f850fa04df6434992fa62e39baa389
-      internalID: -4775914145782608213
+      internalID: 8496199254651892686
       vertices: []
       indices: 
       edges: []
@@ -8157,7 +8157,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 9dd93dafba06cfa4792763aaee29e62b
-      internalID: 2248272539145195881
+      internalID: -1717827213357171914
       vertices: []
       indices: 
       edges: []
@@ -8771,7 +8771,7 @@ TextureImporter:
       CardBoardBox_1: 8663326847887953446
       Window_farm_house: 4460477706718096583
       Railing_bridge: -5991651783595704019
-      Door_sliding_store_closed: 2248272539145195881
+      Door_sliding_store_closed: -1717827213357171914
       Smoke_1: 8726148449916930910
       Platform_stairs_right: 4736043848707846203
       Wall_plank_yellow_vertical top_left: 3787094376378200293
@@ -8967,7 +8967,7 @@ TextureImporter:
       AC_unit_1_3: -6584129930320131285
       Corner_concrete_simple_1_left: -4844188831052034659
       Smoke_3: 4012990250835332762
-      StoneBase_small: -4775914145782608213
+      StoneBase_small: 8496199254651892686
       Concrete_ledge_1: -9164250996152540744
       WoodSupport_white_end_right: -600896545610728504
       Window_small_panels_decorative: -1125472814840551198

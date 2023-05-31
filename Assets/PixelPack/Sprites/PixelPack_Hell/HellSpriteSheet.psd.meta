@@ -1,0 +1,5272 @@
+fileFormatVersion: 2
+guid: e3dd34f3d7684174a959c186c37970be
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1577709906411153324
+    second: StoneWall_big_base
+  - first:
+      213: -4276819065316688369
+    second: StoneWall_big_shadow_left
+  - first:
+      213: 6362660053016555412
+    second: StoneWall_big_glow_right
+  - first:
+      213: 8328730696764138043
+    second: StoneWall_big_glow_left
+  - first:
+      213: -7792874954320870033
+    second: StoneWallBg_pillar
+  - first:
+      213: 8988027240868503905
+    second: StoneWallBg_base
+  - first:
+      213: 7500246884010379885
+    second: StoneWallBg_pillar_arc_left
+  - first:
+      213: 6926259904089982887
+    second: StoneWallBg_pillar_arc_both_sides
+  - first:
+      213: -37176703068357496
+    second: StoneWallBg_pillar_arc_right
+  - first:
+      213: 1794276972633611260
+    second: StoneWall_big_arc_right
+  - first:
+      213: 7136198513328636913
+    second: StoneWall_big_arc_left
+  - first:
+      213: 4674600244694611389
+    second: Ground_brick
+  - first:
+      213: 9009987339751958028
+    second: Stone_skulls
+  - first:
+      213: 8954374907331915772
+    second: WoodPole_vertical
+  - first:
+      213: -1373522888440207500
+    second: Chain_big_glow_right_center
+  - first:
+      213: -8472122993153491239
+    second: Chain_big_center
+  - first:
+      213: 5230861502198584867
+    second: Stone_molding
+  - first:
+      213: 6069908418894856030
+    second: StoneWallBg_shadow_top
+  - first:
+      213: -8551275942444029543
+    second: StoneWallBg_shadow_left
+  - first:
+      213: -3686364510360227003
+    second: Lava_flow_medium_1
+  - first:
+      213: 1984263624271879057
+    second: Lava_flow_medium_2
+  - first:
+      213: 1018972099905497587
+    second: Lava_flow_medium_3
+  - first:
+      213: -1598894979491483425
+    second: Lava_flow_medium_4
+  - first:
+      213: 980804385729924832
+    second: Lava_flow_medium_5
+  - first:
+      213: -5483847825617866894
+    second: Lava_flow_medium_6
+  - first:
+      213: 953755204660525158
+    second: Lava_flow_medium_7
+  - first:
+      213: -4662521834919012575
+    second: Lava_flow_medium_8
+  - first:
+      213: -2113162642407706465
+    second: PileOfSkulls
+  - first:
+      213: 282642351654821398
+    second: PileOfSkulls_bg
+  - first:
+      213: -3925557027480323001
+    second: Skulls_bg_tiling_red
+  - first:
+      213: -8458612922474617694
+    second: Skulls_bg_tiling_red_top
+  - first:
+      213: 8550001419501608181
+    second: Skulls_bg_tiling
+  - first:
+      213: 2386713809793088291
+    second: Skulls_bg_tiling_top
+  - first:
+      213: 1413712645397234031
+    second: Blood_river_1
+  - first:
+      213: 1614413788338305162
+    second: Blood_river_2
+  - first:
+      213: 8717538601647074729
+    second: Blood_river_3
+  - first:
+      213: -6359571085295226965
+    second: Blood_river_4
+  - first:
+      213: 7897401148768875593
+    second: Blood_river_5
+  - first:
+      213: 8385528353923618356
+    second: Blood_river_6
+  - first:
+      213: -9141535391857722240
+    second: Blood_river_7
+  - first:
+      213: -3559814952901370030
+    second: Blood_river_8
+  - first:
+      213: 644969975102567731
+    second: Blood_flow_1
+  - first:
+      213: -2848145634069934029
+    second: Blood_flow_2
+  - first:
+      213: -3301676943543221448
+    second: Blood_flow_3
+  - first:
+      213: -1917725186227352876
+    second: Blood_flow_4
+  - first:
+      213: -473020182106958388
+    second: Demon_head_blood_mouth_4
+  - first:
+      213: 2414120131373370219
+    second: Demon_head_blood_mouth_3
+  - first:
+      213: 6703765383147626246
+    second: Demon_head_blood_mouth_2
+  - first:
+      213: -6006530655092133263
+    second: Demon_head_blood_mouth_1
+  - first:
+      213: 2581392049351974187
+    second: Demon_head_stone
+  - first:
+      213: -7885736365172090346
+    second: HugeBleedingSkull
+  - first:
+      213: -2451269782262220466
+    second: Dungeon_top_right
+  - first:
+      213: -1006368768582853733
+    second: Dungeon_floor
+  - first:
+      213: 966659672346040230
+    second: Dungeon_top_left
+  - first:
+      213: -7056288463454999369
+    second: Dungeon_left
+  - first:
+      213: -5047719116474998346
+    second: Dungeon_right
+  - first:
+      213: -5642556363635737446
+    second: Dungeon_base
+  - first:
+      213: -5747693678720939885
+    second: Dungeon_bottom_right
+  - first:
+      213: -2764689250695818338
+    second: Dungeon_bottom_left
+  - first:
+      213: 2091457833688836810
+    second: Dungeon_ceiling
+  - first:
+      213: 7607973680606198347
+    second: Dungeon_floor_left
+  - first:
+      213: 3626902380854037151
+    second: Dungeon_floor_right
+  - first:
+      213: -2870325723597232771
+    second: Dungeon_arch_right
+  - first:
+      213: -3495509740983538979
+    second: Dungeon_arch_left
+  - first:
+      213: -982132715367188253
+    second: Dungeon_floor_shadow_left
+  - first:
+      213: -6697237223178868237
+    second: Dungeon_floor_shadow_right
+  - first:
+      213: -5568016008439498483
+    second: Dungeon_base_shadow_left
+  - first:
+      213: 8630971156138395926
+    second: Dungeon_base_shadow_right
+  - first:
+      213: 3426888851405480317
+    second: DungeonBg_dark_arch_right
+  - first:
+      213: -2032528276967758877
+    second: DungeonBg_dark_arch_left
+  - first:
+      213: -4685280714521996157
+    second: DungeonBg_arch_right
+  - first:
+      213: -3967656126016861120
+    second: DungeonBg_arch_left
+  - first:
+      213: 2047697995721338004
+    second: DungeonBg_dark_right
+  - first:
+      213: -8251216584996549422
+    second: DungeonBg_dark_bottom
+  - first:
+      213: -3132903060978771892
+    second: DungeonBg_dark_left
+  - first:
+      213: 4219011386512332617
+    second: DungeonBg_dark_base
+  - first:
+      213: -2209010735067826207
+    second: DungeonBg_base
+  - first:
+      213: -338878640075685903
+    second: DungeonBg_left
+  - first:
+      213: 7738320768290118801
+    second: DungeonBg_bottom
+  - first:
+      213: 3888848873892941898
+    second: DungeonBg_right
+  - first:
+      213: -9143952434920760003
+    second: DungeonBg_left_shadow_top
+  - first:
+      213: 4846516874199886765
+    second: DungeonBg_base_shadow_top
+  - first:
+      213: 628777763388937853
+    second: DungeonBg_right_shadow_top
+  - first:
+      213: 8318740917665581112
+    second: Stone_molding_right
+  - first:
+      213: -4790508336224542277
+    second: Stone_molding_left
+  - first:
+      213: 8371633821263861393
+    second: SpikedGirder_bg_right
+  - first:
+      213: -8009523835791904820
+    second: SpikedGirder_bg_left
+  - first:
+      213: -4791188339038546579
+    second: SpikedGirder_bg_center
+  - first:
+      213: -6389592991422328300
+    second: MetalReinforcementRing_bolts
+  - first:
+      213: -5173384994238336537
+    second: MetalReinforcementRing
+  - first:
+      213: 4699894858352551851
+    second: WoodPole_vertical_sharpened_top
+  - first:
+      213: 4105611452181401965
+    second: LavaFlow_1
+  - first:
+      213: 5235443955437367824
+    second: LavaFlow_2
+  - first:
+      213: 7726557660532559267
+    second: LavaFlow_3
+  - first:
+      213: -1208495314113337730
+    second: LavaFlow_4
+  - first:
+      213: 6360676025419446085
+    second: BgStonesLitBelow_glow_1
+  - first:
+      213: -3287305093419470453
+    second: BgStonesLitBelow_glow_1
+  - first:
+      213: 3561865740659869412
+    second: BgStonesLitBelow_darker
+  - first:
+      213: 6611726693015324137
+    second: BgStonesLitBelow_darkest
+  - first:
+      213: -4876477087402595991
+    second: BigPillar_molding
+  - first:
+      213: -5726530772063605807
+    second: BigPillar_lava_mouth_1
+  - first:
+      213: 8185663663663003173
+    second: BigPillar_lava_path
+  - first:
+      213: 417295277533165531
+    second: BigPillar_base
+  - first:
+      213: -1596515619050260937
+    second: BgStonesLitBelow_glow_2
+  - first:
+      213: -7892936032226310227
+    second: BigPillar_lava_mouth_2
+  - first:
+      213: 6286702832504253720
+    second: GreyStonePlatform_center
+  - first:
+      213: 3944124930592232374
+    second: GreyStonePlatform_right
+  - first:
+      213: 1431277305354465602
+    second: GreyStonePlatform_left
+  - first:
+      213: 561889002951831203
+    second: DungeonBg_dark_left_top_shadow
+  - first:
+      213: 8437593734790047468
+    second: DungeonBg_dark_base_top_shadow
+  - first:
+      213: 1922047377220400370
+    second: DungeonBg_dark_righttop_shadow
+  - first:
+      213: 108489973119192909
+    second: FloorOfSkulls_base
+  - first:
+      213: -2458700124987039098
+    second: FloorOfSkulls_30_left
+  - first:
+      213: 4917128609846717569
+    second: FloorOfSkulls_30_right
+  - first:
+      213: 7990394441527186744
+    second: MediumPillar_base
+  - first:
+      213: -1367294206359657488
+    second: MediumPillar_crack_1
+  - first:
+      213: -1120480510902875345
+    second: MediumPillar_top_crack_1
+  - first:
+      213: -188781866812626108
+    second: MediumPillar_top_crack_2
+  - first:
+      213: -279352143592794125
+    second: MediumPillar_pedestal
+  - first:
+      213: -2148295828065146172
+    second: SmallPillar_base
+  - first:
+      213: -4689796910744978383
+    second: MediumPillar_foreground_crack_1
+  - first:
+      213: 486971269215200678
+    second: MediumPillar_foreground_fade
+  - first:
+      213: 7611237965616616807
+    second: MediumPillar_foreground_top_fade
+  - first:
+      213: -8336774743543928656
+    second: MediumPillar_foreground__top_crack_2
+  - first:
+      213: -7347028475210505199
+    second: MediumPillar_foreground_base
+  - first:
+      213: -3435010979140134629
+    second: MediumPillar_foreground__top_crack_1
+  - first:
+      213: 8999680740875627409
+    second: Skeleton
+  - first:
+      213: -4339424759730157647
+    second: Stone_arch
+  - first:
+      213: -8688147560549247993
+    second: Grave_bg
+  - first:
+      213: -6890708506442762769
+    second: WallBrickSmall_dark
+  - first:
+      213: -7687142609061268902
+    second: WallBrickSmall
+  - first:
+      213: -3308777773245276757
+    second: BrickArchedShelf_small_empty
+  - first:
+      213: -105916684953210840
+    second: BrickArchedShelf_big_empty
+  - first:
+      213: 1619985105706251695
+    second: BrickArchedShelf_big_cracked
+  - first:
+      213: -6015096663943992326
+    second: BrickArchedShelf_big_urn
+  - first:
+      213: 1796628251064079
+    second: SmallPillar_crack_1
+  - first:
+      213: -6640015730528782577
+    second: SmallPillar_top
+  - first:
+      213: 3402042932230960095
+    second: SmallPillar_top_crack_1
+  - first:
+      213: -7281524042703142139
+    second: SmallPillar_crack_2
+  - first:
+      213: -8418868102505000019
+    second: Stone_molding_2
+  - first:
+      213: 402582550001557406
+    second: Stone_molding_3
+  - first:
+      213: 3448159126640599157
+    second: StoneShelf_3
+  - first:
+      213: -1513385977999276743
+    second: Stone_molding_1
+  - first:
+      213: -5663387463603309391
+    second: StoneShelf_1
+  - first:
+      213: -2415712482160652955
+    second: StoneShelf_2
+  - first:
+      213: 7344954680768087342
+    second: Stone_molding_floor
+  - first:
+      213: -1039621520491041618
+    second: Skeleton_hanging
+  - first:
+      213: 2894648964658109689
+    second: Skeleton_in_cage
+  - first:
+      213: 3105415886113977224
+    second: Flames_tiling_1
+  - first:
+      213: -1430559330379756130
+    second: Flames_tiling_2
+  - first:
+      213: -6338463032212075788
+    second: Flames_tiling_3
+  - first:
+      213: -4709689289742406843
+    second: Flames_tiling_4
+  - first:
+      213: 8231609684135492662
+    second: Flames_tiling_5
+  - first:
+      213: 5435980855388737832
+    second: Flames_tiling_6
+  - first:
+      213: 5629032287897774559
+    second: Flames_tiling_7
+  - first:
+      213: 68795262128520023
+    second: Flames_tiling_8
+  - first:
+      213: 5280565930039277800
+    second: Chain_small_middle
+  - first:
+      213: 3969707946058664188
+    second: WallBrickSmall_dark_light_from_below
+  - first:
+      213: 6462801098429642369
+    second: WallBrickSmall_dark_top_shadow
+  - first:
+      213: 1059674207217808523
+    second: WallBrickSmall_dark_left_shadow
+  - first:
+      213: 1309141692035962896
+    second: Stone_molding_2_left
+  - first:
+      213: -2907700812572334431
+    second: Stone_molding_2_right
+  - first:
+      213: -3254863720644925104
+    second: Red_pillar_1
+  - first:
+      213: 7047047889770129008
+    second: Red_pillar_2
+  - first:
+      213: -4164484547593370278
+    second: Red_pillar_3
+  - first:
+      213: -859006832343564207
+    second: Red_pillar_4
+  - first:
+      213: -49396378714137793
+    second: Red_pillar_5
+  - first:
+      213: 4222317477257787852
+    second: Red_pillar_6
+  - first:
+      213: 2851293469155434050
+    second: Red_pillar_7
+  - first:
+      213: -6081902299105807707
+    second: Red_pillar_8
+  - first:
+      213: 751027229221388861
+    second: Red_pillar_9
+  - first:
+      213: 4682143815212440714
+    second: RockyPlatform_top_left
+  - first:
+      213: 2454684863482926991
+    second: RockyPlatform_left
+  - first:
+      213: 651037241208116280
+    second: RockyPlatform_right
+  - first:
+      213: -3100972665399564118
+    second: RockyPlatform_loose_rocks_1
+  - first:
+      213: -5052904594450592026
+    second: RockyPlatform_loose_rocks_2
+  - first:
+      213: -647218610599428957
+    second: RockyPlatform_top_right
+  - first:
+      213: 1319208187077334884
+    second: RockyPlatform_inner_left
+  - first:
+      213: 3815769659562950812
+    second: RockyPlatform_top
+  - first:
+      213: -8310711251046491423
+    second: RockyPlatform_inner_right
+  - first:
+      213: -3180139299154605947
+    second: Red_pillar_left
+  - first:
+      213: -1753688373411081457
+    second: Red_pillar_right
+  - first:
+      213: -6409811415849006273
+    second: Red_pillar_10
+  - first:
+      213: 7919608521306914013
+    second: Fire_1
+  - first:
+      213: -2426991384576281864
+    second: Fire_2
+  - first:
+      213: -7372931937513023459
+    second: Fire_3
+  - first:
+      213: -8304023152809673402
+    second: Fire_4
+  - first:
+      213: -5338172429288494080
+    second: Fire_5
+  - first:
+      213: 1071094955951841574
+    second: Fire_6
+  - first:
+      213: -6489920716208364005
+    second: Fire_7
+  - first:
+      213: 8516424022766956455
+    second: Fire_8
+  - first:
+      213: 8390886209772667071
+    second: Skull_torch
+  - first:
+      213: 3663379985874524177
+    second: FirePit_demon
+  - first:
+      213: -6571397590690126491
+    second: Chain_big_glow_ceiling
+  - first:
+      213: 7681860625726674642
+    second: Chain_big_glow_end
+  - first:
+      213: 8258768020483279516
+    second: Chain_big_ceiling
+  - first:
+      213: 1216285630912325543
+    second: Chain_big_end
+  - first:
+      213: -4436273721045764841
+    second: BloodPit_demon
+  - first:
+      213: -1341117902575364013
+    second: Skull_goat_big
+  - first:
+      213: 7574046056245165688
+    second: PileOfSkulls_left
+  - first:
+      213: 6345817782483726197
+    second: Rocks_1
+  - first:
+      213: 9090369563138023586
+    second: Rocks_2
+  - first:
+      213: 3524350808965356303
+    second: GreyStonePlatform_glow_left
+  - first:
+      213: 4236340953788333252
+    second: GreyStonePlatform_glow_center
+  - first:
+      213: 1454953980506960527
+    second: GreyStonePlatform_glow_right
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: StoneWall_big_base
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 32
+        height: 32
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 768966a7d40d6f541a223dd68fcea178
+      internalID: 1577709906411153324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoneWall_big_shadow_left
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 32
+        height: 32
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17bd5b6501bd6af46bc573d05728c488
+      internalID: -4276819065316688369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoneWall_big_glow_right
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 32
+        height: 32
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ba3ee1f07d71d9409a88a59ba9a9758
+      internalID: 6362660053016555412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoneWall_big_glow_left
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 32
+        height: 32
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55596d909eb22eb4fb9f4c7dd84cd9e1
+      internalID: 8328730696764138043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoneWallBg_pillar
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 32
+        height: 32
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b93fa2b0acc1d4749aee074e38df0b0d
+      internalID: -7792874954320870033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoneWallBg_base
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 32
+        height: 32
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 611c1b6fb5ab9c64a94a648e40724715
+      internalID: 8988027240868503905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoneWallBg_pillar_arc_left
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 32
+        width: 56
+        height: 32
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b217a5be64454e4ea9219c8511df80a
+      internalID: 7500246884010379885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoneWallBg_pillar_arc_both_sides
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 32
+        width: 80
+        height: 32
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91dc47c80f1062f4d82ccccf43dc2a09
+      internalID: 6926259904089982887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoneWallBg_pillar_arc_right
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 64
+        width: 56
+        height: 32
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: beb79b3a71075bc4f943ced945c62588
+      internalID: -37176703068357496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoneWall_big_arc_right
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 128
+        width: 56
+        height: 32
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59ed1e58c64719c4fa0ce307a169b8f9
+      internalID: 1794276972633611260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoneWall_big_arc_left
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 160
+        width: 56
+        height: 32
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99d2474655ae87d4d9520da4a009b27f
+      internalID: 7136198513328636913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_brick
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 32
+        height: 32
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63f498800f28cae4cbc595c7dda9e0b9
+      internalID: 4674600244694611389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stone_skulls
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 224
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3002ae4cd2483eb4e822427c1e54ee08
+      internalID: 9009987339751958028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chain_big_glow_right_center
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 240
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34f61c83e0bd67148b8eae054aead6e8
+      internalID: -1373522888440207500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chain_big_center
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 240
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f08c3dd839bfa96418791016c567dc4a
+      internalID: -8472122993153491239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stone_molding
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 224
+        width: 32
+        height: 8
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67854788aef00fd47ae671c690822887
+      internalID: 5230861502198584867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoneWallBg_shadow_top
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 96
+        width: 32
+        height: 32
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5a87ded3943a7a438f4607d158403b8
+      internalID: 6069908418894856030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoneWallBg_shadow_left
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 96
+        width: 32
+        height: 32
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 622244bcbcb481d4a85e351ccc5bc5fc
+      internalID: -8551275942444029543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lava_flow_medium_1
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 208
+        width: 8
+        height: 48
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 228eba6318a2be84a9db4b959fc4b94c
+      internalID: -3686364510360227003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lava_flow_medium_2
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 208
+        width: 8
+        height: 48
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f1ddc93b8e902845948400509164ceb
+      internalID: 1984263624271879057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lava_flow_medium_3
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 208
+        width: 8
+        height: 48
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c33e725ff2d4c914fbf0a4a82b2f1623
+      internalID: 1018972099905497587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lava_flow_medium_4
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 208
+        width: 8
+        height: 48
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3447aca01b68aa43b2c3e3b7c9586de
+      internalID: -1598894979491483425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lava_flow_medium_5
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 208
+        width: 8
+        height: 48
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad23c251561845d4ab2db066fd3b6a28
+      internalID: 980804385729924832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lava_flow_medium_6
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 208
+        width: 8
+        height: 48
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05598713c75d049458c4b628dd599371
+      internalID: -5483847825617866894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lava_flow_medium_7
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 208
+        width: 8
+        height: 48
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a59edbdc35d9744786ad2762407af73
+      internalID: 953755204660525158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lava_flow_medium_8
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 208
+        width: 8
+        height: 48
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54a69f6982d242a489ef972db357c22f
+      internalID: -4662521834919012575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PileOfSkulls
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 200
+        width: 24
+        height: 24
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b16ce7015734004daba5c01b94073f7
+      internalID: -2113162642407706465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PileOfSkulls_bg
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 200
+        width: 24
+        height: 24
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35eb6fd85830f0149bab32f7bab01ee1
+      internalID: 282642351654821398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skulls_bg_tiling_red
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 224
+        width: 32
+        height: 32
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e83772f2e686ec34b90848ecb43ce27c
+      internalID: -3925557027480323001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skulls_bg_tiling_red_top
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 216
+        width: 32
+        height: 20
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7ff77d4ab7b8c54cae8941b707e6d34
+      internalID: -8458612922474617694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skulls_bg_tiling
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 224
+        width: 32
+        height: 32
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcc92d38911cd314d808b7335912cb2e
+      internalID: 8550001419501608181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skulls_bg_tiling_top
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 236
+        width: 32
+        height: 20
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11058908996149f45a560f9ee41f644d
+      internalID: 2386713809793088291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood_river_1
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95a338026f970ba42a2e141b74311055
+      internalID: 1413712645397234031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood_river_2
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 0
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8622f3fc5896dad449149568a77740a6
+      internalID: 1614413788338305162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood_river_3
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 0
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bc651625c9a85b44bdbdddfffd2007d
+      internalID: 8717538601647074729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood_river_4
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 0
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f1732e483ec23447b4dc87c4d00daa7
+      internalID: -6359571085295226965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood_river_5
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 0
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc93b7cd31db68c4e943b3a626b46dc0
+      internalID: 7897401148768875593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood_river_6
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 0
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9120a40ed5dcea4f9d25a61487582a1
+      internalID: 8385528353923618356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood_river_7
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 0
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08855d4d60e38dd4a9b32ca9639f2b17
+      internalID: -9141535391857722240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood_river_8
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 0
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eadb23003cdb1be42a1a3e5845c09859
+      internalID: -3559814952901370030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood_flow_1
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 32
+        width: 4
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f58ee0b63b8beb34fb322771515a2a7e
+      internalID: 644969975102567731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood_flow_2
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 48
+        width: 4
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dbc234de06e29647a522459ddb3c18e
+      internalID: -2848145634069934029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood_flow_3
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 64
+        width: 4
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e22d1104360670c46a12341ab9111ec1
+      internalID: -3301676943543221448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood_flow_4
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 80
+        width: 4
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 011a1d795333281439d9033f5ee834ed
+      internalID: -1917725186227352876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demon_head_blood_mouth_4
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 232
+        width: 20
+        height: 24
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66b5e4852ec205d4eae111f8e6354ae8
+      internalID: -473020182106958388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demon_head_blood_mouth_3
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 232
+        width: 20
+        height: 24
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44c60a1b50efb3446a0ae9a6b0f6f31c
+      internalID: 2414120131373370219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demon_head_blood_mouth_2
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 232
+        width: 20
+        height: 24
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11f8a43e38e8adb4994c5db7e1253449
+      internalID: 6703765383147626246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demon_head_blood_mouth_1
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 232
+        width: 20
+        height: 24
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57dcb87ba76490544b97e52621a10a38
+      internalID: -6006530655092133263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demon_head_stone
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 232
+        width: 20
+        height: 24
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db9b06d0d131bfc47835b8d2644d78fd
+      internalID: 2581392049351974187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HugeBleedingSkull
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 192
+        width: 64
+        height: 64
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 911419644acda794b8f1b52ccfcad7b4
+      internalID: -7885736365172090346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon_top_right
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 192
+        width: 32
+        height: 32
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7300b60dc1c6c9b42963ade419bdb90a
+      internalID: -2451269782262220466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon_floor
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 192
+        width: 32
+        height: 32
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4879fc7011406294f8abca922599d398
+      internalID: -1006368768582853733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon_top_left
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 192
+        width: 32
+        height: 32
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cae0d65687ee76047935043da2b6d7fd
+      internalID: 966659672346040230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon_left
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 160
+        width: 32
+        height: 32
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c38de8c2248e06499d540cdcd4460bc
+      internalID: -7056288463454999369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon_right
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 160
+        width: 32
+        height: 32
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a9480d5483e11449a87a06af4bdc35e
+      internalID: -5047719116474998346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon_base
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 160
+        width: 32
+        height: 32
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ab964d06060bec41ad2951e9735494b
+      internalID: -5642556363635737446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon_bottom_right
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 144
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba636de15f01fee4b9a89358b20b3e0d
+      internalID: -5747693678720939885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon_bottom_left
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 144
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 743a0abfeb064e84da17c4f829ecba5c
+      internalID: -2764689250695818338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon_ceiling
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 144
+        width: 32
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbd6986e2e8af2e4ba8e2a278ba76f1d
+      internalID: 2091457833688836810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon_floor_left
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 112
+        width: 32
+        height: 32
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d2a4a76519361a44a5adef98be7d490
+      internalID: 7607973680606198347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon_floor_right
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 112
+        width: 32
+        height: 32
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53b5583cc889ac543b748978cb0f643e
+      internalID: 3626902380854037151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon_arch_right
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 112
+        width: 48
+        height: 32
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36c7f0bb4af1ec542b10dbaa3faf1e91
+      internalID: -2870325723597232771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon_arch_left
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 80
+        width: 48
+        height: 32
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca174af7c55a8244ca4ec1850a4b4cc8
+      internalID: -3495509740983538979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon_floor_shadow_left
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 80
+        width: 32
+        height: 32
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc3983116f5c5a84fabb2f249be39879
+      internalID: -982132715367188253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon_floor_shadow_right
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 80
+        width: 32
+        height: 32
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7783d3ad69d6394e9abc394c3f03524
+      internalID: -6697237223178868237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon_base_shadow_left
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 48
+        width: 32
+        height: 32
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2252c6ac81b7b454baf8754eca5cad30
+      internalID: -5568016008439498483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon_base_shadow_right
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 48
+        width: 32
+        height: 32
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06ebe290d7645294f91e8da111a9a7f0
+      internalID: 8630971156138395926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DungeonBg_dark_arch_right
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 64
+        width: 48
+        height: 48
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6517d8d132bebe740956feac05ec306e
+      internalID: 3426888851405480317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DungeonBg_dark_arch_left
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 64
+        width: 48
+        height: 48
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76cec82c25f513248b4665daccb4f4cf
+      internalID: -2032528276967758877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DungeonBg_arch_right
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 112
+        width: 48
+        height: 48
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c4675271d8dd024db06e41caa4d9b10
+      internalID: -4685280714521996157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DungeonBg_arch_left
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 112
+        width: 48
+        height: 48
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 481ece189600b4b4ab546416a421370c
+      internalID: -3967656126016861120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DungeonBg_dark_right
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 64
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5020f8d83f42b694ea3a130cfebf361c
+      internalID: 2047697995721338004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DungeonBg_dark_bottom
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 64
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6cdc52bd339eca4a938f2dcfdd45c39
+      internalID: -8251216584996549422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DungeonBg_dark_left
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 64
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3d32f8248af8934d8c2dc93343191f7
+      internalID: -3132903060978771892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DungeonBg_dark_base
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 64
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28eb78d4b85d34747bfd5f1924ce88cb
+      internalID: 4219011386512332617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DungeonBg_base
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 80
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76bf49bbe4ad28d4cb76141bab2c8271
+      internalID: -2209010735067826207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DungeonBg_left
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 80
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 192903c1598d5594f868238c4a4994eb
+      internalID: -338878640075685903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DungeonBg_bottom
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 80
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8c1fbb7acdede442b9aa41b9dcf999a
+      internalID: 7738320768290118801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DungeonBg_right
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 80
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f09037ce1d76c484cb9ec7789656ef03
+      internalID: 3888848873892941898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DungeonBg_left_shadow_top
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 96
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4fb6cfd49e2f74418b8c2b75398caca
+      internalID: -9143952434920760003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DungeonBg_base_shadow_top
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 96
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c60bb102ee1dc4a419266af90b4d70f4
+      internalID: 4846516874199886765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DungeonBg_right_shadow_top
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 96
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1d364098b702ee408637ed1847d221c
+      internalID: 628777763388937853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stone_molding_right
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 232
+        width: 4
+        height: 8
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f12f3cd45db998489488972fbc2e471
+      internalID: 8318740917665581112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stone_molding_left
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 232
+        width: 4
+        height: 8
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e42ed9d05b0d1414daac93aab9afb5a3
+      internalID: -4790508336224542277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpikedGirder_bg_right
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 160
+        width: 20
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01d9ca8bfd2dbd445a247f4fc37d0c88
+      internalID: 8371633821263861393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpikedGirder_bg_left
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 160
+        width: 20
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22828893c3685024b8e10080c711ffac
+      internalID: -8009523835791904820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpikedGirder_bg_center
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 160
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c554c95e9187993469e3ca52179bbac1
+      internalID: -4791188339038546579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WoodPole_vertical
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 16
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cffa0313984544c70800000000000000
+      internalID: 8954374907331915772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MetalReinforcementRing_bolts
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 16
+        width: 24
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41252fe170b9357a0800000000000000
+      internalID: -6389592991422328300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MetalReinforcementRing
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 16
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e1761ce1c17438b0800000000000000
+      internalID: -5173384994238336537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WoodPole_vertical_sharpened_top
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 16
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba7e9c9f871693140800000000000000
+      internalID: 4699894858352551851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavaFlow_1
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 32
+        height: 20
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d615c010ddf0af830800000000000000
+      internalID: 4105611452181401965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavaFlow_2
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 32
+        height: 20
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0127f45f98808a840800000000000000
+      internalID: 5235443955437367824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavaFlow_3
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 0
+        width: 32
+        height: 20
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3adcd94514f3a3b60800000000000000
+      internalID: 7726557660532559267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavaFlow_4
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 32
+        height: 20
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e76ec892aef8a3fe0800000000000000
+      internalID: -1208495314113337730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BgStonesLitBelow_glow_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 128
+        width: 32
+        height: 32
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54738721529a54850800000000000000
+      internalID: 6360676025419446085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BgStonesLitBelow
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 160
+        width: 32
+        height: 32
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8176663f652162d0800000000000000
+      internalID: 1851104286986221364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BgStonesLitBelow_darker
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 128
+        width: 32
+        height: 32
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e64aa1050a4e6130800000000000000
+      internalID: 3561865740659869412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BgStonesLitBelow_darkest
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 32
+        height: 32
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e58529956291cb50800000000000000
+      internalID: 6611726693015324137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigPillar_molding
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 24
+        width: 32
+        height: 8
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 969690afce5435cb0800000000000000
+      internalID: -4876477087402595991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigPillar_lava_mouth_1
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 0
+        width: 32
+        height: 32
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1db2ecf6a964780b0800000000000000
+      internalID: -5726530772063605807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigPillar_lava_path
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 16
+        width: 32
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 526b47b8bb1599170800000000000000
+      internalID: 8185663663663003173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigPillar_base
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 32
+        width: 32
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd7ffcf08d78ac500800000000000000
+      internalID: 417295277533165531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BgStonesLitBelow_glow_2
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 96
+        width: 32
+        height: 32
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7367520d08908d9e0800000000000000
+      internalID: -1596515619050260937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigPillar_lava_mouth_2
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 32
+        width: 32
+        height: 32
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da7054c4f78a67290800000000000000
+      internalID: -7892936032226310227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreyStonePlatform_center
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 48
+        width: 32
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81dabd3faeade3750800000000000000
+      internalID: 6286702832504253720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreyStonePlatform_right
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 48
+        width: 32
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b356bd3ab85cb630800000000000000
+      internalID: 3944124930592232374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreyStonePlatform_left
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 32
+        width: 32
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2413bb0402becd310800000000000000
+      internalID: 1431277305354465602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DungeonBg_dark_left_top_shadow
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 112
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ae6428321b3cc700800000000000000
+      internalID: 561889002951831203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DungeonBg_dark_base_top_shadow
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 112
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce6e8392cca581570800000000000000
+      internalID: 8437593734790047468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DungeonBg_dark_righttop_shadow
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 112
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f471b8f7eb7caa10800000000000000
+      internalID: 1922047377220400370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FloorOfSkulls_base
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 32
+        height: 32
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4f06754e0f618100800000000000000
+      internalID: 108489973119192909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FloorOfSkulls_30_left
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 0
+        width: 32
+        height: 48
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68260f85341f0edd0800000000000000
+      internalID: -2458700124987039098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FloorOfSkulls_30_right
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 0
+        width: 32
+        height: 48
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18ce2d82b662d3440800000000000000
+      internalID: 4917128609846717569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MediumPillar_base
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 32
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 835db7ed86593ee60800000000000000
+      internalID: 7990394441527186744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MediumPillar_crack_1
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 32
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f3ab7ed925660de0800000000000000
+      internalID: -1367294206359657488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MediumPillar_top_crack_1
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 48
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2bc2e179e04370f0800000000000000
+      internalID: -1120480510902875345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MediumPillar_top_crack_2
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 48
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44b299074ef416df0800000000000000
+      internalID: -188781866812626108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MediumPillar_pedestal
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 64
+        width: 24
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f758e994ba8f1cf0800000000000000
+      internalID: -279352143592794125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallPillar_base
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 64
+        width: 8
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ca29b79358bf22e0800000000000000
+      internalID: -2148295828065146172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MediumPillar_foreground_crack_1
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 48
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13c325aae8e7aeeb0800000000000000
+      internalID: -4689796910744978383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MediumPillar_foreground_fade
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 48
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a5a46d0ac112c600800000000000000
+      internalID: 486971269215200678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MediumPillar_foreground_top_fade
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 64
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7659b898a9c80a960800000000000000
+      internalID: 7611237965616616807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MediumPillar_foreground__top_crack_2
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 80
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b8ad967a83dd4c80800000000000000
+      internalID: -8336774743543928656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MediumPillar_foreground_base
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 64
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 114e56c278c1a0a90800000000000000
+      internalID: -7347028475210505199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MediumPillar_foreground__top_crack_1
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 80
+        width: 16
+        height: 15
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1919c4c6b36450d0800000000000000
+      internalID: -3435010979140134629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 96
+        width: 32
+        height: 8
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19be0d393f945ec70800000000000000
+      internalID: 8999680740875627409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stone_arch
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 104
+        width: 32
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b7cfba1c2447c3c0800000000000000
+      internalID: -4339424759730157647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grave_bg
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 120
+        width: 32
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 704194153df7d6780800000000000000
+      internalID: -8688147560549247993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallBrickSmall_dark
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 136
+        width: 24
+        height: 24
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe577b63f194f50a0800000000000000
+      internalID: -6890708506442762769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallBrickSmall
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 160
+        width: 24
+        height: 24
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5232297688c15590800000000000000
+      internalID: -7687142609061268902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BrickArchedShelf_small_empty
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 184
+        width: 16
+        height: 32
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: badd109552cd412d0800000000000000
+      internalID: -3308777773245276757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BrickArchedShelf_big_empty
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 184
+        width: 32
+        height: 32
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 820b3911655b78ef0800000000000000
+      internalID: -105916684953210840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BrickArchedShelf_big_cracked
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 152
+        width: 32
+        height: 32
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa57b0fded75b7610800000000000000
+      internalID: 1619985105706251695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BrickArchedShelf_big_urn
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 120
+        width: 32
+        height: 32
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afb2bf71475168ca0800000000000000
+      internalID: -6015096663943992326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallPillar_crack_1
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 104
+        width: 8
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f07b2bc1602660000800000000000000
+      internalID: 1796628251064079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallPillar_top
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 104
+        width: 8
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0773d69fdce9d3a0800000000000000
+      internalID: -6640015730528782577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallPillar_top_crack_1
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 104
+        width: 8
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd33146a50c763f20800000000000000
+      internalID: 3402042932230960095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallPillar_crack_2
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 104
+        width: 8
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 503863b5674d2fa90800000000000000
+      internalID: -7281524042703142139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stone_molding_2
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 96
+        width: 16
+        height: 8
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da3925bd01c2a2b80800000000000000
+      internalID: -8418868102505000019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stone_molding_3
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 96
+        width: 16
+        height: 8
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9f1d9d32b2469500800000000000000
+      internalID: 402582550001557406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoneShelf_3
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 88
+        width: 16
+        height: 8
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5702f60e4725adf20800000000000000
+      internalID: 3448159126640599157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stone_molding_1
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 88
+        width: 16
+        height: 8
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 935cb45a87f5ffae0800000000000000
+      internalID: -1513385977999276743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoneShelf_1
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 80
+        width: 16
+        height: 8
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b436869b1b9761b0800000000000000
+      internalID: -5663387463603309391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoneShelf_2
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 80
+        width: 16
+        height: 8
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56d4655eb4aa97ed0800000000000000
+      internalID: -2415712482160652955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stone_molding_floor
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 48
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e25468eed558ee560800000000000000
+      internalID: 7344954680768087342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton_hanging
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 224
+        width: 32
+        height: 32
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eaca74a3cb58291f0800000000000000
+      internalID: -1039621520491041618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton_in_cage
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 216
+        width: 24
+        height: 40
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fc16e795ebdb2820800000000000000
+      internalID: 2894648964658109689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flames_tiling_1
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 232
+        width: 24
+        height: 24
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 883bda39b47a81b20800000000000000
+      internalID: 3105415886113977224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flames_tiling_2
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 208
+        width: 24
+        height: 24
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9d08925ed1a52ce0800000000000000
+      internalID: -1430559330379756130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flames_tiling_3
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 184
+        width: 24
+        height: 24
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4facd0f64714908a0800000000000000
+      internalID: -6338463032212075788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flames_tiling_4
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 160
+        width: 24
+        height: 24
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54b21724b82d3aeb0800000000000000
+      internalID: -4709689289742406843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flames_tiling_5
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 136
+        width: 24
+        height: 24
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63cbf80156d8c3270800000000000000
+      internalID: 8231609684135492662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flames_tiling_6
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 112
+        width: 24
+        height: 24
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 821154379cb707b40800000000000000
+      internalID: 5435980855388737832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flames_tiling_7
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 88
+        width: 24
+        height: 24
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd9e95dba075e1e40800000000000000
+      internalID: 5629032287897774559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flames_tiling_8
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 64
+        width: 24
+        height: 24
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75b76692de864f000800000000000000
+      internalID: 68795262128520023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chain_small_middle
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 240
+        width: 8
+        height: 16
+      alignment: 9
+      pivot: {x: 0.375, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e875095cb6584940800000000000000
+      internalID: 5280565930039277800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallBrickSmall_dark_light_from_below
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 136
+        width: 24
+        height: 24
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf84fd2385c371730800000000000000
+      internalID: 3969707946058664188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallBrickSmall_dark_top_shadow
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 160
+        width: 24
+        height: 24
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18637ed8b5b70b950800000000000000
+      internalID: 6462801098429642369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallBrickSmall_dark_left_shadow
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 184
+        width: 24
+        height: 24
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b847cdab318b4be00800000000000000
+      internalID: 1059674207217808523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stone_molding_2_left
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 128
+        width: 16
+        height: 8
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 018157ace610b2210800000000000000
+      internalID: 1309141692035962896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stone_molding_2_right
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 120
+        width: 16
+        height: 8
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a6e2814485c5a7d0800000000000000
+      internalID: -2907700812572334431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red_pillar_1
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 184
+        width: 24
+        height: 24
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05927aae0b664d2d0800000000000000
+      internalID: -3254863720644925104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red_pillar_2
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 160
+        width: 20
+        height: 24
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0762ae808b42cc160800000000000000
+      internalID: 7047047889770129008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red_pillar_3
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 144
+        width: 20
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a55081c4e57c436c0800000000000000
+      internalID: -4164484547593370278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red_pillar_4
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 112
+        width: 20
+        height: 32
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 150478256d13414f0800000000000000
+      internalID: -859006832343564207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red_pillar_5
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 80
+        width: 20
+        height: 32
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3b9d895142805ff0800000000000000
+      internalID: -49396378714137793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red_pillar_6
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 64
+        width: 20
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc9bfd0ff5fa89a30800000000000000
+      internalID: 4222317477257787852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red_pillar_7
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 48
+        width: 24
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24e966bad44d19720800000000000000
+      internalID: 2851293469155434050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red_pillar_8
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 32
+        width: 24
+        height: 32
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a2ba2f051eb89ba0800000000000000
+      internalID: -6081902299105807707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red_pillar_9
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 0
+        width: 24
+        height: 32
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d32036e294f2c6a00800000000000000
+      internalID: 751027229221388861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RockyPlatform_top_left
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 64
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8c970d2ef05af040800000000000000
+      internalID: 4682143815212440714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RockyPlatform_left
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 40
+        width: 16
+        height: 24
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f879d6bb0eac01220800000000000000
+      internalID: 2454684863482926991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RockyPlatform_right
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 16
+        width: 16
+        height: 24
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83492c9ebe2f80900800000000000000
+      internalID: 651037241208116280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RockyPlatform_loose_rocks_1
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 64
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa8a9ac5ac127f4d0800000000000000
+      internalID: -3100972665399564118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RockyPlatform_loose_rocks_2
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 64
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ee45d3fa0a70e9b0800000000000000
+      internalID: -5052904594450592026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RockyPlatform_top_right
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 48
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3acf23f4a1e9407f0800000000000000
+      internalID: -647218610599428957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RockyPlatform_inner_left
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 32
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 467188f4bd4ce4210800000000000000
+      internalID: 1319208187077334884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RockyPlatform_top
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 32
+        width: 32
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9086fed94654f430800000000000000
+      internalID: 3815769659562950812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RockyPlatform_inner_right
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 32
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ea1882362c6aac80800000000000000
+      internalID: -8310711251046491423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red_pillar_left
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 104
+        width: 16
+        height: 8
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58841a11820edd3d0800000000000000
+      internalID: -3180139299154605947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red_pillar_right
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 96
+        width: 16
+        height: 8
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f03991047b5a9a7e0800000000000000
+      internalID: -1753688373411081457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red_pillar_10
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 64
+        width: 16
+        height: 24
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3b83195a76cb07a0800000000000000
+      internalID: -6409811415849006273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_1
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 176
+        width: 16
+        height: 24
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddcb7a08df918ed60800000000000000
+      internalID: 7919608521306914013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_2
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 176
+        width: 16
+        height: 24
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f2b569c138915ed0800000000000000
+      internalID: -2426991384576281864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_3
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 176
+        width: 16
+        height: 24
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d18576f57751ea990800000000000000
+      internalID: -7372931937513023459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_4
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 176
+        width: 16
+        height: 24
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64df82a60fe22cc80800000000000000
+      internalID: -8304023152809673402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_5
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 176
+        width: 16
+        height: 24
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00ca97a55700be5b0800000000000000
+      internalID: -5338172429288494080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_6
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 176
+        width: 16
+        height: 24
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 621e832003b4dde00800000000000000
+      internalID: 1071094955951841574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_7
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 176
+        width: 16
+        height: 24
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b16a3f16e7b2fe5a0800000000000000
+      internalID: -6489920716208364005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_8
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 176
+        width: 16
+        height: 24
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7afa0a9d68a603670800000000000000
+      internalID: 8516424022766956455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skull_torch
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 144
+        width: 16
+        height: 32
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb0493c0d8a627470800000000000000
+      internalID: 8390886209772667071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirePit_demon
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 176
+        width: 23
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 118935f00b0f6d230800000000000000
+      internalID: 3663379985874524177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chain_big_glow_ceiling
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 216
+        width: 16
+        height: 8
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 565ae0145b4bdc4a0800000000000000
+      internalID: -6571397590690126491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chain_big_glow_end
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 192
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d69f72f9837b9a60800000000000000
+      internalID: 7681860625726674642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chain_big_ceiling
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 208
+        width: 16
+        height: 8
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9a034ff1c90d9270800000000000000
+      internalID: 8258768020483279516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chain_big_end
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 192
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a7e0ff465d11e010800000000000000
+      internalID: 1216285630912325543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodPit_demon
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 176
+        width: 23
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 715baaa1e803f62c0800000000000000
+      internalID: -4436273721045764841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skull_goat_big
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 216
+        width: 40
+        height: 40
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35814178f54636de0800000000000000
+      internalID: -1341117902575364013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PileOfSkulls_left
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 200
+        width: 20
+        height: 24
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87ef0f652ca6c1960800000000000000
+      internalID: 7574046056245165688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocks_1
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 208
+        width: 16
+        height: 12
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57fac4ec6afd01850800000000000000
+      internalID: 6345817782483726197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocks_2
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 208
+        width: 16
+        height: 12
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a06ddf64fa772e70800000000000000
+      internalID: 9090369563138023586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreyStonePlatform_glow_left
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 160
+        width: 32
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0b9d30536209e030800000000000000
+      internalID: 3524350808965356303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreyStonePlatform_glow_center
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 160
+        width: 32
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cc3ef107a18aca30800000000000000
+      internalID: 4236340953788333252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreyStonePlatform_glow_right
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 192
+        width: 32
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8278a4cfe8013410800000000000000
+      internalID: 1454953980506960527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 065aea79603fc5049953ce22c3e5c612
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      DungeonBg_bottom: 7738320768290118801
+      SmallPillar_crack_2: -7281524042703142139
+      Blood_river_3: 8717538601647074729
+      Skulls_bg_tiling_red: -3925557027480323001
+      SpikedGirder_bg_left: -8009523835791904820
+      StoneShelf_3: 3448159126640599157
+      MediumPillar_top_crack_1: -1120480510902875345
+      Dungeon_base: -5642556363635737446
+      GreyStonePlatform_glow_right: 1454953980506960527
+      RockyPlatform_top_right: -647218610599428957
+      Dungeon_top_left: 966659672346040230
+      Ground_brick: 4674600244694611389
+      LavaFlow_4: -1208495314113337730
+      BigPillar_base: 417295277533165531
+      Skulls_bg_tiling: 8550001419501608181
+      WallBrickSmall_dark_top_shadow: 6462801098429642369
+      PileOfSkulls: -2113162642407706465
+      SmallPillar_crack_1: 1796628251064079
+      DungeonBg_dark_left: -3132903060978771892
+      StoneShelf_1: -5663387463603309391
+      Fire_5: -5338172429288494080
+      Chain_big_end: 1216285630912325543
+      Flames_tiling_8: 68795262128520023
+      StoneWallBg_pillar_arc_right: -37176703068357496
+      StoneWall_big_arc_right: 1794276972633611260
+      Flames_tiling_2: -1430559330379756130
+      Red_pillar_5: -49396378714137793
+      RockyPlatform_loose_rocks_1: -3100972665399564118
+      Stone_molding_2: -8418868102505000019
+      PileOfSkulls_bg: 282642351654821398
+      MediumPillar_foreground__top_crack_2: -8336774743543928656
+      Red_pillar_2: 7047047889770129008
+      MetalReinforcementRing_bolts: -6389592991422328300
+      BigPillar_molding: -4876477087402595991
+      GreyStonePlatform_glow_left: 3524350808965356303
+      Flames_tiling_4: -4709689289742406843
+      Dungeon_base_shadow_right: 8630971156138395926
+      Lava_flow_medium_8: -4662521834919012575
+      StoneWall_big_glow_left: 8328730696764138043
+      Dungeon_top_right: -2451269782262220466
+      Demon_head_stone: 2581392049351974187
+      DungeonBg_dark_arch_left: -2032528276967758877
+      MetalReinforcementRing: -5173384994238336537
+      RockyPlatform_loose_rocks_2: -5052904594450592026
+      Fire_1: 7919608521306914013
+      Lava_flow_medium_7: 953755204660525158
+      MediumPillar_pedestal: -279352143592794125
+      Fire_6: 1071094955951841574
+      BigPillar_lava_path: 8185663663663003173
+      Red_pillar_3: -4164484547593370278
+      LavaFlow_1: 4105611452181401965
+      DungeonBg_left_shadow_top: -9143952434920760003
+      WoodPole_vertical_sharpened_top: 4699894858352551851
+      Flames_tiling_7: 5629032287897774559
+      Stone_molding_floor: 7344954680768087342
+      Lava_flow_medium_6: -5483847825617866894
+      WallBrickSmall_dark_light_from_below: 3969707946058664188
+      Skulls_bg_tiling_top: 2386713809793088291
+      Chain_big_glow_right_center: -1373522888440207500
+      StoneWallBg_shadow_top: 6069908418894856030
+      DungeonBg_left: -338878640075685903
+      BrickArchedShelf_small_empty: -3308777773245276757
+      StoneWall_big_glow_right: 6362660053016555412
+      Demon_head_blood_mouth_4: -473020182106958388
+      Rocks_1: 6345817782483726197
+      RockyPlatform_top_left: 4682143815212440714
+      StoneWall_big_shadow_left: -4276819065316688369
+      Stone_molding_3: 402582550001557406
+      Flames_tiling_5: 8231609684135492662
+      WoodPole_vertical: 8954374907331915772
+      MediumPillar_top_crack_2: -188781866812626108
+      RockyPlatform_inner_right: -8310711251046491423
+      BgStonesLitBelow: 1851104286986221364
+      RockyPlatform_top: 3815769659562950812
+      BrickArchedShelf_big_cracked: 1619985105706251695
+      Chain_big_ceiling: 8258768020483279516
+      MediumPillar_foreground_top_fade: 7611237965616616807
+      StoneWallBg_pillar_arc_left: 7500246884010379885
+      Red_pillar_right: -1753688373411081457
+      StoneWall_big_base: 1577709906411153324
+      RockyPlatform_inner_left: 1319208187077334884
+      BgStonesLitBelow_glow_1: 6360676025419446085
+      Dungeon_floor_left: 7607973680606198347
+      RockyPlatform_right: 651037241208116280
+      DungeonBg_dark_right: 2047697995721338004
+      GreyStonePlatform_left: 1431277305354465602
+      FirePit_demon: 3663379985874524177
+      DungeonBg_dark_base: 4219011386512332617
+      Lava_flow_medium_5: 980804385729924832
+      BgStonesLitBelow_darker: 3561865740659869412
+      Blood_river_2: 1614413788338305162
+      Dungeon_floor_shadow_right: -6697237223178868237
+      Lava_flow_medium_2: 1984263624271879057
+      Stone_molding_left: -4790508336224542277
+      DungeonBg_base_shadow_top: 4846516874199886765
+      Fire_7: -6489920716208364005
+      HugeBleedingSkull: -7885736365172090346
+      Dungeon_base_shadow_left: -5568016008439498483
+      Skull_goat_big: -1341117902575364013
+      WallBrickSmall_dark: -6890708506442762769
+      Fire_2: -2426991384576281864
+      DungeonBg_right: 3888848873892941898
+      BloodPit_demon: -4436273721045764841
+      Skull_torch: 8390886209772667071
+      GreyStonePlatform_right: 3944124930592232374
+      BgStonesLitBelow_darkest: 6611726693015324137
+      PileOfSkulls_left: 7574046056245165688
+      Stone_arch: -4339424759730157647
+      Red_pillar_10: -6409811415849006273
+      Red_pillar_4: -859006832343564207
+      Red_pillar_7: 2851293469155434050
+      SmallPillar_top: -6640015730528782577
+      DungeonBg_right_shadow_top: 628777763388937853
+      Demon_head_blood_mouth_3: 2414120131373370219
+      BrickArchedShelf_big_urn: -6015096663943992326
+      Chain_big_center: -8472122993153491239
+      StoneWallBg_shadow_left: -8551275942444029543
+      DungeonBg_arch_right: -4685280714521996157
+      Dungeon_ceiling: 2091457833688836810
+      GreyStonePlatform_center: 6286702832504253720
+      MediumPillar_foreground__top_crack_1: -3435010979140134629
+      Flames_tiling_3: -6338463032212075788
+      Dungeon_bottom_left: -2764689250695818338
+      DungeonBg_dark_left_top_shadow: 561889002951831203
+      StoneWall_big_arc_left: 7136198513328636913
+      Blood_flow_4: -1917725186227352876
+      FloorOfSkulls_base: 108489973119192909
+      Grave_bg: -8688147560549247993
+      Red_pillar_9: 751027229221388861
+      MediumPillar_foreground_fade: 486971269215200678
+      Blood_flow_3: -3301676943543221448
+      Blood_river_8: -3559814952901370030
+      Skulls_bg_tiling_red_top: -8458612922474617694
+      SmallPillar_top_crack_1: 3402042932230960095
+      Demon_head_blood_mouth_2: 6703765383147626246
+      Skeleton_in_cage: 2894648964658109689
+      Blood_river_1: 1413712645397234031
+      MediumPillar_base: 7990394441527186744
+      Blood_flow_1: 644969975102567731
+      Flames_tiling_6: 5435980855388737832
+      DungeonBg_dark_righttop_shadow: 1922047377220400370
+      StoneWallBg_base: 8988027240868503905
+      BgStonesLitBelow_glow_2: -1596515619050260937
+      WallBrickSmall: -7687142609061268902
+      FloorOfSkulls_30_right: 4917128609846717569
+      WallBrickSmall_dark_left_shadow: 1059674207217808523
+      Chain_small_middle: 5280565930039277800
+      BrickArchedShelf_big_empty: -105916684953210840
+      Dungeon_floor: -1006368768582853733
+      Stone_skulls: 9009987339751958028
+      Lava_flow_medium_1: -3686364510360227003
+      Fire_4: -8304023152809673402
+      Dungeon_arch_left: -3495509740983538979
+      DungeonBg_dark_base_top_shadow: 8437593734790047468
+      Demon_head_blood_mouth_1: -6006530655092133263
+      BigPillar_lava_mouth_2: -7892936032226310227
+      Rocks_2: 9090369563138023586
+      StoneWallBg_pillar: -7792874954320870033
+      BigPillar_lava_mouth_1: -5726530772063605807
+      Dungeon_floor_shadow_left: -982132715367188253
+      Stone_molding_1: -1513385977999276743
+      RockyPlatform_left: 2454684863482926991
+      Flames_tiling_1: 3105415886113977224
+      MediumPillar_foreground_crack_1: -4689796910744978383
+      StoneShelf_2: -2415712482160652955
+      Dungeon_floor_right: 3626902380854037151
+      Chain_big_glow_ceiling: -6571397590690126491
+      SpikedGirder_bg_center: -4791188339038546579
+      SpikedGirder_bg_right: 8371633821263861393
+      Dungeon_arch_right: -2870325723597232771
+      Skeleton_hanging: -1039621520491041618
+      Blood_river_5: 7897401148768875593
+      MediumPillar_crack_1: -1367294206359657488
+      Red_pillar_left: -3180139299154605947
+      DungeonBg_base: -2209010735067826207
+      Blood_flow_2: -2848145634069934029
+      Dungeon_bottom_right: -5747693678720939885
+      Blood_river_6: 8385528353923618356
+      GreyStonePlatform_glow_center: 4236340953788333252
+      Dungeon_left: -7056288463454999369
+      Stone_molding: 5230861502198584867
+      Chain_big_glow_end: 7681860625726674642
+      LavaFlow_2: 5235443955437367824
+      DungeonBg_dark_arch_right: 3426888851405480317
+      Blood_river_4: -6359571085295226965
+      Skeleton: 8999680740875627409
+      FloorOfSkulls_30_left: -2458700124987039098
+      DungeonBg_dark_bottom: -8251216584996549422
+      SmallPillar_base: -2148295828065146172
+      Fire_3: -7372931937513023459
+      MediumPillar_foreground_base: -7347028475210505199
+      Stone_molding_right: 8318740917665581112
+      DungeonBg_arch_left: -3967656126016861120
+      Blood_river_7: -9141535391857722240
+      Lava_flow_medium_3: 1018972099905497587
+      Red_pillar_6: 4222317477257787852
+      StoneWallBg_pillar_arc_both_sides: 6926259904089982887
+      Lava_flow_medium_4: -1598894979491483425
+      Stone_molding_2_left: 1309141692035962896
+      Dungeon_right: -5047719116474998346
+      Red_pillar_1: -3254863720644925104
+      Red_pillar_8: -6081902299105807707
+      LavaFlow_3: 7726557660532559267
+      Stone_molding_2_right: -2907700812572334431
+      Fire_8: 8516424022766956455
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,7393 @@
+fileFormatVersion: 2
+guid: 33f7ab28bf6517d4eafb796a69203c62
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6602206758544566089
+    second: SewageWater_1
+  - first:
+      213: 9059654781645116326
+    second: SewageWater_2
+  - first:
+      213: -9144036979348324990
+    second: SewageWater_3
+  - first:
+      213: -7520094819429865811
+    second: SewageWater_4
+  - first:
+      213: 3508711303983705530
+    second: SewageWater_5
+  - first:
+      213: -2928496269566575573
+    second: SewageWater_6
+  - first:
+      213: -5649931354676539333
+    second: SewerBrick32
+  - first:
+      213: -7586321631788284914
+    second: SewerBrick32_damaged
+  - first:
+      213: -4521866529113516713
+    second: SewerBrick16
+  - first:
+      213: -8207182456481337019
+    second: SewerBrick16_damaged
+  - first:
+      213: -8101519357380031666
+    second: SewerBrickWallBg32
+  - first:
+      213: -2706866499789621472
+    second: SewerBrickWallBg32_shadow
+  - first:
+      213: -1013196709478745188
+    second: SewerBrick32_surface_1
+  - first:
+      213: -2013315735534159907
+    second: SewerBrick32_surface_2
+  - first:
+      213: 5570890467457298037
+    second: SewerBrick32_surface_3
+  - first:
+      213: -8121514186273818142
+    second: SewerBrick32_surface_4
+  - first:
+      213: -2039855005941383805
+    second: SewerBrick32_drain_1
+  - first:
+      213: 8429582604545349067
+    second: SewerBrick32_drain_2
+  - first:
+      213: -1083539450221535647
+    second: SewerBrick32_drain_3
+  - first:
+      213: -2445491267604534101
+    second: SewerBrick32_drain_4
+  - first:
+      213: 6437149731840196420
+    second: SewerBrick32_32_grill
+  - first:
+      213: 9096688311398620170
+    second: SewerBrickWallBg32_shadow_right
+  - first:
+      213: 3691548579174926387
+    second: SewerBrickWallBg32_shadow_left
+  - first:
+      213: 3947189004884198971
+    second: SmallPipes_top_left
+  - first:
+      213: -3768883979781903018
+    second: SmallPipes_top_right
+  - first:
+      213: -8736782977457920708
+    second: SmallPipes_bottom_left
+  - first:
+      213: -4713301661566378904
+    second: SmallPipes_bottom_right
+  - first:
+      213: 1936897262134667309
+    second: SmallPipes_horizontal_connect
+  - first:
+      213: -210704952863312597
+    second: SmallPipes_vertical_connect
+  - first:
+      213: -3071781238692722129
+    second: SmallPipes_cross
+  - first:
+      213: 5265389107868055788
+    second: SmallPipes_vertical_valve
+  - first:
+      213: -4961194211835478828
+    second: SewerBrick32x32_floor_left
+  - first:
+      213: -578468617349121420
+    second: SewerBrick32x32_floor_center
+  - first:
+      213: 8920503743014236150
+    second: SewerBrick32x32_floor_right
+  - first:
+      213: -8880430208183769308
+    second: SewerBrick32x32_stairs_left
+  - first:
+      213: -4231551549719481184
+    second: SewerBrick32x32_stairs_right
+  - first:
+      213: -6383261154068052402
+    second: SewerBrick32_surface_left_1
+  - first:
+      213: -7531298309849724801
+    second: SewerBrick32_surface_left_2
+  - first:
+      213: -1090108409384558542
+    second: SewerBrick32_surface_left_3
+  - first:
+      213: 5251732394614781392
+    second: SewerBrick32_surface_left_4
+  - first:
+      213: -8482382926457240508
+    second: SewerBrick32_surface_right_1
+  - first:
+      213: 3895231934389047981
+    second: SewerBrick32_surface_right_2
+  - first:
+      213: 9167832316938209933
+    second: SewerBrick32_surface_right_3
+  - first:
+      213: 544186680836714988
+    second: SewerBrick32_surface_right_4
+  - first:
+      213: 7373811331473205094
+    second: SewerBrick32_surface_notile_1
+  - first:
+      213: -8253981570490952368
+    second: SewerBrick32_surface_notile_2
+  - first:
+      213: 8850856328035097064
+    second: SewerBrick32_surface_notile_3
+  - first:
+      213: -6620612683898961401
+    second: SewerBrick32_surface_notile_4
+  - first:
+      213: -1425102165130364154
+    second: SmallPipes_horizontal
+  - first:
+      213: -8285753226802772658
+    second: SmallPipes_vertical
+  - first:
+      213: 7146300254938802938
+    second: SewerBigTunnelGate
+  - first:
+      213: -356198892863830810
+    second: YellowTower_left
+  - first:
+      213: -1678944429749621558
+    second: YellowTower_base
+  - first:
+      213: -6294582521563452047
+    second: YellowTower_right
+  - first:
+      213: -3354265459807083832
+    second: YellowTower_door_right
+  - first:
+      213: -4624221911761913081
+    second: YellowTower_door_left
+  - first:
+      213: -41961961820171240
+    second: MarbleFloor_top
+  - first:
+      213: -4323383473053051995
+    second: MarbleFloor_base
+  - first:
+      213: -2479336308866160967
+    second: TiltedCheckerBg_base
+  - first:
+      213: -7134103192997871891
+    second: TiltedCheckerBg_left_shadow
+  - first:
+      213: 8378164748474869296
+    second: TiltedCheckerBg_shadow_full
+  - first:
+      213: -4958867466595839684
+    second: MarblePillar_top
+  - first:
+      213: -3179516491536660600
+    second: MarblePillar_middle
+  - first:
+      213: -6405677340065621884
+    second: MarblePillar_bottom
+  - first:
+      213: 8818650260141887921
+    second: CastleSmallStone_base
+  - first:
+      213: -1524100843719449527
+    second: CastleSmallStone_arc
+  - first:
+      213: 5579501435779965990
+    second: CastleSmallStone_keystone
+  - first:
+      213: 4557750198478876694
+    second: TiltedCheckerBg_arc_shadow
+  - first:
+      213: -6549918331358296378
+    second: TiltedCheckerBg_top_shadow
+  - first:
+      213: -2825332055754305299
+    second: CastleSmallStone_bottom
+  - first:
+      213: -9201328780086503838
+    second: CastleSmallStone_base_left_shadow
+  - first:
+      213: -7419157398315941729
+    second: CastleSmallStone_bottom_left_shadow
+  - first:
+      213: 531391111476919692
+    second: TiltedCheckerBg_right_shadow
+  - first:
+      213: -1239897202659302007
+    second: CastleBigStone_base
+  - first:
+      213: 4163049500083211390
+    second: CastleBigStone_door_left
+  - first:
+      213: 2072626749617657455
+    second: CastleSmallStone_bottom_right_shadow
+  - first:
+      213: -6003565836595066182
+    second: CastleSmallStone_base_right_shadow
+  - first:
+      213: 5618563577613597749
+    second: TiltedCheckerBg_top_right_shadow
+  - first:
+      213: -7171907610249805758
+    second: CastleBigStone_left_curved
+  - first:
+      213: -4651825450543757607
+    second: CastleBigStone_door_left_mask
+  - first:
+      213: -484936260755466427
+    second: Banner_top
+  - first:
+      213: 3798334349029924300
+    second: Banner_middle
+  - first:
+      213: 5625379323721988188
+    second: Banner_crown
+  - first:
+      213: -6434840847948711692
+    second: Banner_bottom
+  - first:
+      213: 8841409352269241465
+    second: CastleBigStone_right_curved
+  - first:
+      213: -4625977650419688724
+    second: CastleBigStone_door_right
+  - first:
+      213: 2791536455296807210
+    second: CastleBigStone_door_right_mask
+  - first:
+      213: -2290795539433069956
+    second: WallPaper_stripes
+  - first:
+      213: -6682920890183059018
+    second: RedCarpetPedestal_left
+  - first:
+      213: 1327671955550271073
+    second: RedCarpetPedestal_center
+  - first:
+      213: -8289565671448427889
+    second: RedCarpetPedestal_right
+  - first:
+      213: -1799480739677022568
+    second: WoodPanel_2
+  - first:
+      213: -8377973108799106897
+    second: WoodPanel_1
+  - first:
+      213: 3466270157901063655
+    second: KingsThrone
+  - first:
+      213: -942401399355549220
+    second: Painting_1
+  - first:
+      213: 6960685199866158351
+    second: YellowTower_door_left_mask
+  - first:
+      213: 6703942523432353535
+    second: YellowTower_door_right_mask
+  - first:
+      213: 5506022880726950906
+    second: YellowTower_door_tall_left
+  - first:
+      213: -6026601988720874971
+    second: YellowTower_door_tall_right
+  - first:
+      213: -2146989829102693514
+    second: YellowTower_door_tall_left_mask
+  - first:
+      213: -7007601916113640283
+    second: YellowTower_door_tall_right_mask
+  - first:
+      213: -7334752208147002068
+    second: TallWindow_1
+  - first:
+      213: 792229772628772724
+    second: CastleSmallStone_holes
+  - first:
+      213: 7373602261841725010
+    second: CastleSmallStone_arc_base
+  - first:
+      213: -3304509391584561063
+    second: Pedestal_wood
+  - first:
+      213: 8057395214944995007
+    second: Armor_1
+  - first:
+      213: -6218116540104916656
+    second: TiltedCheckerBg_arc_base_shadow
+  - first:
+      213: 5738157008832626783
+    second: CastleSmallStone_holes_2
+  - first:
+      213: -7171907610249805758
+    second: WindowPillar_top_left
+  - first:
+      213: -3005180069928173834
+    second: WindowPillar_top_right
+  - first:
+      213: 42756757315573569
+    second: WindowPillar_middle_left
+  - first:
+      213: -1963151490382548640
+    second: WindowPillar_bottom_left
+  - first:
+      213: 8920677630416002798
+    second: WindowPillar_bottom_right
+  - first:
+      213: -2295510548996002938
+    second: WindowPillar_middle_right
+  - first:
+      213: -2806127418055162729
+    second: GreyMolding_left
+  - first:
+      213: -6360459278118503718
+    second: GreyMolding_right
+  - first:
+      213: 2732300523913280586
+    second: CurtainWindow
+  - first:
+      213: 542601780530007521
+    second: GreyMolding_center
+  - first:
+      213: -758576849171930636
+    second: WhiteStoneWallBg_shadow_left
+  - first:
+      213: 4004701450297028583
+    second: WhiteStoneWallBg_base
+  - first:
+      213: -927770159059532611
+    second: WhiteStoneWallBg_shadow_right
+  - first:
+      213: 6236920455509653840
+    second: WoodPlankFloor
+  - first:
+      213: 8147333881200559311
+    second: CastleSmallStoneBg_base
+  - first:
+      213: -1735610766819027466
+    second: TorchWall_1
+  - first:
+      213: -3011865760777430930
+    second: TorchWall_2
+  - first:
+      213: -896148133646293917
+    second: TorchWall_3
+  - first:
+      213: -5961864321238200025
+    second: Candelabra
+  - first:
+      213: 8106112579477314604
+    second: Candelabra_candle_flames_1
+  - first:
+      213: 933250195438063378
+    second: Candelabra_candle_flames_2
+  - first:
+      213: 3810753161184109472
+    second: Candelabra_candle_flames_3
+  - first:
+      213: 176756838309844374
+    second: Candelabra_candle_flames_4
+  - first:
+      213: -6976816117894783254
+    second: CastleSmallStoneBg_shadow_left
+  - first:
+      213: -3710093778838267754
+    second: CastleSmallStoneBg_shadow_top_left
+  - first:
+      213: 4949128158137414466
+    second: CastleSmallStoneBg_shadow_right
+  - first:
+      213: -3233154600809261690
+    second: CastleSmallStoneBg_shadow_top_right
+  - first:
+      213: -6958592929557468852
+    second: CastleSmallStoneBg_shadow_top
+  - first:
+      213: 3761357424534562653
+    second: MetalReinforcement_left
+  - first:
+      213: 7768783776382342331
+    second: WoodPole_left
+  - first:
+      213: 2914512501942893093
+    second: MetalReinforcement_right
+  - first:
+      213: 8252439702973839613
+    second: WoodPole_right
+  - first:
+      213: -7836150183295354865
+    second: WoodSupport_left_shadow
+  - first:
+      213: 8990643473866943254
+    second: WoodSupport_left
+  - first:
+      213: 6661629553774433589
+    second: WoodSupport_right_shadow
+  - first:
+      213: 6030407179165105593
+    second: WoodSupport_right
+  - first:
+      213: -8830161341137007688
+    second: CastleBigStone_floor_left
+  - first:
+      213: -8249218236391119844
+    second: CastleBigStone_floor_right
+  - first:
+      213: -1439587129400836304
+    second: CastleBigStone_floor_top_right
+  - first:
+      213: 659096904758531983
+    second: CastleBigStone_bg_pillar
+  - first:
+      213: 8920677630416002798
+    second: CastleBigStone_floor
+  - first:
+      213: 4774806176676913671
+    second: CastleBigStone_right
+  - first:
+      213: 1040775306415553932
+    second: CastleBigStone_floor_top_left
+  - first:
+      213: -5998509215827746613
+    second: CastleBigStone_left
+  - first:
+      213: -3382272076563809321
+    second: CastleBigStone_ceiling_inner_left
+  - first:
+      213: -1114433715443124134
+    second: CastleBigStone_ceiling_24px
+  - first:
+      213: -8669418934586038718
+    second: CastleBigStone_ceiling_outer_left_24px
+  - first:
+      213: 7114211315846007443
+    second: CastleBigStone_ceiling_inner_right
+  - first:
+      213: 5069920623508532111
+    second: CastleBigStone_ceiling_outer_right_24px
+  - first:
+      213: -5237226985335393235
+    second: CastleSmallStoneBg_shadow_top_8px
+  - first:
+      213: -5081745602857599551
+    second: CastleBigStone_bg_pillar_top_shadow
+  - first:
+      213: -3054319012222629043
+    second: CastleBigStone_bg
+  - first:
+      213: -8030469522679375428
+    second: CastleBigStone_floor_checker_right
+  - first:
+      213: 9044061871632776323
+    second: CastleBigStone_floor_checker_left
+  - first:
+      213: 492025818246287379
+    second: WoodPlankFloor_platform_left
+  - first:
+      213: 5132822504794119441
+    second: WoodPlankFloor_platform_right
+  - first:
+      213: 1025776530083818725
+    second: FancyDoor_closed
+  - first:
+      213: -1423464558936705988
+    second: FancyDoor_open_1
+  - first:
+      213: 5565694317909218353
+    second: FancyDoor_open_2
+  - first:
+      213: 7060469757947998398
+    second: CastleDoor_closed
+  - first:
+      213: -1140095154531332760
+    second: CastleDoor_open_1
+  - first:
+      213: -4055670784827651618
+    second: CastleDoor_open_2
+  - first:
+      213: 808776575989321869
+    second: SewerBrick32_tiled
+  - first:
+      213: -3360504634517251474
+    second: SewerBrick32_tiled_left
+  - first:
+      213: 3743739252986890562
+    second: SewerBrick32_tiled_right
+  - first:
+      213: 2593812316488076831
+    second: Ladder_grey_top
+  - first:
+      213: 4922988311241736804
+    second: Ladder_grey_middle
+  - first:
+      213: -8160260563888419340
+    second: Ladder_grey_bottom
+  - first:
+      213: 7803322747901566274
+    second: CastleBigStone_bg_pillar_shadow_below
+  - first:
+      213: 5805476271481103723
+    second: LavaBase_8
+  - first:
+      213: 5183734866312327840
+    second: LavaBase_7
+  - first:
+      213: -4782226189999122585
+    second: LavaBase_6
+  - first:
+      213: -385578578023549237
+    second: LavaBase_5
+  - first:
+      213: 7936961471138542298
+    second: LavaBase_4
+  - first:
+      213: -7195704305201696199
+    second: LavaBase_3
+  - first:
+      213: 4355888090075161230
+    second: LavaBase_2
+  - first:
+      213: -998135144531568305
+    second: LavaBase_1
+  - first:
+      213: -6167413043888199122
+    second: LavaTop_1
+  - first:
+      213: 8568747144998380094
+    second: LavaTop_2
+  - first:
+      213: -2012132654485923743
+    second: LavaTop_3
+  - first:
+      213: -8111438068016980417
+    second: LavaTop_4
+  - first:
+      213: -3856323272594528589
+    second: LavaTop_5
+  - first:
+      213: 2000673777149527436
+    second: LavaTop_6
+  - first:
+      213: -1312905436971844158
+    second: LavaTop_7
+  - first:
+      213: -685818139356366683
+    second: LavaTop_8
+  - first:
+      213: 6001964809771070536
+    second: CyanWarpPipe
+  - first:
+      213: 2586409232507503569
+    second: CyanWarpPipeLeft
+  - first:
+      213: 8557136119303213256
+    second: CyanWarpPipeRight
+  - first:
+      213: 2634304608797337455
+    second: CaveCyan_floor
+  - first:
+      213: -2053306990838466102
+    second: CaveCyan_left
+  - first:
+      213: -7686132402282617399
+    second: CaveCyan_right
+  - first:
+      213: 2070725366043154466
+    second: CaveCyan_ceiling
+  - first:
+      213: 4299013911773497484
+    second: CaveCyan_outer_top_right
+  - first:
+      213: 1873839925467786724
+    second: CaveCyan_outer_top_left
+  - first:
+      213: -6527199419064027280
+    second: CaveCyan_inner_bottom_right
+  - first:
+      213: -5870191403599368816
+    second: CaveCyan_inner_bottom_left
+  - first:
+      213: -828093090487206314
+    second: CaveCyan_inner_top_left
+  - first:
+      213: 6770792789834115498
+    second: CaveCyan_inner_top_right
+  - first:
+      213: 8692149117609429125
+    second: Cave_sand_bg
+  - first:
+      213: 7607973680606198347
+    second: Dungeon_floor_left
+  - first:
+      213: -5642556363635737446
+    second: Dungeon_base
+  - first:
+      213: 3626902380854037151
+    second: Dungeon_floor_right
+  - first:
+      213: 978950325268829031
+    second: Dungeon_floor_top_left
+  - first:
+      213: -1006368768582853733
+    second: Dungeon_floor
+  - first:
+      213: 7940779969324735134
+    second: Dungeon_floor_top_right
+  - first:
+      213: -3967656126016861120
+    second: DungeonBg_arch_left
+  - first:
+      213: -4685280714521996157
+    second: DungeonBg_arch_right
+  - first:
+      213: -338878640075685903
+    second: DungeonBg_left
+  - first:
+      213: 7738320768290118801
+    second: DungeonBg_bottom
+  - first:
+      213: 3888848873892941898
+    second: DungeonBg_right
+  - first:
+      213: -2209010735067826207
+    second: DungeonBg_base
+  - first:
+      213: 3936792850602234582
+    second: DungeonBg_oneway_glow_1
+  - first:
+      213: -2724053200766228904
+    second: DungeonBg_oneway_glow_2
+  - first:
+      213: 4491031800330263145
+    second: DungeonBg_oneway_glow_3
+  - first:
+      213: -3589649056253203995
+    second: Dungeon_stonw_wall_bg
+  - first:
+      213: -7171907610249805758
+    second: DungeonBg_dark_base
+  - first:
+      213: 2047697995721338004
+    second: DungeonBg_dark_right
+  - first:
+      213: -8251216584996549422
+    second: DungeonBg_dark_bottom
+  - first:
+      213: -3132903060978771892
+    second: DungeonBg_dark_left
+  - first:
+      213: -1674185062028702569
+    second: CaveCyan_top45_left
+  - first:
+      213: -3842770078703939073
+    second: CaveCyan_top45_right
+  - first:
+      213: -6185326215256110199
+    second: CaveCyan_floor45_right
+  - first:
+      213: -5092729428141873814
+    second: CaveCyan_45_right_tiling
+  - first:
+      213: -1259365386353921382
+    second: CastleBigStone_chain_ring
+  - first:
+      213: -6837784669231721573
+    second: CastleBigStone_chain_tiling
+  - first:
+      213: 3395508975724895614
+    second: CaveCyan_floor45_left
+  - first:
+      213: 226740077709104218
+    second: CaveCyan_45_left_tiling
+  - first:
+      213: -2870325723597232771
+    second: Dungeon_arch_right
+  - first:
+      213: 2091457833688836810
+    second: Dungeon_ceiling
+  - first:
+      213: -3495509740983538979
+    second: Dungeon_arch_left
+  - first:
+      213: -2764689250695818338
+    second: Dungeon_bottom_left
+  - first:
+      213: -5747693678720939885
+    second: Dungeon_bottom_right
+  - first:
+      213: 8252737845376856226
+    second: Dungeon_platform_right
+  - first:
+      213: -2766723028080404124
+    second: Dungeon_platform_left
+  - first:
+      213: 5509208040433356145
+    second: Dungeon_platform_center
+  - first:
+      213: -7056288463454999369
+    second: Dungeon_left
+  - first:
+      213: -5047719116474998346
+    second: Dungeon_right
+  - first:
+      213: 8907342633621519071
+    second: Chandelier_top
+  - first:
+      213: -8211903389980859667
+    second: Chandelier_chain
+  - first:
+      213: -4704848311800635442
+    second: Chandelier
+  - first:
+      213: -982132715367188253
+    second: Dungeon_floor_shadow_left
+  - first:
+      213: -6697237223178868237
+    second: Dungeon_floor_shadow_right
+  - first:
+      213: 8630971156138395926
+    second: Dungeon_base_shadow_right
+  - first:
+      213: -5568016008439498483
+    second: Dungeon_base_shadow_left
+  - first:
+      213: 7719352787738313767
+    second: CaveCyan_top45_left_corner
+  - first:
+      213: -2235139917723801622
+    second: CaveCyan_top45_right_corner
+  - first:
+      213: -2032528276967758877
+    second: DungeonBg_dark_arch_left
+  - first:
+      213: 3426888851405480317
+    second: DungeonBg_dark_arch_right
+  - first:
+      213: -8309443621568334134
+    second: Dungeon_lavaGlowPlat_center_1
+  - first:
+      213: 5304395406451583058
+    second: Dungeon_lavaGlowPlat_center_2
+  - first:
+      213: 8813094943109390502
+    second: Dungeon_lavaGlowPlat_center_3
+  - first:
+      213: 1389146558380239302
+    second: Dungeon_lavaGlowPlat_left_1
+  - first:
+      213: -3941898748348288368
+    second: Dungeon_lavaGlowPlat_left_2
+  - first:
+      213: 114965186427503599
+    second: Dungeon_lavaGlowPlat_right_1
+  - first:
+      213: 706757102440224171
+    second: Dungeon_lavaGlowPlat_right_2
+  - first:
+      213: 3685702739813868009
+    second: ChainBg_end
+  - first:
+      213: -982940350976357124
+    second: ChainBg_tiling
+  - first:
+      213: 8210190546404542650
+    second: ChainBg_ceiling
+  - first:
+      213: 6525484839990704517
+    second: ChainBg_end_glow_1
+  - first:
+      213: 1625165780125024380
+    second: ChainBg_tiling_glow_1
+  - first:
+      213: 3358231070065165915
+    second: ChainBg_ceiling_glow_1
+  - first:
+      213: -265190516327114552
+    second: ChainBg_end_glow_2
+  - first:
+      213: -8726351921248568253
+    second: ChainBg_tiling_glow_2
+  - first:
+      213: 7752401671177001976
+    second: ChainBg_ceiling_glow_2
+  - first:
+      213: -7205540727128798365
+    second: WallPaper_red_balls
+  - first:
+      213: -7188272248757222669
+    second: CastleBigStone_chain_end
+  - first:
+      213: -1934902134815009904
+    second: CastleBigStone_chain_hole
+  - first:
+      213: -4176556120225052815
+    second: Painting_2
+  - first:
+      213: -8178534837892695431
+    second: Painting_3
+  - first:
+      213: -3050488349245493909
+    second: GrateDoor_closed
+  - first:
+      213: -7314257326820596591
+    second: GrateDoor_open_1
+  - first:
+      213: -2446961189939070760
+    second: GrateDoor_open_2
+  - first:
+      213: -9127897099442666949
+    second: BgWindow_1
+  - first:
+      213: -2088444359756586143
+    second: BgWindow_2
+  - first:
+      213: -7926187200267980204
+    second: BgWindow_3
+  - first:
+      213: 6252217878309885966
+    second: BgWindow_4
+  - first:
+      213: -6251293174880673919
+    second: BgWindow_5
+  - first:
+      213: 5500960692871284831
+    second: BgWindow_6
+  - first:
+      213: -1500183277959464741
+    second: WoodSupport_vertical
+  - first:
+      213: -1804956648395592828
+    second: WoodSupport_shadow
+  - first:
+      213: -5677888663947804035
+    second: WoodSupport_shadow_glow_1
+  - first:
+      213: 341016775735226425
+    second: WoodSupport_shadow_glow_2
+  - first:
+      213: 3776011452931145940
+    second: Skull
+  - first:
+      213: -2772834001725440022
+    second: Chest_big
+  - first:
+      213: -4785411486676052573
+    second: Chest_small
+  - first:
+      213: 1552234259821996508
+    second: StoneTile_big
+  - first:
+      213: 8942333084367974027
+    second: StoneTile_small
+  - first:
+      213: -7140464049720929081
+    second: Painting_4
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SewageWater_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 32
+        height: 32
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0aa9ca75d9bdf4449fe42629cee5ebb
+      internalID: -6602206758544566089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SewageWater_2
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 96
+        width: 32
+        height: 32
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b696a1d15f55b174dbbd757b4e4eb8c2
+      internalID: 9059654781645116326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SewageWater_3
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 96
+        width: 32
+        height: 32
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b949fb0492228214b937d82f8f574fc2
+      internalID: -9144036979348324990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SewageWater_4
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 96
+        width: 32
+        height: 32
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1764db7e7cfeb874d8cbdfc698e1a2e0
+      internalID: -7520094819429865811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SewageWater_5
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 96
+        width: 32
+        height: 32
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61ee46bf3bed83440a6f2b2ac9c1b961
+      internalID: 3508711303983705530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SewageWater_6
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 96
+        width: 32
+        height: 32
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d302fc0a0c6dd4142afca42a5bd45ba2
+      internalID: -2928496269566575573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SewerBrick32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 80
+        width: 32
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb9207884e07b9943ae272d911d514ca
+      internalID: -5649931354676539333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SewerBrick32_damaged
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 80
+        width: 32
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d1045b2b06a40e4e9f032e08a1998f0
+      internalID: -7586321631788284914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SewerBrick16
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 80
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1964d74cc6df25748960351c43fdd880
+      internalID: -4521866529113516713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SewerBrick16_damaged
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 80
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d479b3f81861e324b946769bf47a544b
+      internalID: -8207182456481337019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SewerBrickWallBg32
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 80
+        width: 32
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a01d12ace4f2634b85609f68b5c4ca6
+      internalID: -8101519357380031666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SewerBrickWallBg32_shadow
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 80
+        width: 32
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 955e8cc8db4b2c844b5f937400de2c62
+      internalID: -2706866499789621472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SewerBrick32_surface_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 32
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 014f4296935de41479edef217093e5eb
+      internalID: -1013196709478745188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SewerBrick32_surface_2
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 64
+        width: 32
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07acbac978b988e4f8ca1e54fbe920a3
+      internalID: -2013315735534159907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SewerBrick32_surface_3
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 32
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37d0c47dc1abcc74b86680b008258808
+      internalID: 5570890467457298037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SewerBrick32_surface_4
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 64
+        width: 32
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13d722cf92ee96d48b000917db94be0c
+      internalID: -8121514186273818142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SewerBrick32_drain_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 32
+        height: 32
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f34af13ce87f6ee4dbc44d7c0d2a3dff
+      internalID: -2039855005941383805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SewerBrick32_drain_2
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 32
+        width: 32
+        height: 32
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af58dc34ac1629942959eef505ba1973
+      internalID: 8429582604545349067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SewerBrick32_drain_3
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 32
+        width: 32
+        height: 32
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1afbb053eff5b064dac12f431314cd9f
+      internalID: -1083539450221535647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SewerBrick32_drain_4
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 32
+        width: 32
+        height: 32
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc0d38b60e129844a852a0f4500cd860
+      internalID: -2445491267604534101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SewerBrick32_32_grill
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 0
+        width: 32
+        height: 32
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d300f4661f4cb4469e4d4e1a2478b97
+      internalID: 6437149731840196420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SewerBrickWallBg32_shadow_right
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 80
+        width: 32
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee0b906323c4d114d83edb623331f16f
+      internalID: 9096688311398620170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SewerBrickWallBg32_shadow_left
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 80
+        width: 32
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3502e6dffb6a5714a9d6713d03445312
+      internalID: 3691548579174926387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallPipes_top_left
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 112
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10664ccc65284094ea5d5915a31ea115
+      internalID: 3947189004884198971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallPipes_top_right
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 112
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b854de2eb75ad594fb25cff9d2627343
+      internalID: -3768883979781903018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallPipes_bottom_left
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 96
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa98def76db093a4a970e994a8461039
+      internalID: -8736782977457920708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallPipes_bottom_right
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f393061518c05874ab00e9fcc2fa9ee8
+      internalID: -4713301661566378904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallPipes_horizontal_connect
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 112
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a353dc32e4555a4aa0cdb007bcefe60
+      internalID: 1936897262134667309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallPipes_vertical_connect
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 112
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bb8237ed401708458da5c76c0e25c53
+      internalID: -210704952863312597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallPipes_cross
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 96
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60103db1082bd304c9034db10e4be3c4
+      internalID: -3071781238692722129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallPipes_vertical_valve
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 96
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ed6a60167e22894ea0a4f8291245fc2
+      internalID: 5265389107868055788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SewerBrick32x32_floor_left
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 32
+        height: 32
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6bc04dd218feda41aed1450d2e44c07
+      internalID: -4961194211835478828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SewerBrick32x32_floor_center
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 32
+        height: 32
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e44f142f2f5a01048bdfbb063b02df10
+      internalID: -578468617349121420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SewerBrick32x32_floor_right
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 32
+        height: 32
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43d84de23f5dde740966d673a707841d
+      internalID: 8920503743014236150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SewerBrick32x32_stairs_left
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 32
+        height: 32
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5b037cae02ee9349992191627946219
+      internalID: -8880430208183769308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SewerBrick32x32_stairs_right
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 32
+        height: 32
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c08fbba344cacb74db9ed38c3d579136
+      internalID: -4231551549719481184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SewerBrick32_surface_left_1
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 48
+        width: 32
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2290624bfd06da645a6fbce36e525e1c
+      internalID: -6383261154068052402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SewerBrick32_surface_left_2
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 48
+        width: 32
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bd9face6b0d7c941a30ed374bd832a7
+      internalID: -7531298309849724801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SewerBrick32_surface_left_3
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 48
+        width: 32
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 342e46b5d69aa0b44ad86974def50537
+      internalID: -1090108409384558542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SewerBrick32_surface_left_4
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 48
+        width: 32
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c5c99622b0bd0a45b8239d80af49fcb
+      internalID: 5251732394614781392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SewerBrick32_surface_right_1
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 64
+        width: 32
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81005856dd7f3384abd08dd80ace399f
+      internalID: -8482382926457240508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SewerBrick32_surface_right_2
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 64
+        width: 32
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c40a2fd4194ef24587c6a5d6b577176
+      internalID: 3895231934389047981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SewerBrick32_surface_right_3
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 64
+        width: 32
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c2ccf98854927c4283a7f4d9af9325b
+      internalID: 9167832316938209933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SewerBrick32_surface_right_4
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 64
+        width: 32
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6df04b6a068a8944ca5c22c42a8e06c1
+      internalID: 544186680836714988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SewerBrick32_surface_notile_1
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 32
+        width: 32
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0047adf418c345a4dbdae03bcbcacbf0
+      internalID: 7373811331473205094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SewerBrick32_surface_notile_2
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 32
+        width: 32
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce087459693a15b45ba673e1a94bd76b
+      internalID: -8253981570490952368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SewerBrick32_surface_notile_3
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 32
+        width: 32
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 224835742be824b4bbb996a9a9e593d4
+      internalID: 8850856328035097064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SewerBrick32_surface_notile_4
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 32
+        width: 32
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17871b51b8172834996116597ec74cc1
+      internalID: -6620612683898961401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallPipes_horizontal
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 80
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d86349fa01e220449ae3c3533fb33fbe
+      internalID: -1425102165130364154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallPipes_vertical
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 80
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af54d0e431f3c4d478064187a6a40fd8
+      internalID: -8285753226802772658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SewerBigTunnelGate
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1719219494c37749857cfe33ed43ba7
+      internalID: 7146300254938802938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YellowTower_left
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2caef04efb3451244858db6fe41729e5
+      internalID: -356198892863830810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YellowTower_base
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 192
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2416b4ee59e4374e8c850a9c18b51f2
+      internalID: -1678944429749621558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YellowTower_right
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 192
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 805c579e3336f594b95bd7a7894cc64c
+      internalID: -6294582521563452047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YellowTower_door_right
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 208
+        width: 16
+        height: 32
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ebad1d70f27a394a9eaac2e9c68d0d2
+      internalID: -3354265459807083832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YellowTower_door_left
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 208
+        width: 16
+        height: 32
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 313b6b6793646cb4494622aeaff8bfeb
+      internalID: -4624221911761913081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarbleFloor_top
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 240
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28d331a1463493247999b09ee74eb0f2
+      internalID: -41961961820171240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarbleFloor_base
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 240
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f165197fe6e8bb4bbeee74708114b83
+      internalID: -4323383473053051995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TiltedCheckerBg_base
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 240
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cb5d2b0d21fde84a821a0314ff23f74
+      internalID: -2479336308866160967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TiltedCheckerBg_left_shadow
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 240
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4305149ba4e14ef43af3d22096098247
+      internalID: -7134103192997871891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TiltedCheckerBg_shadow_full
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 240
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad11d9624cdbcb64f9d8b48962a63b87
+      internalID: 8378164748474869296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarblePillar_top
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 160
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51b9da452e44e9349a2e69bd3c1b9b26
+      internalID: -4958867466595839684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarblePillar_middle
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 144
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3cb25e06424faf439fb6222267c5e97
+      internalID: -3179516491536660600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarblePillar_bottom
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 128
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80ca2f13ce835a84ca2904bcc4571fc3
+      internalID: -6405677340065621884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastleSmallStone_base
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67868f8975f565345a408e1c05b2f3aa
+      internalID: 8818650260141887921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastleSmallStone_arc
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 0
+        width: 48
+        height: 32
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f0744e8776423b4e8b9cc16ad3990c5
+      internalID: -1524100843719449527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastleSmallStone_keystone
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 16
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b625027ddf1b9546bde7e8aa3caebef
+      internalID: 5579501435779965990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TiltedCheckerBg_arc_shadow
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 240
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2c68b8c30416d2488536aef427f1e2e
+      internalID: 4557750198478876694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TiltedCheckerBg_top_shadow
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 240
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13a282c782818104d9cbe583e8028988
+      internalID: -6549918331358296378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastleSmallStone_bottom
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59466c29236d5614785648be25d1465e
+      internalID: -2825332055754305299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastleSmallStone_base_left_shadow
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 16
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0c1f365eeef32b489aa4e4ccad71911
+      internalID: -9201328780086503838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastleSmallStone_bottom_left_shadow
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 0
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15f9786c53163a54eb4a44380d481822
+      internalID: -7419157398315941729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TiltedCheckerBg_right_shadow
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 240
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab0929ff05abdba4eab182449f79a6b7
+      internalID: 531391111476919692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastleBigStone_base
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 32
+        width: 32
+        height: 32
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f44a4a2c08d4f23468078f8d439b98d5
+      internalID: -1239897202659302007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastleBigStone_door_left
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 64
+        width: 32
+        height: 64
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e73256a2254c934b8efd771769235d0
+      internalID: 4163049500083211390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastleSmallStone_bottom_right_shadow
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 16
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b86c2e56d61cad943a29e09c39a84fc8
+      internalID: 2072626749617657455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastleSmallStone_base_right_shadow
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 16
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce9627b156100e34eba2b914fa75ec9e
+      internalID: -6003565836595066182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TiltedCheckerBg_top_right_shadow
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 240
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 223c0173f3c95e843bb9a97587153e24
+      internalID: 5618563577613597749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastleBigStone_left_curved
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 32
+        width: 32
+        height: 32
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6916511f9a2ddf4eba53bc625b82cb4
+      internalID: -7171907610249805758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastleBigStone_door_left_mask
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 64
+        width: 32
+        height: 64
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8ec90958e0420d4e8e104899090467e
+      internalID: -4651825450543757607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Banner_top
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 128
+        width: 32
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27c9239a959e31d4b807fbff86a36cdc
+      internalID: -484936260755466427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Banner_middle
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 128
+        width: 32
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad3fa40f6e48ea84ab65b7b254c31906
+      internalID: 3798334349029924300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Banner_crown
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 128
+        width: 32
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 619592d33786b094ca101c4a46bc9661
+      internalID: 5625379323721988188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Banner_bottom
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 128
+        width: 32
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d16449e4d998ff498ee1f723d52dbe4
+      internalID: -6434840847948711692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastleBigStone_right_curved
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 32
+        width: 32
+        height: 32
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14cd5487f6d03064c89123a2b3ad2d00
+      internalID: 8841409352269241465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastleBigStone_door_right
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 64
+        width: 32
+        height: 64
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c56032073f89c754d83bb7a24d7f7111
+      internalID: -4625977650419688724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastleBigStone_door_right_mask
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 64
+        width: 32
+        height: 64
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bf8fc612d23ede4991283e297e8d44a
+      internalID: 2791536455296807210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallPaper_stripes
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 240
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 220cce47b961c6345b261099f829bb35
+      internalID: -2290795539433069956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedCarpetPedestal_left
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 248
+        width: 16
+        height: 8
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9785d4348d2313f4c834d663044589d5
+      internalID: -6682920890183059018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedCarpetPedestal_center
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 248
+        width: 16
+        height: 8
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a3a3bbcb19561e448a6f5ccb3533723
+      internalID: 1327671955550271073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedCarpetPedestal_right
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 248
+        width: 16
+        height: 8
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4798234f40542449937c9dee57cd993
+      internalID: -8289565671448427889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WoodPanel_2
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 224
+        width: 24
+        height: 24
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8780ac6d687e22d43b62b1a30d417cc0
+      internalID: -1799480739677022568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WoodPanel_1
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 224
+        width: 24
+        height: 24
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e35d6758d4434944b98e9fc06deb205
+      internalID: -8377973108799106897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingsThrone
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 208
+        width: 32
+        height: 48
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c18a54a21b53112468fb929e778e255f
+      internalID: 3466270157901063655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Painting_1
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 216
+        width: 32
+        height: 40
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da343b0229d7ca348bcabb012c879a36
+      internalID: -942401399355549220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YellowTower_door_left_mask
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 208
+        width: 16
+        height: 32
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29609e8bd2f5d394ebccfa7c119a2d5d
+      internalID: 6960685199866158351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YellowTower_door_right_mask
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 208
+        width: 16
+        height: 32
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c76bcf189b1f50b4b8708cd8dda82973
+      internalID: 6703942523432353535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YellowTower_door_tall_left
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 192
+        width: 16
+        height: 48
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 197777ff951a5a94ca989c59e3a4adc7
+      internalID: 5506022880726950906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YellowTower_door_tall_right
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 192
+        width: 16
+        height: 48
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39c1b88ce94568c44a18f61e12d1a7fb
+      internalID: -6026601988720874971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YellowTower_door_tall_left_mask
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 192
+        width: 16
+        height: 48
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96ffcbe9c448bc5428073b23beb12e1b
+      internalID: -2146989829102693514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YellowTower_door_tall_right_mask
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 192
+        width: 16
+        height: 48
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93fe0cbf53d26604885fa1317b10300d
+      internalID: -7007601916113640283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallWindow_1
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 128
+        width: 32
+        height: 64
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f81456161bb1d3439c0a9fe8b852c26
+      internalID: -7334752208147002068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastleSmallStone_holes
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 0
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccf2f0f82e3050244b92bfbd6163c843
+      internalID: 792229772628772724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastleSmallStone_arc_base
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 40
+        width: 16
+        height: 8
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90789042507faa6429f354e1e2a6000e
+      internalID: 7373602261841725010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pedestal_wood
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 208
+        width: 16
+        height: 8
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88a395f31b15c4740a4127dbf552cec5
+      internalID: -3304509391584561063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armor_1
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 224
+        width: 32
+        height: 32
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2a35e30e3f01df4bafd6a73d2613dad
+      internalID: 8057395214944995007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TiltedCheckerBg_arc_base_shadow
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 224
+        width: 32
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79633f438977af243a6f3fb60470adf5
+      internalID: -6218116540104916656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastleSmallStone_holes_2
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 48
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1528195729c8404985b66dcdc7985f9
+      internalID: 5738157008832626783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WindowPillar_top_left
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 216
+        width: 16
+        height: 8
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a01b9d4e4dc5f2948a36b7e16c2f31f1
+      internalID: 5784397609129699166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WindowPillar_top_right
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 208
+        width: 16
+        height: 8
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 443d07a89fd4c814caacf27ccc2a3e93
+      internalID: -3005180069928173834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WindowPillar_middle_left
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 192
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12828b26e628f3445aec334a831aafa8
+      internalID: 42756757315573569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WindowPillar_bottom_left
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 176
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 178124abde3169a47a0d72ba64e63665
+      internalID: -1963151490382548640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WindowPillar_bottom_right
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 176
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b79ac41ca0cb3764789f5f2491e78833
+      internalID: 8920677630416002798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WindowPillar_middle_right
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 192
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b14bdf264ef73b4784d69bda0314391
+      internalID: -2295510548996002938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreyMolding_left
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 208
+        width: 16
+        height: 8
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b124abb6e8bc51e4a95d62120b26b9fb
+      internalID: -2806127418055162729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreyMolding_right
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 216
+        width: 16
+        height: 8
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb4452fa3bf0934479d4a87c244c09ad
+      internalID: -6360459278118503718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CurtainWindow
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 160
+        width: 36
+        height: 64
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65a019548f68c0745a40c73e5e194764
+      internalID: 2732300523913280586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreyMolding_center
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 208
+        width: 16
+        height: 8
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4a9a56032a59d4418a6d2a63a329238
+      internalID: 542601780530007521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WoodPlankFloor
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 208
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 926e251bd58b00f4d9570100ef69236c
+      internalID: 6236920455509653840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastleSmallStoneBg_base
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 192
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e8f60383c50a924aa20c431e369ae06
+      internalID: 8147333881200559311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TorchWall_1
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 128
+        width: 48
+        height: 48
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b82ba8a5bf45814894c4cf5ebd5a8d9
+      internalID: -1735610766819027466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TorchWall_2
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 128
+        width: 48
+        height: 48
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f85381630eaae044087040c19a0f78c3
+      internalID: -3011865760777430930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TorchWall_3
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 128
+        width: 48
+        height: 48
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b5d6649c48d8644b88d058a33c93a72
+      internalID: -896148133646293917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Candelabra
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 208
+        width: 16
+        height: 32
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 815ea656ccd56f84e8ca376849981404
+      internalID: -5961864321238200025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Candelabra_candle_flames_1
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 240
+        width: 16
+        height: 4
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 078ca27db2a708c4db434f9714924c91
+      internalID: 8106112579477314604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Candelabra_candle_flames_2
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 244
+        width: 16
+        height: 4
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d8d96b5e12cb6c4383879d12f961c07
+      internalID: 933250195438063378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Candelabra_candle_flames_3
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 248
+        width: 16
+        height: 4
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0e885c5dc7e1fd47852e318f2d1dd99
+      internalID: 3810753161184109472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Candelabra_candle_flames_4
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 252
+        width: 16
+        height: 4
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8476592a2314074ea8bc403a6e0a5b0
+      internalID: 176756838309844374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastleSmallStoneBg_shadow_left
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 192
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5fe8679a5240454396a80c0be1bd299
+      internalID: -6976816117894783254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastleSmallStoneBg_shadow_top_left
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 192
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2a77b67bcdcdb248b9f13463c09250a
+      internalID: -3710093778838267754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastleSmallStoneBg_shadow_right
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 176
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff7cec26147c2874bb19d837aa13601a
+      internalID: 4949128158137414466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastleSmallStoneBg_shadow_top_right
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 176
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61dd51a0f2a0d6f4a8e0d8d707097406
+      internalID: -3233154600809261690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastleSmallStoneBg_shadow_top
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 192
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e69b4fe5f2b534f4da2fa51e7ddededa
+      internalID: -6958592929557468852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MetalReinforcement_left
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 192
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e539c988254f67a48865badd7b81acc8
+      internalID: 3761357424534562653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WoodPole_left
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 192
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6652415dfcef2dd4f823a2b8cd4d4218
+      internalID: 7768783776382342331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MetalReinforcement_right
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 176
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0adb9f3d22f31a4288900811729c7d5
+      internalID: 2914512501942893093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WoodPole_right
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 176
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a984715542e2ce4da5bfac05c62ffbc
+      internalID: 8252439702973839613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WoodSupport_left_shadow
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 176
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6399a6f4db2eb484c94ab133fc54eb35
+      internalID: -7836150183295354865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WoodSupport_left
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 192
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74ce3a76984163e4fb6bc675233bb170
+      internalID: 8990643473866943254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WoodSupport_right_shadow
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 192
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30321793311f4494a8c7f29e69c54212
+      internalID: 6661629553774433589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WoodSupport_right
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 176
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5daf2f8ecc6d54499454a190308b605
+      internalID: 6030407179165105593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastleBigStone_floor_left
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 32
+        width: 32
+        height: 32
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c22e4fc48a9e8344bed3eecc2949784
+      internalID: -8830161341137007688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastleBigStone_floor_right
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 32
+        width: 32
+        height: 32
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 727d6d2a0c222604f96a2d10145701a1
+      internalID: -8249218236391119844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastleBigStone_floor_top_right
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 32
+        width: 32
+        height: 32
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd68c708865241943915f8d19cf96386
+      internalID: -1439587129400836304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastleBigStone_bg_pillar
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 64
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0194ee319e784ff4f91bbae0632f07da
+      internalID: 659096904758531983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastleBigStone_floor
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 64
+        width: 32
+        height: 32
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 440bcc477df0f164cb0d616e6f5497b4
+      internalID: 9173481605039971042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastleBigStone_right
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 64
+        width: 32
+        height: 32
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e72fff0c920e685469bfff634f7a86e8
+      internalID: 4774806176676913671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastleBigStone_floor_top_left
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 96
+        width: 32
+        height: 32
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b97f7fc46f3a9484a8b4ece385c8448a
+      internalID: 1040775306415553932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastleBigStone_left
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 96
+        width: 32
+        height: 32
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38f803bd5dfb20d4e900b3c01189d9db
+      internalID: -5998509215827746613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastleBigStone_ceiling_inner_left
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 128
+        width: 32
+        height: 32
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4455e2b2b5b584843b5645f5f8fbc2cf
+      internalID: -3382272076563809321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastleBigStone_ceiling_24px
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 128
+        width: 32
+        height: 24
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d5ab5aa36d860a4da1bc2eec2601f9d
+      internalID: -1114433715443124134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastleBigStone_ceiling_outer_left_24px
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 152
+        width: 32
+        height: 24
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b288bdb8c3a510c45a7bf8de25877276
+      internalID: -8669418934586038718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastleBigStone_ceiling_inner_right
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 160
+        width: 32
+        height: 32
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96e508b230da3b0439d9d5e931ea6ee9
+      internalID: 7114211315846007443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastleBigStone_ceiling_outer_right_24px
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 176
+        width: 32
+        height: 24
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b1c61779d5022a469576d118cca987a
+      internalID: 5069920623508532111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastleSmallStoneBg_shadow_top_8px
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 200
+        width: 16
+        height: 8
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d6cba30468eb0a4284881f45d3d5604
+      internalID: -5237226985335393235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastleBigStone_bg_pillar_top_shadow
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 200
+        width: 16
+        height: 8
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6047c0f1ceaf63542b4921207343b902
+      internalID: -5081745602857599551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastleBigStone_bg
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 0
+        width: 32
+        height: 32
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7a183c4ce4e71844916892a533d8958
+      internalID: -3054319012222629043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastleBigStone_floor_checker_right
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 32
+        width: 32
+        height: 32
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 225a6c969fd4e4d4b9c767541397c2e5
+      internalID: -8030469522679375428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastleBigStone_floor_checker_left
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 0
+        width: 32
+        height: 32
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e34fd473ba3186a4ebf929b2ea6eaeab
+      internalID: 9044061871632776323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WoodPlankFloor_platform_left
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 96
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c76c752b26513174a9a8ac1a8c1c8b1a
+      internalID: 492025818246287379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WoodPlankFloor_platform_right
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 80
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39e88318f0de60d4c906ef598c16a364
+      internalID: 5132822504794119441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FancyDoor_closed
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 32
+        height: 48
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dace896d5d871eb47b8c06028014a13c
+      internalID: 1025776530083818725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FancyDoor_open_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 256
+        width: 32
+        height: 48
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7666dffebeaaf8409a00fa50d592836
+      internalID: -1423464558936705988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FancyDoor_open_2
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 256
+        width: 32
+        height: 48
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b23d2af491cac547b0e47bb39a95df4
+      internalID: 5565694317909218353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastleDoor_closed
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 304
+        width: 32
+        height: 48
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c133045338499544e846a7ddde75735a
+      internalID: 7060469757947998398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastleDoor_open_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 304
+        width: 32
+        height: 48
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f8071a79d640a240bc3b9acf65e0cc7
+      internalID: -1140095154531332760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastleDoor_open_2
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 304
+        width: 32
+        height: 48
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e9b6f6967c7fe640bccb4bc30d514c7
+      internalID: -4055670784827651618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SewerBrick32_tiled
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 64
+        width: 32
+        height: 32
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43c968dc8154a1c4c96552f7c8f9e804
+      internalID: 808776575989321869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SewerBrick32_tiled_left
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 96
+        width: 32
+        height: 32
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3995de4c9220b74ab42f9203697fdbe
+      internalID: -3360504634517251474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SewerBrick32_tiled_right
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 128
+        width: 32
+        height: 32
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9160223e4537b804d80408b41b0b91d6
+      internalID: 3743739252986890562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ladder_grey_top
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 32
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe0a19f99eafb574b89400aac4e246cb
+      internalID: 2593812316488076831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ladder_grey_middle
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 16
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ac56a7fefcc3c84eb50a712701c84e5
+      internalID: 4922988311241736804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ladder_grey_bottom
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 0
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 952a4702d3d1b254cb42ae45063c03af
+      internalID: -8160260563888419340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastleBigStone_bg_pillar_shadow_below
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 112
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3260c55e084d76143b18e149847f8f06
+      internalID: 7803322747901566274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavaBase_8
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 368
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24427348737cf5147b1cd6e00047034c
+      internalID: 5805476271481103723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavaBase_7
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 368
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff8473bc8bee59d45bd5568370768bb0
+      internalID: 5183734866312327840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavaBase_6
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 368
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c9649b67d9ac7a478010d7de745e66e
+      internalID: -4782226189999122585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavaBase_5
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 368
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f60ec32c1f6c474bae3e4a62ed25106
+      internalID: -385578578023549237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavaBase_4
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 368
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dce092fc04c9b14f90c0a9d40d5dd15
+      internalID: 7936961471138542298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavaBase_3
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 368
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb6f8b5e7a8bc0046a9012d8e48a49a9
+      internalID: -7195704305201696199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavaBase_2
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 368
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cede015d49bf7f049aac981b4bd7453d
+      internalID: 4355888090075161230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavaBase_1
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 368
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d19277d1b6fff2b49a325c8c923e9995
+      internalID: -998135144531568305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavaTop_1
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 352
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5eca87bc217e3b42878f8f75acde124
+      internalID: -6167413043888199122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavaTop_2
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 352
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9832dbdff1cb9d346a879544097516a7
+      internalID: 8568747144998380094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavaTop_3
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 352
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dfbb421eea9a4848800d334c89db913
+      internalID: -2012132654485923743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavaTop_4
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 352
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 178bd5ee224752a4e8e552ef8f109638
+      internalID: -8111438068016980417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavaTop_5
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 352
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e3f84a3bfc7070439aad4e8e5fa1b3d
+      internalID: -3856323272594528589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavaTop_6
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 352
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95e84259a6fe2ea4291cb7d7b61a39ef
+      internalID: 2000673777149527436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavaTop_7
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 352
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39b4bbf11b970ba47b4b282cda5ecb35
+      internalID: -1312905436971844158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavaTop_8
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 352
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b12f389cae47f9e46800b75357830106
+      internalID: -685818139356366683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CyanWarpPipe
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 352
+        width: 32
+        height: 32
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33b229c1cb610784ba5b88e7c9e7fc2a
+      internalID: 6001964809771070536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CyanWarpPipeLeft
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 352
+        width: 32
+        height: 32
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a07050f2b0c1694f993c806aff47640
+      internalID: 2586409232507503569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CyanWarpPipeRight
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 352
+        width: 32
+        height: 32
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fe961017182d4a4a8406d3a143b8b89
+      internalID: 8557136119303213256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CaveCyan_floor
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 16
+        width: 32
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef946beb084bcf64f8459d66a3670231
+      internalID: 2634304608797337455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CaveCyan_left
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 0
+        width: 16
+        height: 32
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 927251a4c9730584cb1f2ace55832094
+      internalID: -2053306990838466102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CaveCyan_right
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 16
+        height: 32
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 321af962899857644b72908511f9d7b3
+      internalID: -7686132402282617399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CaveCyan_ceiling
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 16
+        width: 32
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba4693e4224e1204ea9f02410b8dda31
+      internalID: 2070725366043154466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CaveCyan_outer_top_right
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 0
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b962d009401b5244bff904a37d6e123
+      internalID: 4299013911773497484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CaveCyan_outer_top_left
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 0
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f432135c750a7d744a82ffbb0d727fe6
+      internalID: 1873839925467786724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CaveCyan_inner_bottom_right
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 0
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05d418e6019a3474ead0ee616cd6552b
+      internalID: -6527199419064027280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CaveCyan_inner_bottom_left
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 0
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88e0627e99566ff44b604b6abe8119ad
+      internalID: -5870191403599368816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CaveCyan_inner_top_left
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 0
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d2160ecce5fd3d49ab6cc8c3cc82011
+      internalID: -828093090487206314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CaveCyan_inner_top_right
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 16
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cecbe60c820501440bf2b3ecb770a350
+      internalID: 6770792789834115498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave_sand_bg
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 0
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b90c218405fa9444f9d9826c968ce8c8
+      internalID: 8692149117609429125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon_floor_left
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 352
+        width: 32
+        height: 32
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd0921a24fb0a5542bd2fd77e142be59
+      internalID: 7607973680606198347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon_base
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 352
+        width: 32
+        height: 32
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18ea81c4ee98f3a479c1610df467e53e
+      internalID: -5642556363635737446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon_floor_right
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 352
+        width: 32
+        height: 32
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d374af398dc95241b72e1b637c75ffa
+      internalID: 3626902380854037151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon_floor_top_left
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 352
+        width: 32
+        height: 32
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbdae30c153385445af5a712713de64e
+      internalID: 978950325268829031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon_floor
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 352
+        width: 32
+        height: 32
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08065b69de5d29949813cabb95467a05
+      internalID: -1006368768582853733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon_floor_top_right
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 352
+        width: 32
+        height: 32
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be418f9da4a20a746899266259f7e0cc
+      internalID: 7940779969324735134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DungeonBg_arch_left
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 304
+        width: 48
+        height: 48
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b65f583fbceb45540b1e80c35fbae9ce
+      internalID: -3967656126016861120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DungeonBg_arch_right
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 304
+        width: 48
+        height: 48
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdb1051410f07904abe852f90153a9d7
+      internalID: -4685280714521996157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DungeonBg_left
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 336
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a409cc1b62bd564ba76791c3bf6ca31
+      internalID: -338878640075685903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DungeonBg_bottom
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 336
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1e499742f570f541b2062eb63f8c0a7
+      internalID: 7738320768290118801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DungeonBg_right
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 336
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f4dacf05bf334e469dfcd1559fbad82
+      internalID: 3888848873892941898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DungeonBg_base
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 336
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22890fae1caf9ae41ae10c51f7a9054f
+      internalID: -2209010735067826207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon_stonw_wall_bg
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 320
+        width: 32
+        height: 32
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b59b19fcca195564aa7500404d96b65c
+      internalID: -3589649056253203995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DungeonBg_dark_base
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 320
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7495a15e03731d3408e4ca3729521b9e
+      internalID: 4219011386512332617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DungeonBg_dark_right
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 320
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5718f5e3d30664a44b8d46b58904ac6b
+      internalID: 2047697995721338004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DungeonBg_dark_bottom
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 320
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53d7a2ded4458a243ab619b67e39d487
+      internalID: -8251216584996549422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DungeonBg_dark_left
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 320
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1a4bc6cdf18ea446892bec985b7eebe
+      internalID: -3132903060978771892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CaveCyan_top45_left
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 240
+        width: 32
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d428e9d81afd434984f840ac6cf41e2
+      internalID: -1674185062028702569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CaveCyan_top45_right
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 224
+        width: 32
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2301c8dcc9553904da64f3fde7d53b10
+      internalID: -3842770078703939073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CaveCyan_floor45_right
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 208
+        width: 32
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4570573ce75732c48b35857af2e9c0b3
+      internalID: -6185326215256110199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CaveCyan_45_right_tiling
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 192
+        width: 32
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a5db65acc602354298bbb6ed24f1fa2
+      internalID: -5092729428141873814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastleBigStone_chain_ring
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 224
+        width: 32
+        height: 32
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63a92917e411adb4aa30666e70e121b3
+      internalID: -1259365386353921382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastleBigStone_chain_tiling
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 192
+        width: 32
+        height: 32
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7720a86d989c6fd43988f48da09867f0
+      internalID: -6837784669231721573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CaveCyan_floor45_left
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 176
+        width: 32
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0082ab9a1b9c2604fb0eb0780cb5dd11
+      internalID: 3395508975724895614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CaveCyan_45_left_tiling
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 160
+        width: 32
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 215e174b197b34344949b80b7fff5943
+      internalID: 226740077709104218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon_arch_right
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 304
+        width: 48
+        height: 32
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3da9a9f778edf4a4b955d8033740cb9c
+      internalID: -2870325723597232771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon_ceiling
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 304
+        width: 32
+        height: 32
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85a3f59d91655c747b59c68753514f8b
+      internalID: 2091457833688836810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon_arch_left
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 304
+        width: 48
+        height: 32
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5fe31bc007ad354da5b8bb42c3bfb6a
+      internalID: -3495509740983538979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon_bottom_left
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 336
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7e53e4dacfd5e247ae279ea8e14eacb
+      internalID: -2764689250695818338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon_bottom_right
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 336
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 715da39d570cb474d85e5a9d6a5282ea
+      internalID: -5747693678720939885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon_platform_right
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 336
+        width: 32
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38df70eff1385994da7d4451b70993de
+      internalID: 8252737845376856226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon_platform_left
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 336
+        width: 32
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96c9fe886c6572c40a17873e44ff40ef
+      internalID: -2766723028080404124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon_platform_center
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 336
+        width: 32
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d389ae77fc04f04bac5a7e2e977f00a
+      internalID: 5509208040433356145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon_left
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 352
+        width: 32
+        height: 32
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3a722797b7a2514ab364134c1d8cf33
+      internalID: -7056288463454999369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon_right
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 352
+        width: 32
+        height: 32
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50e083eb4f33e3c43b21e5fa997fd916
+      internalID: -5047719116474998346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chandelier_top
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 192
+        width: 24
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ee6315cd40724645a65d0d093641eb0
+      internalID: 8907342633621519071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chandelier_chain
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 192
+        width: 8
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0878737d36d10af48bbfcbda7ebb070d
+      internalID: -8211903389980859667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chandelier
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 176
+        width: 48
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 824b73cd4cd03744bb8aa03e4c3e2952
+      internalID: -4704848311800635442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon_floor_shadow_left
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 320
+        width: 32
+        height: 32
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2b3100a3ed3da140aab6d69626a7333
+      internalID: -982132715367188253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon_floor_shadow_right
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 320
+        width: 32
+        height: 32
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c0de086055c93340a1cc4e00b2b9bb1
+      internalID: -6697237223178868237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon_base_shadow_right
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 320
+        width: 32
+        height: 32
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 032266c2c8b58264494aa8dbc3f208bc
+      internalID: 8630971156138395926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon_base_shadow_left
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 288
+        width: 32
+        height: 32
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05e7a04d3b41335408d521afb2481302
+      internalID: -5568016008439498483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CaveCyan_top45_left_corner
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 240
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdfd0a56af8bd1c4393c236a3f047d32
+      internalID: 7719352787738313767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CaveCyan_top45_right_corner
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 224
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d20e2c86869d1945ac4a554c1aef5cb
+      internalID: -2235139917723801622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DungeonBg_dark_arch_left
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 256
+        width: 48
+        height: 48
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e14b605051235fe408a3828fc3f82252
+      internalID: -2032528276967758877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DungeonBg_dark_arch_right
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 256
+        width: 48
+        height: 48
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c595629100dd4f4479a548f73092098a
+      internalID: 3426888851405480317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon_lavaGlowPlat_center_1
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 304
+        width: 32
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 519d91fbd8e3039419f8b9f35bc61575
+      internalID: -8309443621568334134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon_lavaGlowPlat_center_2
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 288
+        width: 32
+        height: 15
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f5bbac8c42df3643948831431001647
+      internalID: 5304395406451583058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon_lavaGlowPlat_left_1
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 304
+        width: 32
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1cc89a236bfd4947b761b9e0e622f56
+      internalID: 1389146558380239302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon_lavaGlowPlat_left_2
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 288
+        width: 32
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06456f99d39903a4ca0658d2562f39e2
+      internalID: -3941898748348288368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon_lavaGlowPlat_right_1
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 304
+        width: 32
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 289c12f786498634d852bc979ca79e76
+      internalID: 114965186427503599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon_lavaGlowPlat_right_2
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 288
+        width: 32
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 330047ef48b96ea498c72f69e52798f3
+      internalID: 706757102440224171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChainBg_end
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 48
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e80a5ac838a619d4189c954439d016d8
+      internalID: 3685702739813868009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChainBg_tiling
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 64
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f33fc922d1264f42b537ce26d8bf677
+      internalID: -982940350976357124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChainBg_ceiling
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 80
+        width: 16
+        height: 8
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 762f3fba61b06224fb64410e6bd4f993
+      internalID: 8210190546404542650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChainBg_end_glow_1
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 96
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0320ed7af0a46f43bb396f70046f07d
+      internalID: 6525484839990704517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChainBg_tiling_glow_1
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 112
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fac407af8fe011149b3ac3d7ca2d4009
+      internalID: 1625165780125024380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChainBg_ceiling_glow_1
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 128
+        width: 16
+        height: 8
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9d48bca21ca49f4aac0056dc0a9ecd0
+      internalID: 3358231070065165915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChainBg_end_glow_2
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 144
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aee6c27cbee7bf343976edcb99970a72
+      internalID: -265190516327114552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChainBg_tiling_glow_2
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 160
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4729fc396710b0740a090ac7566066d7
+      internalID: -8726351921248568253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChainBg_ceiling_glow_2
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 176
+        width: 16
+        height: 8
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f375581d00f288a4dbbf639d3fc8ec9d
+      internalID: 7752401671177001976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallPaper_red_balls
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 176
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32f93ea139cdb42458dc719be6acd1fa
+      internalID: -7205540727128798365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastleBigStone_chain_end
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 256
+        width: 32
+        height: 32
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f00b6839347faff4fa55060899091a03
+      internalID: -7188272248757222669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastleBigStone_chain_hole
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 256
+        width: 32
+        height: 32
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f0e470dc3804904bb3ddcb06bf38b87
+      internalID: -1934902134815009904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Painting_2
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 216
+        width: 32
+        height: 40
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c4557a02430dd14e9e7141531684019
+      internalID: -4176556120225052815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Painting_3
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 216
+        width: 32
+        height: 40
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b3d14138ec3c2442b8c6043e133f17b
+      internalID: -8178534837892695431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrateDoor_closed
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 256
+        width: 32
+        height: 48
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4572f9f23f80bf84485460d662328f19
+      internalID: -3050488349245493909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrateDoor_open_1
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 256
+        width: 32
+        height: 48
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f603687722f5d1d4d92f46b81c8f5571
+      internalID: -7314257326820596591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrateDoor_open_2
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 256
+        width: 32
+        height: 48
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8fd3117cfe867a46acb0bbb0741081f
+      internalID: -2446961189939070760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BgWindow_1
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 256
+        width: 32
+        height: 32
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a800ef2a00e036a4b9f5126d1bbe3a7c
+      internalID: -9127897099442666949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BgWindow_2
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 144
+        width: 16
+        height: 32
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d1fb7c6cf7c5b24ab7231e52adb3e73
+      internalID: -2088444359756586143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BgWindow_3
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 144
+        width: 16
+        height: 32
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a737745fa9c29504eb40286e164f084f
+      internalID: -7926187200267980204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BgWindow_4
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 144
+        width: 16
+        height: 32
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25ce69aec06b7f84e896d5bfbe0133a6
+      internalID: 6252217878309885966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BgWindow_5
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 144
+        width: 16
+        height: 32
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e80f417393a3604eb7d3b77c65f9e25
+      internalID: -6251293174880673919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BgWindow_6
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 144
+        width: 32
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60b4cb95846ed1b49983bbd117fbec0c
+      internalID: 5500960692871284831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WoodSupport_vertical
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 128
+        width: 8
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: beedfdadf8dd21740a1c3448f3c86cc8
+      internalID: -1500183277959464741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WoodSupport_shadow
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 128
+        width: 8
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f7087dc74d20654f8ba38e73cfd5751
+      internalID: -1804956648395592828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WoodSupport_shadow_glow_1
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 144
+        width: 8
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 164adae45d80d064f9b4e62572861bfd
+      internalID: -5677888663947804035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WoodSupport_shadow_glow_2
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 144
+        width: 8
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0807b1942faa6947b06f20d8358ea89
+      internalID: 341016775735226425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skull
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 160
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb04b90719c79534d9c3326cc41e76d2
+      internalID: 3776011452931145940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chest_big
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 256
+        width: 32
+        height: 24
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2b5d906e9d38f5489601b6de6685a50
+      internalID: -2772834001725440022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chest_small
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 288
+        width: 16
+        height: 14
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e575bb7b101c2b4db494b1be2015fd7
+      internalID: -4785411486676052573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoneTile_big
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 208
+        width: 32
+        height: 32
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5de57231c66ed5946b9cbc4aa239f450
+      internalID: 1552234259821996508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoneTile_small
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 240
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb18057e6afd7354a818b364dbc1db41
+      internalID: 8942333084367974027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Painting_4
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 248
+        width: 32
+        height: 40
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0b0654f7c4870b46afd97a5f539865a
+      internalID: -7140464049720929081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 0a119fe44cd905f4483996f688e35705
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      SewerBrick32_surface_1: -1013196709478745188
+      SewerBrick32_surface_right_2: 3895231934389047981
+      WallPaper_stripes: -2290795539433069956
+      GreyMolding_center: 542601780530007521
+      Candelabra_candle_flames_4: 176756838309844374
+      DungeonBg_bottom: 7738320768290118801
+      CaveCyan_inner_top_right: 6770792789834115498
+      CastleSmallStoneBg_shadow_top_left: -3710093778838267754
+      LavaBase_3: -7195704305201696199
+      WoodPlankFloor_platform_right: 5132822504794119441
+      SewerBrick32_surface_notile_2: -8253981570490952368
+      YellowTower_door_tall_right_mask: -7007601916113640283
+      SewerBrick32_surface_left_3: -1090108409384558542
+      CyanWarpPipe: 6001964809771070536
+      ChainBg_tiling_glow_2: -8726351921248568253
+      BgWindow_6: 5500960692871284831
+      Dungeon_base: -5642556363635737446
+      SewerBrick32x32_stairs_right: -4231551549719481184
+      SewerBrick32x32_floor_left: -4961194211835478828
+      ChainBg_tiling_glow_1: 1625165780125024380
+      LavaTop_6: 2000673777149527436
+      CastleBigStone_left: -5998509215827746613
+      Dungeon_platform_right: 8252737845376856226
+      GrateDoor_open_2: -2446961189939070760
+      CaveCyan_outer_top_right: 4299013911773497484
+      BgWindow_4: 6252217878309885966
+      StoneTile_small: 8942333084367974027
+      CastleDoor_closed: 7060469757947998398
+      MetalReinforcement_right: 2914512501942893093
+      FancyDoor_open_1: -1423464558936705988
+      DungeonBg_dark_left: -3132903060978771892
+      GreyMolding_left: -2806127418055162729
+      CastleSmallStone_keystone: 5579501435779965990
+      CastleDoor_open_2: -4055670784827651618
+      Dungeon_lavaGlowPlat_center_2: 5304395406451583058
+      CastleSmallStone_bottom_right_shadow: 2072626749617657455
+      YellowTower_door_left_mask: 6960685199866158351
+      Painting_3: -8178534837892695431
+      LavaBase_6: -4782226189999122585
+      CastleSmallStone_bottom_left_shadow: -7419157398315941729
+      CurtainWindow: 2732300523913280586
+      SewageWater_1: -6602206758544566089
+      SewerBrick32_surface_right_4: 544186680836714988
+      CaveCyan_floor45_left: 3395508975724895614
+      CaveCyan_left: -2053306990838466102
+      WoodPole_left: 7768783776382342331
+      CastleBigStone_right: 4774806176676913671
+      Dungeon_lavaGlowPlat_right_1: 114965186427503599
+      WoodSupport_shadow_glow_1: -5677888663947804035
+      YellowTower_door_tall_right: -6026601988720874971
+      WoodSupport_left_shadow: -7836150183295354865
+      WoodPlankFloor_platform_left: 492025818246287379
+      CastleBigStone_door_left: 4163049500083211390
+      CastleBigStone_bg_pillar_top_shadow: -5081745602857599551
+      Dungeon_base_shadow_right: 8630971156138395926
+      DungeonBg_dark_arch_left: -2032528276967758877
+      SewerBrick16: -4521866529113516713
+      ChainBg_tiling: -982940350976357124
+      Dungeon_lavaGlowPlat_center_1: -8309443621568334134
+      SewageWater_6: -2928496269566575573
+      CaveCyan_floor45_right: -6185326215256110199
+      SmallPipes_vertical_connect: -210704952863312597
+      YellowTower_door_tall_left: 5506022880726950906
+      SewerBrick32_surface_2: -2013315735534159907
+      CaveCyan_inner_top_left: -828093090487206314
+      GrateDoor_open_1: -7314257326820596591
+      SewerBrick32_drain_3: -1083539450221535647
+      YellowTower_door_right_mask: 6703942523432353535
+      YellowTower_right: -6294582521563452047
+      CastleBigStone_bg_pillar_shadow_below: 7803322747901566274
+      CaveCyan_inner_bottom_right: -6527199419064027280
+      DungeonBg_left: -338878640075685903
+      ChainBg_ceiling: 8210190546404542650
+      Skull: 3776011452931145940
+      WoodSupport_left: 8990643473866943254
+      MarbleFloor_top: -41961961820171240
+      TiltedCheckerBg_left_shadow: -7134103192997871891
+      Candelabra_candle_flames_2: 933250195438063378
+      CastleBigStone_door_right: -4625977650419688724
+      YellowTower_left: -356198892863830810
+      WoodPlankFloor: 6236920455509653840
+      CastleSmallStoneBg_base: 8147333881200559311
+      WoodPanel_1: -8377973108799106897
+      Candelabra: -5961864321238200025
+      SewerBrickWallBg32: -8101519357380031666
+      SewerBrick32_surface_right_3: 9167832316938209933
+      LavaBase_8: 5805476271481103723
+      ChainBg_end: 3685702739813868009
+      CastleBigStone_left_curved: -7171907610249805758
+      LavaTop_1: -6167413043888199122
+      CastleBigStone_floor: 9173481605039971042
+      CastleSmallStone_holes_2: 5738157008832626783
+      CastleBigStone_floor_checker_right: -8030469522679375428
+      MarblePillar_top: -4958867466595839684
+      Pedestal_wood: -3304509391584561063
+      Banner_top: -484936260755466427
+      GrateDoor_closed: -3050488349245493909
+      Ladder_grey_middle: 4922988311241736804
+      ChainBg_end_glow_2: -265190516327114552
+      CastleBigStone_door_right_mask: 2791536455296807210
+      FancyDoor_closed: 1025776530083818725
+      GreyMolding_right: -6360459278118503718
+      Dungeon_floor_left: 7607973680606198347
+      Dungeon_floor_top_left: 978950325268829031
+      CastleBigStone_floor_top_right: -1439587129400836304
+      CastleBigStone_ceiling_outer_left_24px: -8669418934586038718
+      MetalReinforcement_left: 3761357424534562653
+      DungeonBg_dark_right: 2047697995721338004
+      BgWindow_5: -6251293174880673919
+      Ladder_grey_top: 2593812316488076831
+      WindowPillar_bottom_right: 8920677630416002798
+      ChainBg_ceiling_glow_2: 7752401671177001976
+      CastleBigStone_ceiling_inner_left: -3382272076563809321
+      DungeonBg_dark_base: 4219011386512332617
+      CastleBigStone_floor_top_left: 1040775306415553932
+      WoodSupport_shadow_glow_2: 341016775735226425
+      Painting_1: -942401399355549220
+      WoodPole_right: 8252439702973839613
+      ChainBg_end_glow_1: 6525484839990704517
+      LavaBase_7: 5183734866312327840
+      CaveCyan_45_left_tiling: 226740077709104218
+      Dungeon_floor_shadow_right: -6697237223178868237
+      CastleBigStone_right_curved: 8841409352269241465
+      CyanWarpPipeLeft: 2586409232507503569
+      LavaTop_4: -8111438068016980417
+      Candelabra_candle_flames_1: 8106112579477314604
+      CastleSmallStone_arc_base: 7373602261841725010
+      SewageWater_4: -7520094819429865811
+      CastleBigStone_chain_tiling: -6837784669231721573
+      SewageWater_2: 9059654781645116326
+      Dungeon_base_shadow_left: -5568016008439498483
+      CastleSmallStoneBg_shadow_top: -6958592929557468852
+      Dungeon_stonw_wall_bg: -3589649056253203995
+      CaveCyan_top45_left_corner: 7719352787738313767
+      CastleBigStone_base: -1239897202659302007
+      SewerBrick16_damaged: -8207182456481337019
+      SewerBrick32_surface_notile_1: 7373811331473205094
+      CaveCyan_top45_left: -1674185062028702569
+      CastleSmallStone_base_left_shadow: -9201328780086503838
+      SewerBrick32_surface_4: -8121514186273818142
+      DungeonBg_right: 3888848873892941898
+      SewerBrickWallBg32_shadow: -2706866499789621472
+      CastleSmallStone_base: 8818650260141887921
+      Armor_1: 8057395214944995007
+      CastleSmallStoneBg_shadow_right: 4949128158137414466
+      CastleBigStone_bg: -3054319012222629043
+      Chandelier: -4704848311800635442
+      SmallPipes_vertical: -8285753226802772658
+      SewerBrick32_tiled: 808776575989321869
+      YellowTower_door_right: -3354265459807083832
+      CaveCyan_outer_top_left: 1873839925467786724
+      SewerBrick32_tiled_left: -3360504634517251474
+      Chandelier_chain: -8211903389980859667
+      MarbleFloor_base: -4323383473053051995
+      LavaTop_5: -3856323272594528589
+      SmallPipes_horizontal: -1425102165130364154
+      Candelabra_candle_flames_3: 3810753161184109472
+      Banner_crown: 5625379323721988188
+      CastleBigStone_chain_hole: -1934902134815009904
+      YellowTower_base: -1678944429749621558
+      TiltedCheckerBg_arc_base_shadow: -6218116540104916656
+      WoodSupport_right_shadow: 6661629553774433589
+      SewerBrick32_tiled_right: 3743739252986890562
+      Dungeon_floor_top_right: 7940779969324735134
+      CastleBigStone_chain_end: -7188272248757222669
+      CaveCyan_inner_bottom_left: -5870191403599368816
+      Chest_small: -4785411486676052573
+      SewerBrickWallBg32_shadow_left: 3691548579174926387
+      WoodSupport_shadow: -1804956648395592828
+      DungeonBg_arch_right: -4685280714521996157
+      LavaTop_7: -1312905436971844158
+      Dungeon_ceiling: 2091457833688836810
+      Ladder_grey_bottom: -8160260563888419340
+      StoneTile_big: 1552234259821996508
+      SmallPipes_bottom_right: -4713301661566378904
+      ChainBg_ceiling_glow_1: 3358231070065165915
+      Dungeon_bottom_left: -2764689250695818338
+      SmallPipes_top_left: 3947189004884198971
+      SmallPipes_horizontal_connect: 1936897262134667309
+      TorchWall_1: -1735610766819027466
+      FancyDoor_open_2: 5565694317909218353
+      MarblePillar_bottom: -6405677340065621884
+      SewerBrick32x32_floor_right: 8920503743014236150
+      RedCarpetPedestal_center: 1327671955550271073
+      SmallPipes_vertical_valve: 5265389107868055788
+      SewerBrick32_surface_notile_3: 8850856328035097064
+      WallPaper_red_balls: -7205540727128798365
+      BgWindow_3: -7926187200267980204
+      CastleSmallStoneBg_shadow_left: -6976816117894783254
+      Dungeon_lavaGlowPlat_left_2: -3941898748348288368
+      TiltedCheckerBg_right_shadow: 531391111476919692
+      Chandelier_top: 8907342633621519071
+      CastleSmallStoneBg_shadow_top_right: -3233154600809261690
+      TallWindow_1: -7334752208147002068
+      Painting_4: -7140464049720929081
+      WoodSupport_right: 6030407179165105593
+      SewerBrickWallBg32_shadow_right: 9096688311398620170
+      WindowPillar_top_left: 5784397609129699166
+      Dungeon_floor: -1006368768582853733
+      CaveCyan_45_right_tiling: -5092729428141873814
+      CaveCyan_top45_right_corner: -2235139917723801622
+      MarblePillar_middle: -3179516491536660600
+      SmallPipes_bottom_left: -8736782977457920708
+      SewageWater_5: 3508711303983705530
+      SewerBrick32_drain_4: -2445491267604534101
+      SewerBrick32_32_grill: 6437149731840196420
+      Dungeon_arch_left: -3495509740983538979
+      CastleSmallStone_holes: 792229772628772724
+      Dungeon_platform_left: -2766723028080404124
+      CastleSmallStoneBg_shadow_top_8px: -5237226985335393235
+      WindowPillar_top_right: -3005180069928173834
+      LavaBase_4: 7936961471138542298
+      Dungeon_floor_shadow_left: -982132715367188253
+      SewerBrick32_surface_3: 5570890467457298037
+      YellowTower_door_left: -4624221911761913081
+      TiltedCheckerBg_arc_shadow: 4557750198478876694
+      LavaTop_8: -685818139356366683
+      KingsThrone: 3466270157901063655
+      CaveCyan_right: -7686132402282617399
+      CastleBigStone_ceiling_24px: -1114433715443124134
+      LavaTop_2: 8568747144998380094
+      CastleBigStone_floor_left: -8830161341137007688
+      CastleDoor_open_1: -1140095154531332760
+      YellowTower_door_tall_left_mask: -2146989829102693514
+      SewageWater_3: -9144036979348324990
+      Dungeon_floor_right: 3626902380854037151
+      SewerBrick32_damaged: -7586321631788284914
+      Dungeon_arch_right: -2870325723597232771
+      CaveCyan_ceiling: 2070725366043154466
+      CaveCyan_top45_right: -3842770078703939073
+      LavaBase_2: 4355888090075161230
+      DungeonBg_base: -2209010735067826207
+      Dungeon_lavaGlowPlat_right_2: 706757102440224171
+      BgWindow_1: -9127897099442666949
+      CyanWarpPipeRight: 8557136119303213256
+      Dungeon_bottom_right: -5747693678720939885
+      SewerBrick32_surface_notile_4: -6620612683898961401
+      BgWindow_2: -2088444359756586143
+      SewerBrick32_surface_right_1: -8482382926457240508
+      RedCarpetPedestal_right: -8289565671448427889
+      CastleBigStone_ceiling_inner_right: 7114211315846007443
+      WoodPanel_2: -1799480739677022568
+      Dungeon_left: -7056288463454999369
+      CastleSmallStone_base_right_shadow: -6003565836595066182
+      TiltedCheckerBg_shadow_full: 8378164748474869296
+      Banner_middle: 3798334349029924300
+      Chest_big: -2772834001725440022
+      TorchWall_3: -896148133646293917
+      SmallPipes_top_right: -3768883979781903018
+      CastleBigStone_floor_checker_left: 9044061871632776323
+      LavaBase_5: -385578578023549237
+      SewerBrick32_drain_1: -2039855005941383805
+      SewerBrick32x32_floor_center: -578468617349121420
+      SewerBigTunnelGate: 7146300254938802938
+      SewerBrick32: -5649931354676539333
+      TiltedCheckerBg_base: -2479336308866160967
+      CastleBigStone_ceiling_outer_right_24px: 5069920623508532111
+      LavaBase_1: -998135144531568305
+      CastleBigStone_bg_pillar: 659096904758531983
+      LavaTop_3: -2012132654485923743
+      Banner_bottom: -6434840847948711692
+      DungeonBg_dark_arch_right: 3426888851405480317
+      Cave_sand_bg: 8692149117609429125
+      CastleBigStone_door_left_mask: -4651825450543757607
+      TiltedCheckerBg_top_shadow: -6549918331358296378
+      Dungeon_platform_center: 5509208040433356145
+      SewerBrick32_surface_left_1: -6383261154068052402
+      CastleSmallStone_bottom: -2825332055754305299
+      WoodSupport_vertical: -1500183277959464741
+      TiltedCheckerBg_top_right_shadow: 5618563577613597749
+      WindowPillar_middle_right: -2295510548996002938
+      CaveCyan_floor: 2634304608797337455
+      DungeonBg_dark_bottom: -8251216584996549422
+      CastleBigStone_chain_ring: -1259365386353921382
+      Painting_2: -4176556120225052815
+      DungeonBg_arch_left: -3967656126016861120
+      Dungeon_right: -5047719116474998346
+      WindowPillar_bottom_left: -1963151490382548640
+      SewerBrick32_surface_left_4: 5251732394614781392
+      Dungeon_lavaGlowPlat_left_1: 1389146558380239302
+      WindowPillar_middle_left: 42756757315573569
+      TorchWall_2: -3011865760777430930
+      RedCarpetPedestal_left: -6682920890183059018
+      SewerBrick32_drain_2: 8429582604545349067
+      CastleSmallStone_arc: -1524100843719449527
+      SewerBrick32x32_stairs_left: -8880430208183769308
+      SmallPipes_cross: -3071781238692722129
+      SewerBrick32_surface_left_2: -7531298309849724801
+      CastleBigStone_floor_right: -8249218236391119844
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -919,7 +919,7 @@ TextureImporter:
     allowsAlphaSplitting: 0
     overridden: 0
     androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
   - serializedVersion: 3
     buildTarget: Standalone
     maxTextureSize: 2048
@@ -931,7 +931,7 @@ TextureImporter:
     allowsAlphaSplitting: 0
     overridden: 0
     androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
   - serializedVersion: 3
     buildTarget: Android
     maxTextureSize: 2048
@@ -955,7 +955,7 @@ TextureImporter:
     allowsAlphaSplitting: 0
     overridden: 0
     androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
   - serializedVersion: 3
     buildTarget: WebGL
     maxTextureSize: 2048
@@ -967,7 +967,7 @@ TextureImporter:
     allowsAlphaSplitting: 0
     overridden: 0
     androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -4830,7 +4830,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: fcda92be6fc4ed749aecd795ecf12382
-      internalID: 2835390676427568082
+      internalID: 6234843591700368405
       vertices: []
       indices: 
       edges: []
@@ -7031,7 +7031,7 @@ TextureImporter:
       DoorFrame: 3088906598942417258
       Tiles_cyan_white_base: -3974132906557968727
       Lamp_table_top: -2341534315704906572
-      Pipe_big_vertical: 2835390676427568082
+      Pipe_big_vertical: 6234843591700368405
       Weights_big: 2463792675340368681
       WallPaper_blue_stripes_top_shadow: -5560490389483045612
       Painting_ship: -7492545249133584314

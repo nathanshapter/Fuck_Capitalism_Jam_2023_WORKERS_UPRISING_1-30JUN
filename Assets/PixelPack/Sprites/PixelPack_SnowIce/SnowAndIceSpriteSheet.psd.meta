@@ -1,0 +1,6022 @@
+fileFormatVersion: 2
+guid: ae640b40206542742b061870ee461e3c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3735341316798029812
+    second: FrostyStoneGround_base
+  - first:
+      213: 2097199495133046274
+    second: FrostyStoneGround_30_left
+  - first:
+      213: -3148391001905642957
+    second: FrostyStoneGround_30_right
+  - first:
+      213: 2673107010519389567
+    second: Tree_trunk
+  - first:
+      213: -8914494547546199284
+    second: Spruce_big_base
+  - first:
+      213: -1300382053092332139
+    second: Spruce_big_bottom
+  - first:
+      213: -5524838247133661370
+    second: Spruce_big_left
+  - first:
+      213: -3320377274108590842
+    second: Spruce_big_right
+  - first:
+      213: -8760333974007683527
+    second: Spruce_big_bottom_left
+  - first:
+      213: -6589691738594289023
+    second: Spruce_big_bottom_right
+  - first:
+      213: 1921729832628389042
+    second: Hills_bg_high
+  - first:
+      213: -162509079628819402
+    second: Hills_bg_low
+  - first:
+      213: -367282149352543256
+    second: Hills_bg_high_far
+  - first:
+      213: -3176828208325962608
+    second: Hills_bg_low_far
+  - first:
+      213: -2548034972719652022
+    second: Clouds_right_short
+  - first:
+      213: -2747302319761963413
+    second: Clouds_left_short
+  - first:
+      213: 73095297193925144
+    second: Clouds_small
+  - first:
+      213: -5011852392092684926
+    second: Clouds_left_long
+  - first:
+      213: -522473214259101842
+    second: Clouds_right_long
+  - first:
+      213: -6918667468653950866
+    second: Clouds_center_1
+  - first:
+      213: 1736314687710842504
+    second: Clouds_center_2
+  - first:
+      213: 7798260202119174485
+    second: Moon
+  - first:
+      213: 8444598406455433591
+    second: Spruce_small_1
+  - first:
+      213: -5013568712506540417
+    second: Spruce_small_2
+  - first:
+      213: 6447593480257575880
+    second: GrassFrozen_bg_center
+  - first:
+      213: 2049120017547013973
+    second: GrassFrozen_bg_right
+  - first:
+      213: -6799240586952672900
+    second: GrassFrozen_bg_left
+  - first:
+      213: 1444163251293054399
+    second: FrostyStoneGround_inner_right
+  - first:
+      213: -5186355811709013610
+    second: FrostyStoneGround_inner_left
+  - first:
+      213: 4731276315646173323
+    second: FrostyStoneGround_top_left
+  - first:
+      213: 5528219145720905373
+    second: FrostyStoneGround_top_right
+  - first:
+      213: -8801778653181554506
+    second: FrostyStoneGround_left
+  - first:
+      213: -9167685443071234692
+    second: FrostyStoneGround_right
+  - first:
+      213: 4139424696706320699
+    second: SnowCoveredIce_45_left
+  - first:
+      213: -7465837527117720587
+    second: SnowCoveredIce_45_right
+  - first:
+      213: -7077616375378894533
+    second: SnowCoveredIce_top
+  - first:
+      213: -7091025759668070002
+    second: SnowCoveredIce_base
+  - first:
+      213: 2836038334817362023
+    second: SnowCoveredIce_right
+  - first:
+      213: 230994958749774091
+    second: SnowCoveredIce_left
+  - first:
+      213: -1021737486890942921
+    second: SnowCoveredIce_top_left
+  - first:
+      213: -5040156952940299162
+    second: SnowCoveredIce_top_right
+  - first:
+      213: 281551815248219673
+    second: StripedPole_24_base
+  - first:
+      213: 7542770001336434526
+    second: StripedPole_24_top
+  - first:
+      213: 3072949655802768779
+    second: StripedPole_16_base
+  - first:
+      213: -8196291995138836868
+    second: StripedPole_16_top
+  - first:
+      213: 6476219840385836497
+    second: BigAnimatedCloudDark_up_left_1
+  - first:
+      213: -7118412559889453126
+    second: BigAnimatedCloudDark_up_left_2
+  - first:
+      213: 4980812850558577108
+    second: BigAnimatedCloudDark_up_right_1
+  - first:
+      213: -3004241931610298368
+    second: BigAnimatedCloudDark_up_right_2
+  - first:
+      213: -1426799962288505916
+    second: BigAnimatedCloudDark_down_left_1
+  - first:
+      213: -3209118603532929126
+    second: BigAnimatedCloudDark_down_left_2
+  - first:
+      213: 7330213442772260760
+    second: BigAnimatedCloudDark_down_right_1
+  - first:
+      213: 4189321757898971295
+    second: BigAnimatedCloudDark_down_right_2
+  - first:
+      213: 6412230623698387957
+    second: AnimatedCloudDark_up_left_1
+  - first:
+      213: -3389447822086053904
+    second: AnimatedCloudDark_up_left_2
+  - first:
+      213: -362457961067294303
+    second: AnimatedCloudDark_up_right_1
+  - first:
+      213: -7948672386676010087
+    second: AnimatedCloudDark_up_right_2
+  - first:
+      213: -2546938165981888139
+    second: AnimatedCloudDark_down_left_1
+  - first:
+      213: 7891945372952606195
+    second: AnimatedCloudDark_down_left_2
+  - first:
+      213: 6622071260518156719
+    second: AnimatedCloudDark_down_right_1
+  - first:
+      213: 339936955617486565
+    second: AnimatedCloudDark_down_right_2
+  - first:
+      213: 6166425302724002096
+    second: SnowCoveredIce_inner_top_left
+  - first:
+      213: -2252016025601670253
+    second: SnowCoveredIce_inner_top_right
+  - first:
+      213: -7978211336232270038
+    second: Star_1
+  - first:
+      213: 612620484901056731
+    second: Star_2
+  - first:
+      213: -8516704356247455896
+    second: Star_3
+  - first:
+      213: 530494583715035032
+    second: Star_4
+  - first:
+      213: -3577968284151567245
+    second: SnowCoveredIce_45_right_inner_seam
+  - first:
+      213: 3346859501431171265
+    second: SnowCoveredIce_45_left_inner_seam
+  - first:
+      213: -7006810992058906587
+    second: IceBrick_top
+  - first:
+      213: 184387878766820441
+    second: IceBrick_base
+  - first:
+      213: -7824664806636135652
+    second: IceBrick_top_right
+  - first:
+      213: 3895694667914442278
+    second: IceBrick_top_left
+  - first:
+      213: 4651233658924295793
+    second: IceBrick_right
+  - first:
+      213: -1107122919434288233
+    second: IceBrick_left
+  - first:
+      213: 2299233763937213156
+    second: IceBrick_bottom_left
+  - first:
+      213: 3602164131035388896
+    second: IceBrick_bottom_center
+  - first:
+      213: -7278884748247728327
+    second: IceBrick_bottom_right
+  - first:
+      213: -2864981217860766304
+    second: IceBrick_arch
+  - first:
+      213: -4947792968711445049
+    second: IcePillar_bottom
+  - first:
+      213: -3105578481876670164
+    second: IcePillar_middle
+  - first:
+      213: 2251581395219346269
+    second: IcePillar_top
+  - first:
+      213: -7414259859645459388
+    second: GrassFrozen_right
+  - first:
+      213: -6246738121928160213
+    second: GrassFrozen_left
+  - first:
+      213: 1344299197221861236
+    second: GrassFrozen
+  - first:
+      213: -507446493658467142
+    second: IceBrick_inner_top_right
+  - first:
+      213: -3722942363683477333
+    second: IceBrick_inner_top_left
+  - first:
+      213: -1775881029770291605
+    second: StripedHill_base
+  - first:
+      213: -5230988611066256486
+    second: StripedHill_snow_top
+  - first:
+      213: 8203219340142538820
+    second: SnowHill_top_left
+  - first:
+      213: -7744103105167352191
+    second: SnowHill_top
+  - first:
+      213: -6334023026728455192
+    second: SnowHill_top_right
+  - first:
+      213: -4601453439905149945
+    second: SnowHill_left
+  - first:
+      213: 4706378163995609016
+    second: SnowHill_base
+  - first:
+      213: 8634050564145579644
+    second: SnowHill_right
+  - first:
+      213: 6731882490834186639
+    second: Cave_far_bg
+  - first:
+      213: 3354496696727780407
+    second: Cave_dark_bg_left
+  - first:
+      213: -1847665983672621563
+    second: Cave_dark_bg_right
+  - first:
+      213: 5673102506073067073
+    second: Cave_dark_bg_ramp_left
+  - first:
+      213: -6908399139386908105
+    second: Cave_dark_bg_ramp_right
+  - first:
+      213: 4349239134971527207
+    second: Cave_dark_bg_45_left
+  - first:
+      213: -3580856668022893053
+    second: Cave_dark_bg_45_right
+  - first:
+      213: 6128823342465208025
+    second: Cave_dark_top_right
+  - first:
+      213: -1118187706502348428
+    second: Cave_dark_top_left
+  - first:
+      213: 474006542505667796
+    second: Cave_dark_floor_base
+  - first:
+      213: 5960654940609818811
+    second: Cave_dark_floor_stalactite_1
+  - first:
+      213: 7972812525079606791
+    second: Cave_dark_floor_stalactite_2
+  - first:
+      213: -5565750930314111910
+    second: Cave_dark_ceiling_base
+  - first:
+      213: -5850378504912467134
+    second: Cave_dark_ceiling_stalactite_1
+  - first:
+      213: -1454817535891617324
+    second: Cave_dark_ceiling_stalactite_2
+  - first:
+      213: -8631787814960838269
+    second: Cave_dark_bg_inner_right_bottom
+  - first:
+      213: -7530760627171663724
+    second: Cave_dark_bg_inner_right_top
+  - first:
+      213: 225224000211043688
+    second: Cave_dark_bg_inner_left_top
+  - first:
+      213: 7290797058652765832
+    second: Cave_dark_bg_inner_left_bottom
+  - first:
+      213: -3966133877340822294
+    second: Cave_dark_bg_45_top_left
+  - first:
+      213: 4099236901544546009
+    second: Cave_dark_bg_45_top_right
+  - first:
+      213: 4264041715883724069
+    second: PlatformHardIce_top_left
+  - first:
+      213: 179211820596266308
+    second: PlatformHardIce_top
+  - first:
+      213: -3153309497502606979
+    second: PlatformHardIce_top_right
+  - first:
+      213: -2936786143511539492
+    second: PlatformHardIce_left
+  - first:
+      213: 3006114857606902457
+    second: PlatformHardIce_center_fill
+  - first:
+      213: 1656063254429885255
+    second: PlatformHardIce_right
+  - first:
+      213: -3397259038460519474
+    second: PlatformHardIce_bottom_left
+  - first:
+      213: 1903521206836470303
+    second: PlatformHardIce_bottom
+  - first:
+      213: 7473951356802685674
+    second: PlatformHardIce_bottom_right
+  - first:
+      213: 7308664677214642820
+    second: Crystals_1
+  - first:
+      213: -8237667901665138252
+    second: Crystals_2
+  - first:
+      213: 9163636417239050079
+    second: Stone_snow_covered_1
+  - first:
+      213: -2467140366469486843
+    second: Crystals_3
+  - first:
+      213: 5820014169307960107
+    second: Stone_snow_covered_2
+  - first:
+      213: -2328196627906323135
+    second: PileOfSnow_1
+  - first:
+      213: -9106106037754608314
+    second: PileOfSnow_2
+  - first:
+      213: -3528252661744182765
+    second: RockFace_top_left
+  - first:
+      213: -8595958679601532020
+    second: RockFace_top
+  - first:
+      213: 5278485284012631150
+    second: RockFace_top_right
+  - first:
+      213: 5303609170958747540
+    second: RockFace_left
+  - first:
+      213: -7548914865563572978
+    second: RockFace_base
+  - first:
+      213: -2792046452808650818
+    second: RockFace_right
+  - first:
+      213: 5250139502412893841
+    second: Wall_log_end_right_shadow
+  - first:
+      213: -1899738553105248906
+    second: Wall_log_end_left_shadow
+  - first:
+      213: 7901282885966210490
+    second: Wall_log_end_left
+  - first:
+      213: 8962612771129397838
+    second: Wall_log_end_right
+  - first:
+      213: 5283102516484678356
+    second: Wall_log_base
+  - first:
+      213: -7173168926039945098
+    second: Wall_log_shadow
+  - first:
+      213: 7132341887516859810
+    second: Chimney_grey
+  - first:
+      213: -3105796825587006270
+    second: ThickSnowCover_left
+  - first:
+      213: -7287243298595484329
+    second: ThickSnowCover_center
+  - first:
+      213: -2916057842279993126
+    second: ThickSnowCover_right
+  - first:
+      213: 5156160712824375860
+    second: Fence_wood_snow_covered_left
+  - first:
+      213: -8201861119818620892
+    second: Fence_wood_snow_covered_center
+  - first:
+      213: 2143230375066095842
+    second: Fence_wood_snow_covered_right
+  - first:
+      213: -7705301737551360483
+    second: Door_cabin_small_closed
+  - first:
+      213: -4517408255020937649
+    second: Window_round_small_cabin
+  - first:
+      213: 8726148449916930910
+    second: Smoke_1
+  - first:
+      213: -8044494511525273312
+    second: Smoke_2
+  - first:
+      213: 4012990250835332762
+    second: Smoke_3
+  - first:
+      213: 7674693441881433481
+    second: Smoke_4
+  - first:
+      213: -4176298113601619864
+    second: Smoke_5
+  - first:
+      213: -7707245647601438625
+    second: Smoke_6
+  - first:
+      213: -4073179049984778777
+    second: Smoke_7
+  - first:
+      213: -4653406051338019027
+    second: Smoke_8
+  - first:
+      213: 5380756229560350382
+    second: IceTopHills_top_left
+  - first:
+      213: 3581276649640154043
+    second: IceTopHills_top
+  - first:
+      213: 718288798199991400
+    second: IceTopHills_top_right
+  - first:
+      213: 8656778566461918012
+    second: IceTopHills_left
+  - first:
+      213: 6568660402051165980
+    second: IceTopHills_base
+  - first:
+      213: 8177310222156958048
+    second: IceTopHills_right
+  - first:
+      213: -2921573557142994635
+    second: IceTopHills_30_left
+  - first:
+      213: 3175843207370052536
+    second: IceTopHills_30_right
+  - first:
+      213: 5589520652803144738
+    second: IceTopHills_45_left
+  - first:
+      213: -7219356481868704962
+    second: IceTopHills_45_right
+  - first:
+      213: -4385641046983212072
+    second: IceBlock_big
+  - first:
+      213: 8775846025441241741
+    second: IceBlock_small
+  - first:
+      213: 3829086656415426163
+    second: IceTile
+  - first:
+      213: -5082964564549600199
+    second: Mountain_bg_1
+  - first:
+      213: 27021182462983811
+    second: Mountain_bg_2
+  - first:
+      213: 1614378816021980147
+    second: CloudsSunny_left_down
+  - first:
+      213: 473739925574432396
+    second: CloudsSunny_right_down
+  - first:
+      213: 7356412101397556792
+    second: CloudsSunny_top_1
+  - first:
+      213: 3135268656236819616
+    second: CloudsSunny_top_2
+  - first:
+      213: 3259381049147563456
+    second: CloudsSunny_top_3
+  - first:
+      213: -5876959969157143145
+    second: WoodSignPole_top_right_beam
+  - first:
+      213: -2879152432393517794
+    second: WoodSignPole_middle
+  - first:
+      213: 1553907389417095239
+    second: WoodSignPole_horizontal_center
+  - first:
+      213: -429359612446135740
+    second: WoodSignPole_horizontal_right
+  - first:
+      213: 2102314996560794497
+    second: Chain_small_black
+  - first:
+      213: -2035379156054680241
+    second: Lantern_1
+  - first:
+      213: -4588757027190294421
+    second: Lantern_2
+  - first:
+      213: 3472529655171932213
+    second: Lantern_3
+  - first:
+      213: 759147154399933516
+    second: StripedPlatform_45_bottom_left
+  - first:
+      213: 3229823885040760842
+    second: StripedPlatform_45_bottom_right
+  - first:
+      213: -4466285698180895721
+    second: StripedPlatform_top_right_end
+  - first:
+      213: 2056123118514286577
+    second: StripedPlatform_top_left_end
+  - first:
+      213: 7350568302030157519
+    second: StripedPlatform_top
+  - first:
+      213: 288965125952212715
+    second: StripedPlatform_base
+  - first:
+      213: 6700436645699636171
+    second: StripedPlatform_bottom_left
+  - first:
+      213: 7641328460446420243
+    second: StripedPlatform_bottom_right
+  - first:
+      213: -250943611028643512
+    second: StripedPlatform_right
+  - first:
+      213: -4399769515505570776
+    second: StripedPlatform_left
+  - first:
+      213: -1775881029770291605
+    second: StripedPlatform_bottom
+  - first:
+      213: -5230988611066256486
+    second: StripedPlatform_top_left
+  - first:
+      213: 8692609632349472598
+    second: StripedPlatform_top_right
+  - first:
+      213: 6819749627617489661
+    second: Popsicle_big
+  - first:
+      213: -1859182380309840041
+    second: Popsicle_small
+  - first:
+      213: -8993317672341016715
+    second: StripedPlatform_45_top_left
+  - first:
+      213: 7190390326346802988
+    second: StripedPlatform_45_top_right
+  - first:
+      213: 8582104906308279780
+    second: Door_cabin_small_open_1
+  - first:
+      213: 8044069793673390957
+    second: Door_cabin_small_open_2
+  - first:
+      213: -1233549564039053940
+    second: Wall_log_45_left
+  - first:
+      213: 1222717805661114413
+    second: Wall_log_45_right
+  - first:
+      213: 2284012630379468877
+    second: Roof_snow_45_right
+  - first:
+      213: 6177598392413943662
+    second: Roof_snow_45_left
+  - first:
+      213: -3276192293565892070
+    second: Roof_snow_45_right_end
+  - first:
+      213: 2759868970605939254
+    second: Roof_snow_45_left_end
+  - first:
+      213: -1016100691278005462
+    second: Wall_log_shadow_right
+  - first:
+      213: 8165969589133796104
+    second: Wall_log_shadow_left
+  - first:
+      213: 6547246780511205408
+    second: Icicle_1
+  - first:
+      213: -6207490166859875265
+    second: Icicle_2
+  - first:
+      213: -4961817944218590229
+    second: Icicle_3
+  - first:
+      213: -73731994507418750
+    second: CloudsSunny_left_end
+  - first:
+      213: -5256979230535580556
+    second: CloudsSunny_right_end
+  - first:
+      213: -8245475938414567484
+    second: CloudsSunny_bottom_1
+  - first:
+      213: -3955069901117264983
+    second: CloudsSunny_bottom_2
+  - first:
+      213: 7060410001635807585
+    second: CloudsSunny_bottom_plain
+  - first:
+      213: -793721891531431667
+    second: CloudsSunny_small_1
+  - first:
+      213: 5553087534235451322
+    second: CloudsSunny_small_2
+  - first:
+      213: -5182408353213108900
+    second: StripedPlatform_thin_right
+  - first:
+      213: -4786029407307598930
+    second: StripedPlatform_thin_center
+  - first:
+      213: 7522776987976826826
+    second: StripedPlatform_thin_left
+  - first:
+      213: -7647844174097378995
+    second: Icicle_4
+  - first:
+      213: -1601531159386960777
+    second: StripedPlatform_shadows_left
+  - first:
+      213: 3467996617650683395
+    second: StripedPlatform_shadows_center
+  - first:
+      213: 1234953331106286879
+    second: StripedPlatform_shadows_right
+  - first:
+      213: -4652595124229650311
+    second: Wall_log_left
+  - first:
+      213: -5941625648278346132
+    second: Wall_log_right
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: FrostyStoneGround_base
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 32
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d406f6dc5ff33294f8fd2e671f4e9e31
+      internalID: 3735341316798029812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrostyStoneGround_30_left
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 16
+        width: 32
+        height: 32
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31cd856979ef4ce44b69e3c6890c4ed8
+      internalID: 2097199495133046274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrostyStoneGround_30_right
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 48
+        width: 32
+        height: 32
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50db54e23eded4546ba135a7a2b38eab
+      internalID: -3148391001905642957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tree_trunk
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 80
+        width: 8
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b447f50380ab914eb4a89f708a9fa31
+      internalID: 2673107010519389567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spruce_big_base
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 80
+        width: 4
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 933af6ce75ebf6c44b1319b69e338f36
+      internalID: -8914494547546199284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spruce_big_bottom
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 80
+        width: 4
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 706b222e198469d4a8b4249aec65ab34
+      internalID: -1300382053092332139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spruce_big_left
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 8
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2df0ee9ef6687324f9f9d4c8ad8bd197
+      internalID: -5524838247133661370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spruce_big_right
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 96
+        width: 8
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce5b59599dc57e94e9dbf9547a7c3d7c
+      internalID: -3320377274108590842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spruce_big_bottom_left
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 112
+        width: 8
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16ce81cc619d1914ea687264d1e6f60f
+      internalID: -8760333974007683527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spruce_big_bottom_right
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 112
+        width: 8
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71c6ca7bb5bf15e43b824911ff6992fc
+      internalID: -6589691738594289023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hills_bg_high
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 224
+        width: 80
+        height: 32
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1f0e04a582a0ef40ba04f08dc30553e
+      internalID: 1921729832628389042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hills_bg_low
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 240
+        width: 80
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e13e806d0a7522c4f8940947a6a5368b
+      internalID: -162509079628819402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hills_bg_high_far
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 224
+        width: 80
+        height: 32
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b107cfb719cd56a4189831b5e6ca112d
+      internalID: -367282149352543256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hills_bg_low_far
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 224
+        width: 80
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e1464d3abde3d54db6a2b61667756f6
+      internalID: -3176828208325962608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clouds_right_short
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 248
+        width: 8
+        height: 8
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74427eb7b267e8d4b8d58f083b0f0fb4
+      internalID: -2548034972719652022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clouds_left_short
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 248
+        width: 8
+        height: 8
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc6c7deff16713d42b68cdad5ae25bf1
+      internalID: -2747302319761963413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clouds_small
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 240
+        width: 16
+        height: 8
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fef186a6281176f41b795479662834b1
+      internalID: 73095297193925144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clouds_left_long
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 232
+        width: 16
+        height: 8
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cb525ab2e11cd645be6f83e283dbbc7
+      internalID: -5011852392092684926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clouds_right_long
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 224
+        width: 16
+        height: 8
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57128f41b8083b649983456496f325ba
+      internalID: -522473214259101842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clouds_center_1
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 224
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84265606a48697941824af5ad8d56a69
+      internalID: -6918667468653950866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clouds_center_2
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 240
+        width: 32
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f11f2ae0a87566f48ab9b17ac49d57ec
+      internalID: 1736314687710842504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moon
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 224
+        width: 32
+        height: 32
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfc0f4424393604419928c999a5cf939
+      internalID: 7798260202119174485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spruce_small_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 32
+        height: 32
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28a8362b66a72e3478f2f5d961edb553
+      internalID: 8444598406455433591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spruce_small_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 160
+        width: 20
+        height: 24
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3844403e68c9354da66aadc78bdb9a1
+      internalID: -5013568712506540417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrassFrozen_bg_center
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 32
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34e3ba054583e134a81c50907a59f70d
+      internalID: 6447593480257575880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrassFrozen_bg_right
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 208
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa91034281c47b348acb9f64e92591a1
+      internalID: 2049120017547013973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrassFrozen_bg_left
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 208
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d9f11966c0f57e4fa001ea9324f1f54
+      internalID: -6799240586952672900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrostyStoneGround_inner_right
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 32
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b845a641b19d3d14db1f025340118ebe
+      internalID: 1444163251293054399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrostyStoneGround_inner_left
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 32
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0f3bdb8dbdc1ab42bc5fe86ad2b117f
+      internalID: -5186355811709013610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrostyStoneGround_top_left
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 16
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 772bf6d3ae4e68a40a5f9da6e71aaea7
+      internalID: 4731276315646173323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrostyStoneGround_top_right
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 0
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99358fb64e042f7458b985e48eeeaf90
+      internalID: 5528219145720905373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrostyStoneGround_left
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 16
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 585216297b5a961409ed0912dedab201
+      internalID: -8801778653181554506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrostyStoneGround_right
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6ab825c344d6104da3c8544b90dcaa4
+      internalID: -9167685443071234692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowCoveredIce_45_left
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 0
+        width: 32
+        height: 32
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17efb711f80cf304981303ab5ff46a0a
+      internalID: 4139424696706320699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowCoveredIce_45_right
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 0
+        width: 32
+        height: 32
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ef356891da58dc459f913033ef2d81b
+      internalID: -7465837527117720587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowCoveredIce_top
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4905d0dc5d93ab1468aaf2a1cbde35dc
+      internalID: -7077616375378894533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowCoveredIce_base
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 0
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b7bda6784f3af04aa9ca01ac67781cc
+      internalID: -7091025759668070002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowCoveredIce_right
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 16
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37c0a00938a722b4a808877ee21bd357
+      internalID: 2836038334817362023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowCoveredIce_left
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 16
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8cbc16b544ac5c4da0d4571d183fee2
+      internalID: 230994958749774091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowCoveredIce_top_left
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 32
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abe1f4d7269a1e846a4c884860d98b3c
+      internalID: -1021737486890942921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowCoveredIce_top_right
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 32
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28bb42667a2da0847a3e3914a327424b
+      internalID: -5040156952940299162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StripedPole_24_base
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 80
+        width: 24
+        height: 20
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9c681c1a9f233b43818fb7a1c4c7e7a
+      internalID: 281551815248219673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StripedPole_24_top
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 100
+        width: 24
+        height: 20
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8707e8ef7a6f86f4e80d8c1444bc6e19
+      internalID: 7542770001336434526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StripedPole_16_base
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 80
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b469bc3d13d6a774f8b75d07f1db6d98
+      internalID: 3072949655802768779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StripedPole_16_top
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 96
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 898c860713a957645bb103153e80b77d
+      internalID: -8196291995138836868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigAnimatedCloudDark_up_left_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 192
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ed03cefbb05e7a4eb9aa03ad0493888
+      internalID: 6476219840385836497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigAnimatedCloudDark_up_left_2
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 192
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea738aa07bbec1b46b5cddf57ce0beda
+      internalID: -7118412559889453126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigAnimatedCloudDark_up_right_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 192
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6c3f5701c85ac44284f17bc1b4ebf67
+      internalID: 4980812850558577108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigAnimatedCloudDark_up_right_2
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 192
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bfba62c296904f40b036877f7efd443
+      internalID: -3004241931610298368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigAnimatedCloudDark_down_left_1
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 192
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7ce9fed60a2a264dadadaa4b4085c5c
+      internalID: -1426799962288505916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigAnimatedCloudDark_down_left_2
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 192
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf6b49c748c97a54a933e8b464aba27c
+      internalID: -3209118603532929126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigAnimatedCloudDark_down_right_1
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 192
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d238f0537a60260488c9655bed50cb64
+      internalID: 7330213442772260760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigAnimatedCloudDark_down_right_2
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 192
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53a695e17cb610f459b117a2197892ff
+      internalID: 4189321757898971295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimatedCloudDark_up_left_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 208
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16f554f0ec9d19e4f9597bbc034a39ab
+      internalID: 6412230623698387957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimatedCloudDark_up_left_2
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 208
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 819ed89ab7c32a146b657bba765193a2
+      internalID: -3389447822086053904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimatedCloudDark_up_right_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 208
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13958741bd9f47a4f8d3ab5fe25de9b0
+      internalID: -362457961067294303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimatedCloudDark_up_right_2
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 208
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bc45bf8582448c44b27e51d6272a0f6
+      internalID: -7948672386676010087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimatedCloudDark_down_left_1
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 208
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1ae595dd87dbd34591e2b19502c00e2
+      internalID: -2546938165981888139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimatedCloudDark_down_left_2
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 208
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a2659a39b40bb84094194f826e0d148
+      internalID: 7891945372952606195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimatedCloudDark_down_right_1
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 208
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 854a277a4cedf3e409e125f8a9f9c861
+      internalID: 6622071260518156719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimatedCloudDark_down_right_2
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 208
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f531eb9deddf664c9f806b4e77d64d9
+      internalID: 339936955617486565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowCoveredIce_inner_top_left
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 48
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2e372d1ae78c0347b70c90444e10844
+      internalID: 6166425302724002096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowCoveredIce_inner_top_right
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 48
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0700b9e3a6f50b048833b6f935cd838b
+      internalID: -2252016025601670253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Star_1
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 80
+        width: 8
+        height: 8
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb565408835295b4fbeabac5ab8b3bfd
+      internalID: -7978211336232270038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Star_2
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 88
+        width: 8
+        height: 8
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd478dfe742fa38429d70eff0a9183c7
+      internalID: 612620484901056731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Star_3
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 96
+        width: 8
+        height: 8
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd169d7036e5e9c408204c85746533b1
+      internalID: -8516704356247455896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Star_4
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 104
+        width: 8
+        height: 8
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37cfa27e80e6b164b8efa5a54f5c3aa7
+      internalID: 530494583715035032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowCoveredIce_45_right_inner_seam
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 32
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e44c629adc038d94faf0965ad1b194e9
+      internalID: -3577968284151567245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowCoveredIce_45_left_inner_seam
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 48
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df6b77a2cf3672747902358525d8917e
+      internalID: 3346859501431171265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceBrick_top
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b40f1524fd679944f966f02d0b1721f1
+      internalID: -7006810992058906587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceBrick_base
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 0
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6abe44049f2c30c4f985dd6af71e9e03
+      internalID: 184387878766820441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceBrick_top_right
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 16
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78a48cc6f815bf243839c0383f7d4b9f
+      internalID: -7824664806636135652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceBrick_top_left
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 16
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22d303d0b4920fb4185ebd6775b2304d
+      internalID: 3895694667914442278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceBrick_right
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 32
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14bdabd360f92e14197fe8f950597160
+      internalID: 4651233658924295793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceBrick_left
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 32
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eab15788057d44f4f96b120fedd292c1
+      internalID: -1107122919434288233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceBrick_bottom_left
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 32
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62661a84891c9fd4582369a6175e9794
+      internalID: 2299233763937213156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceBrick_bottom_center
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 32
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e5dca0327d273446bd5139167727b03
+      internalID: 3602164131035388896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceBrick_bottom_right
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 32
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f895a1152202c4499fa8220a00ff3c0
+      internalID: -7278884748247728327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceBrick_arch
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 0
+        width: 48
+        height: 32
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6be0658aa778c94fa3ba7fe14d02795
+      internalID: -2864981217860766304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IcePillar_bottom
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa55c39fe28240f4695e5532fbae5962
+      internalID: -4947792968711445049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IcePillar_middle
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 16
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 420ff6908de514f4395fab88e509601e
+      internalID: -3105578481876670164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IcePillar_top
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 32
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e616d130487ab48419fae02c9753b8a7
+      internalID: 2251581395219346269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrassFrozen_right
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 160
+        width: 8
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8b3894ada6d90749bf6dfed051af459
+      internalID: -7414259859645459388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrassFrozen_left
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 176
+        width: 8
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15865c9381e986043a85d3352a049395
+      internalID: -6246738121928160213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrassFrozen
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 160
+        width: 16
+        height: 8
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7e6f9ccbb8362c4f84544a446c71c23
+      internalID: 1344299197221861236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceBrick_inner_top_right
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 32
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86522b049253f8c4fb95da4793893d9a
+      internalID: -507446493658467142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceBrick_inner_top_left
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 32
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fdc5324f87ec9b4fa6d6eae62b384eb
+      internalID: -3722942363683477333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StripedHill_base
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 192
+        width: 32
+        height: 32
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54fa008e412d857458bc5545c76132d7
+      internalID: -1775881029770291605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StripedHill_snow_top
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 192
+        width: 32
+        height: 32
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8543ca96eb20bc438d70d5a15c39a04
+      internalID: -5230988611066256486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowHill_top_left
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 80
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d62ea1fde220654796c7efc3896dd7e
+      internalID: 8203219340142538820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowHill_top
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 80
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8786b2a79512d644d8ff22df53c1c33c
+      internalID: -7744103105167352191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowHill_top_right
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 80
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b210ee195cee5ea42914b8de795a15d2
+      internalID: -6334023026728455192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowHill_left
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4919399ebf6a2145980f02f72538444
+      internalID: -4601453439905149945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowHill_base
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 64
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d99e3d0a9e950542ae7350d6e2a434a
+      internalID: 4706378163995609016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowHill_right
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 64
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0977fa4059b6916458c0bd28e1f3c455
+      internalID: 8634050564145579644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave_far_bg
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 160
+        width: 32
+        height: 32
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d2256267378d0549bf4c31fbdbc5ccc
+      internalID: 6731882490834186639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave_dark_bg_left
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 144
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d900309210ed51d40aad84825281c161
+      internalID: 3354496696727780407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave_dark_bg_right
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 144
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa76866e39161fe48a01bcdc3f60d35a
+      internalID: -1847665983672621563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave_dark_bg_ramp_left
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 128
+        width: 32
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc917d6238c809e478d49c5a44c34d14
+      internalID: 5673102506073067073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave_dark_bg_ramp_right
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 160
+        width: 32
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e54e8d2975bdf0946a0830327a968b7d
+      internalID: -6908399139386908105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave_dark_bg_45_left
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 176
+        width: 32
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a06dedf94c61bb847acfe98b66099055
+      internalID: 4349239134971527207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave_dark_bg_45_right
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 176
+        width: 32
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8df98cbaf80b7cf488159b87818f7527
+      internalID: -3580856668022893053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave_dark_top_right
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 152
+        width: 16
+        height: 20
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23ff8871366fc564f9ddb29987cb4a4c
+      internalID: 6128823342465208025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave_dark_top_left
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 152
+        width: 16
+        height: 20
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc353f98aacc3f84b9995430dd2cbc3b
+      internalID: -1118187706502348428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave_dark_floor_base
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 16
+        height: 20
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61381b1ce65d5e04d8b4c7c14db1d6b7
+      internalID: 474006542505667796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave_dark_floor_stalactite_1
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 128
+        width: 16
+        height: 32
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eccc0ea801067eb40a8bd130ede794cc
+      internalID: 5960654940609818811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave_dark_floor_stalactite_2
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 128
+        width: 16
+        height: 32
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8df143842392b44468914164f2b78cfe
+      internalID: 7972812525079606791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave_dark_ceiling_base
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 124
+        width: 16
+        height: 20
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c231b2c98c5bfd24191a02adc2721e80
+      internalID: -5565750930314111910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave_dark_ceiling_stalactite_1
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 112
+        width: 16
+        height: 32
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 083287b1a19a3204183281c1995e1608
+      internalID: -5850378504912467134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave_dark_ceiling_stalactite_2
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 112
+        width: 16
+        height: 32
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 475f81dcec42b7e4aa6e7941d2beb5fb
+      internalID: -1454817535891617324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave_dark_bg_inner_right_bottom
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 144
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 206fc1254de29d04fbc4c24ab811bc8a
+      internalID: -8631787814960838269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave_dark_bg_inner_right_top
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 160
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 416519e01cdd38b4aa0e61b70e486651
+      internalID: -7530760627171663724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave_dark_bg_inner_left_top
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 160
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da559bf26d752b643b35b83f3161fb78
+      internalID: 225224000211043688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave_dark_bg_inner_left_bottom
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 144
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c016865028d0d5e4d84b1ddac6f80705
+      internalID: 7290797058652765832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave_dark_bg_45_top_left
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 112
+        width: 32
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfef75164b8d0fd47ae0a49224cf6306
+      internalID: -3966133877340822294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave_dark_bg_45_top_right
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 176
+        width: 32
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7ee04b03af8ea74199251221f769809
+      internalID: 4099236901544546009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlatformHardIce_top_left
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 96
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d7e97af510a6ed4fa13da3fbd86888f
+      internalID: 4264041715883724069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlatformHardIce_top
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 96
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4a0877a0eaae5d409d9a5caf980ea9b
+      internalID: 179211820596266308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlatformHardIce_top_right
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 96
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4f479bb7679af8438086fe511dd1f48
+      internalID: -3153309497502606979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlatformHardIce_left
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 80
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47ecf64fa70033941b299ff4ed73577a
+      internalID: -2936786143511539492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlatformHardIce_center_fill
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 80
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4fc951dddc349c4e971d4bbd9526ef7
+      internalID: 3006114857606902457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlatformHardIce_right
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 80
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7eb3c6e618436d446a3fb2168e942dc5
+      internalID: 1656063254429885255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlatformHardIce_bottom_left
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 64
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9a69feb0b5b1394d9114240a62a8bd3
+      internalID: -3397259038460519474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlatformHardIce_bottom
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 64
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e05f88df54f54448947e61f5a737bb2
+      internalID: 1903521206836470303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlatformHardIce_bottom_right
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 64
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63b16bd1dba8bf4478e2db8599e0ba12
+      internalID: 7473951356802685674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crystals_1
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 176
+        width: 32
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f36d48c79f39fd4bab40d4915a2f055
+      internalID: 7308664677214642820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crystals_2
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 176
+        width: 24
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b6245595663f0f40b7fa13d0c49d68e
+      internalID: -8237667901665138252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stone_snow_covered_1
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 176
+        width: 20
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7e7a72a38f45f64fb77c65b2ecd5809
+      internalID: 9163636417239050079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crystals_3
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 176
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98c77c5a9c517b04985cdc729a31d21a
+      internalID: -2467140366469486843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stone_snow_covered_2
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 160
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8374faceac6645f4aa5ce354b23cf64b
+      internalID: 5820014169307960107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PileOfSnow_1
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 160
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 735045bbbba01b94aa0b18349ed24ddc
+      internalID: -2328196627906323135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PileOfSnow_2
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 160
+        width: 16
+        height: 8
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee09440be4e326941ac242477f5c696f
+      internalID: -9106106037754608314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RockFace_top_left
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 144
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e099b3234ca1d842b9995af12cc72e5
+      internalID: -3528252661744182765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RockFace_top
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 144
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d14acc14550a8fc45a533b83aecf751f
+      internalID: -8595958679601532020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RockFace_top_right
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 144
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63f1d9c7a9c1c7d4c8b2ff072b6698b1
+      internalID: 5278485284012631150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RockFace_left
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 128
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6087589c60f363428ac0c724269a11e
+      internalID: 5303609170958747540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RockFace_base
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 128
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c85ea8b04ca110f4a97a0a1fc189f6ca
+      internalID: -7548914865563572978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RockFace_right
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 128
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfbd3cf12cc775a459d360bfc4d4fd83
+      internalID: -2792046452808650818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall_log_end_right_shadow
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 112
+        width: 8
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3915bac96a080a24f9a5fc360a589fa3
+      internalID: 5250139502412893841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall_log_end_left_shadow
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 112
+        width: 8
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db212b2dcc3bae941a3710ecb75ae77b
+      internalID: -1899738553105248906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall_log_end_left
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 112
+        width: 8
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9b0e2ac663d3fd49a3ca5b73c843a50
+      internalID: 7901282885966210490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall_log_end_right
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 112
+        width: 8
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 692e1bc59104bac4d8ce854eb50d2ba5
+      internalID: 8962612771129397838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall_log_base
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 112
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42fb2218a935525458dbd3bb991504ec
+      internalID: 5283102516484678356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall_log_shadow
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 112
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8aff2e4a70a8c8f44a2310144a06888c
+      internalID: -7173168926039945098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chimney_grey
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 80
+        width: 16
+        height: 24
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22d6c8d5e15f6414c9a7c743eb9b575a
+      internalID: 7132341887516859810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThickSnowCover_left
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 48
+        width: 16
+        height: 24
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 758011fb6c1c2e546b6a5cd8ab6e0a61
+      internalID: -3105796825587006270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThickSnowCover_center
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 48
+        width: 16
+        height: 24
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81215d2ea4508c247aacf6d7a14969a1
+      internalID: -7287243298595484329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThickSnowCover_right
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 48
+        width: 16
+        height: 24
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8657963881cd644b9b396ed3f87dfa1
+      internalID: -2916057842279993126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fence_wood_snow_covered_left
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 48
+        width: 16
+        height: 20
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 626f1571288cc9347bdfe614ebce7886
+      internalID: 5156160712824375860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fence_wood_snow_covered_center
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 48
+        width: 16
+        height: 20
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43ad182fabd85654db3e161fc94f3b71
+      internalID: -8201861119818620892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fence_wood_snow_covered_right
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 48
+        width: 16
+        height: 20
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89013113103c9684fb6b30ff36ba211e
+      internalID: 2143230375066095842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Door_cabin_small_closed
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 0
+        width: 32
+        height: 32
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56ccdd22040a9d642bac88791851697f
+      internalID: -7705301737551360483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Window_round_small_cabin
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 32
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9223b1f8145777409bcbd97e795ad26
+      internalID: -4517408255020937649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceTopHills_top_left
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 160
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ca9ee127b6a4ea439db02677b48c1cd
+      internalID: 5380756229560350382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceTopHills_top
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 160
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cb05a30f6b3e734b91767dc87e6cc30
+      internalID: 3581276649640154043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceTopHills_top_right
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 160
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 755bd069f1ff6894396ba449b61f9d5c
+      internalID: 718288798199991400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceTopHills_left
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 144
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce822d55e9167a440a40102bd42222dd
+      internalID: 8656778566461918012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceTopHills_base
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 144
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40aa8257d5b24b442bb121b36b3cd16d
+      internalID: 6568660402051165980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceTopHills_right
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 144
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2781dd7d7531624ebe820333f00620f
+      internalID: 8177310222156958048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceTopHills_30_left
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 144
+        width: 32
+        height: 32
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40c63629c11c4634eac08c70e98bff3a
+      internalID: -2921573557142994635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceTopHills_30_right
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 112
+        width: 32
+        height: 32
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a88aca6dc548ad429a090080c2518bd
+      internalID: 3175843207370052536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceTopHills_45_left
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 112
+        width: 16
+        height: 32
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a65192e6e1dd76540b20e3a00e8088e3
+      internalID: 5589520652803144738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceTopHills_45_right
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 112
+        width: 16
+        height: 32
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ab556cd7e7c03542a9c3ce49efedc79
+      internalID: -7219356481868704962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceBlock_big
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 96
+        width: 32
+        height: 32
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4722b639172b8b640975c08036465a78
+      internalID: -4385641046983212072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceBlock_small
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 96
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0e5275153448ce46bb00fd6b87a3dd6
+      internalID: 8775846025441241741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceTile
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 80
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a5ed0d21fd0cb34c952a69ed4d76c93
+      internalID: 3829086656415426163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain_bg_1
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 224
+        width: 64
+        height: 32
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce1b0cc0ba8189b49baf9de6d400c48d
+      internalID: -5082964564549600199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain_bg_2
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 96
+        width: 56
+        height: 24
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a740dfb82d283641958e61daea59200
+      internalID: 27021182462983811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CloudsSunny_left_down
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 192
+        width: 16
+        height: 32
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 539d64542cbb23645a9a77dfa6de5b5a
+      internalID: 1614378816021980147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CloudsSunny_right_down
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 192
+        width: 16
+        height: 32
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36c78c46906857543a5aa24c464bf27a
+      internalID: 473739925574432396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CloudsSunny_top_1
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 208
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70304cd805c87294a8e4c4c28899cd3d
+      internalID: 7356412101397556792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CloudsSunny_top_2
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 192
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f3fecb22da574a41955b171a3e1e973
+      internalID: 3135268656236819616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CloudsSunny_top_3
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 192
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c49ded465b22b7f4d85c343a713e8601
+      internalID: 3259381049147563456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Smoke_1
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 192
+        width: 16
+        height: 32
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef973bf545281044dbf28e7bc116abd5
+      internalID: 8726148449916930910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Smoke_2
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 192
+        width: 16
+        height: 32
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7129528bddad9740b7536de79cadfc0
+      internalID: -8044494511525273312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Smoke_3
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 192
+        width: 16
+        height: 32
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2164edcf877a7e4682ff1526d0cd83d
+      internalID: 4012990250835332762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Smoke_4
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 192
+        width: 16
+        height: 32
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ae289e74849c58448624d47f1d691f9
+      internalID: 7674693441881433481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Smoke_5
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 192
+        width: 16
+        height: 32
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a80804f3e353e4044a7e16c75e5f0892
+      internalID: -4176298113601619864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Smoke_6
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 160
+        width: 16
+        height: 32
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7eb226fa81b21f04dad10e34aac0e16e
+      internalID: -7707245647601438625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Smoke_7
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 160
+        width: 16
+        height: 32
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd35dfa421e6c904dbd95b0a04351a77
+      internalID: -4073179049984778777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Smoke_8
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 160
+        width: 16
+        height: 32
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b752e50fd2d08ba41a5a24b76f1e8b56
+      internalID: -4653406051338019027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WoodSignPole_top_right_beam
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 176
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3a1f30f707db304b836de10270320d8
+      internalID: -5876959969157143145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WoodSignPole_middle
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 160
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 980a881989e59d643bafada6f9920cfd
+      internalID: -2879152432393517794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WoodSignPole_horizontal_center
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 176
+        width: 8
+        height: 8
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2162db3d53b846419de64bfe83bfaa3
+      internalID: 1553907389417095239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WoodSignPole_horizontal_right
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 176
+        width: 8
+        height: 8
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5e1595208099d4418b33d35bd203c27
+      internalID: -429359612446135740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chain_small_black
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 184
+        width: 8
+        height: 8
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d02adb787208d0145a6720067d809605
+      internalID: 2102314996560794497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lantern_1
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 160
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99815cbdad9f94c499a96784f04fdcb6
+      internalID: -2035379156054680241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lantern_2
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 144
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 654d5f10e02c9274d85462baaa3d5439
+      internalID: -4588757027190294421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lantern_3
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 128
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edf4092e628dac74fa3fab9f25cfa196
+      internalID: 3472529655171932213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StripedPlatform_45_bottom_left
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 80
+        width: 32
+        height: 32
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a25101a168e7d2946b81ced862d89b54
+      internalID: 759147154399933516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StripedPlatform_45_bottom_right
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 80
+        width: 32
+        height: 32
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de18cc6d35d3678428418c88c8750e37
+      internalID: 3229823885040760842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StripedPlatform_top_right_end
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 64
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae47990ca6af0764bb1135b9de2f0d91
+      internalID: -4466285698180895721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StripedPlatform_top_left_end
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 64
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a77ea47b3dac389459f913542a3521ec
+      internalID: 2056123118514286577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StripedPlatform_top
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 80
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a26dff7f126984f46b3eb9270fb344d7
+      internalID: 7350568302030157519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StripedPlatform_base
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 80
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5974eab4b9bb4b4fba318e94b015ab1
+      internalID: 288965125952212715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StripedPlatform_bottom_left
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 96
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78be12198d68cd142b62cc32e4b91acb
+      internalID: 6700436645699636171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StripedPlatform_bottom_right
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 96
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 609e8c410cac3d340b56cda7f95e77dd
+      internalID: 7641328460446420243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StripedPlatform_right
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 112
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c19eb90b8acf5d41af9ee899555907d
+      internalID: -250943611028643512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StripedPlatform_left
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 128
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dce5ec665a874fd4fb1c12a7eccf1b36
+      internalID: -4399769515505570776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StripedPlatform_bottom
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 112
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ebb2f538c761704c8f3b6039856e231
+      internalID: -3562384576721671467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StripedPlatform_top_left
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 128
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6fc78c3956cda64ab6b9d8a6b63b4e7
+      internalID: 7793573307602464885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StripedPlatform_top_right
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 144
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5755af6e33dafea439d40a88a421972e
+      internalID: 8692609632349472598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Popsicle_big
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 48
+        width: 24
+        height: 40
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1e6e0faca52a984b89652fd84b4efa1
+      internalID: 6819749627617489661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Popsicle_small
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 48
+        width: 17
+        height: 30
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b831aafa54bb894c942fcc5fdc15630
+      internalID: -1859182380309840041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StripedPlatform_45_top_left
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 48
+        width: 16
+        height: 32
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab278df4f0588e54a999b5216fb54694
+      internalID: -8993317672341016715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StripedPlatform_45_top_right
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 48
+        width: 16
+        height: 32
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e034ffa0e1c0364488d5cea43914a8e3
+      internalID: 7190390326346802988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Door_cabin_small_open_1
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 0
+        width: 32
+        height: 32
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fae183a9f15830f48993494f5a4b9644
+      internalID: 8582104906308279780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Door_cabin_small_open_2
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 0
+        width: 32
+        height: 32
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43e344ebb130f6d428493872c927846e
+      internalID: 8044069793673390957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall_log_45_left
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 80
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5ec1b417e3c3a346872eac1692f3b7d
+      internalID: -1233549564039053940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall_log_45_right
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 80
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e80de29cbe22f004ea812a204cbb3d1d
+      internalID: 1222717805661114413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roof_snow_45_right
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 40
+        width: 16
+        height: 24
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c2cc01be0d416c468a71f539583a36d
+      internalID: 2284012630379468877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roof_snow_45_left
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 16
+        width: 16
+        height: 24
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf0db2978a2fe0f44897dc35109e8949
+      internalID: 6177598392413943662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roof_snow_45_right_end
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 48
+        width: 8
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a7bb16c5c0d6614bb3190489a5a7dc1
+      internalID: -3276192293565892070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roof_snow_45_left_end
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 48
+        width: 8
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ede8ca50d05fd7f43894049ffb478ff3
+      internalID: 2759868970605939254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall_log_shadow_right
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 96
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e97bc5b10928b0c4197484f08a81179a
+      internalID: -1016100691278005462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall_log_shadow_left
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 96
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99d36bf87e9e63d4a8bd50db7aeac95e
+      internalID: 8165969589133796104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icicle_1
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 128
+        width: 8
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8990d3d6b57af5847b526fa2a4e78571
+      internalID: 6547246780511205408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icicle_2
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 128
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 027832c3a97b885448e2d8db1d63bd39
+      internalID: -6207490166859875265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icicle_3
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 72
+        width: 16
+        height: 24
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae97e6b7b10a6934592b43c4c2206507
+      internalID: -4961817944218590229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CloudsSunny_left_end
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 208
+        width: 20
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d9f0855bbec7574a8d41f89283d7242
+      internalID: -73731994507418750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CloudsSunny_right_end
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 176
+        width: 20
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 195ed14017c9d3a4fb4c467e86561d3c
+      internalID: -5256979230535580556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CloudsSunny_bottom_1
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 200
+        width: 16
+        height: 8
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0bc649fe7152df4e9261cbf48cf5d22
+      internalID: -8245475938414567484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CloudsSunny_bottom_2
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 192
+        width: 16
+        height: 8
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03b0f4b1468b16f45b9ca166bde4d6b6
+      internalID: -3955069901117264983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CloudsSunny_bottom_plain
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 72
+        width: 16
+        height: 8
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 470000f5dd4d21c45b6854784db3ccf2
+      internalID: 7060410001635807585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CloudsSunny_small_1
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 80
+        width: 16
+        height: 8
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a45ac5673335a24aac1c4e0450bfa02
+      internalID: -793721891531431667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CloudsSunny_small_2
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 48
+        width: 20
+        height: 8
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da838d6022e9f354e9346ae4ccb1bf99
+      internalID: 5553087534235451322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StripedPlatform_thin_right
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 144
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d50ebe3dc1bc0bd4388a52aa030242ec
+      internalID: -5182408353213108900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StripedPlatform_thin_center
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 144
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15f392e151a84924fb1cc1c1e6278115
+      internalID: -4786029407307598930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StripedPlatform_thin_left
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 144
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3231b019dc486d04caa0f0b2a635a0b1
+      internalID: 7522776987976826826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icicle_4
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 136
+        width: 8
+        height: 8
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cb98898135bc0145bf93f81c196a6aa
+      internalID: -7647844174097378995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StripedPlatform_shadows_left
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 32
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b60ac7b3af1a69f449a41d43b5c5f49c
+      internalID: -1601531159386960777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StripedPlatform_shadows_center
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 32
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d89bf8326ea3cb4a9f33cd543c09074
+      internalID: 3467996617650683395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StripedPlatform_shadows_right
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 32
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69ef3ba89bb6f344ca5f4af591f6e31c
+      internalID: 1234953331106286879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall_log_left
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 48
+        width: 8
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87a9aa20157cd6948bc49e140e8e730b
+      internalID: -4652595124229650311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall_log_right
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 48
+        width: 8
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ad103babf638b84da7809a87d967c19
+      internalID: -5941625648278346132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 90faa7960f3fdb34c80c92030c6a4d5b
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      StripedPlatform_thin_center: -4786029407307598930
+      Clouds_right_short: -2548034972719652022
+      Cave_dark_floor_stalactite_1: 5960654940609818811
+      Cave_dark_bg_45_top_right: 4099236901544546009
+      SnowCoveredIce_45_right_inner_seam: -3577968284151567245
+      Cave_dark_top_left: -1118187706502348428
+      FrostyStoneGround_top_left: 4731276315646173323
+      BigAnimatedCloudDark_down_left_2: -3209118603532929126
+      AnimatedCloudDark_up_left_2: -3389447822086053904
+      FrostyStoneGround_left: -8801778653181554506
+      StripedPlatform_top_left_end: 2056123118514286577
+      Cave_dark_top_right: 6128823342465208025
+      Mountain_bg_2: 27021182462983811
+      IceBrick_top_left: 3895694667914442278
+      StripedPlatform_45_top_right: 7190390326346802988
+      IceBrick_bottom_right: -7278884748247728327
+      IceBrick_base: 184387878766820441
+      Tree_trunk: 2673107010519389567
+      SnowCoveredIce_top: -7077616375378894533
+      SnowHill_top: -7744103105167352191
+      StripedPlatform_right: -250943611028643512
+      SnowCoveredIce_45_left: 4139424696706320699
+      PlatformHardIce_top: 179211820596266308
+      Wall_log_base: 5283102516484678356
+      IceBrick_inner_top_right: -507446493658467142
+      Hills_bg_high_far: -367282149352543256
+      Star_1: -7978211336232270038
+      Cave_dark_bg_inner_right_top: -7530760627171663724
+      FrostyStoneGround_base: 3735341316798029812
+      Popsicle_small: -1859182380309840041
+      Wall_log_end_left: 7901282885966210490
+      GrassFrozen: 1344299197221861236
+      PileOfSnow_2: -9106106037754608314
+      SnowCoveredIce_base: -7091025759668070002
+      StripedPole_16_base: 3072949655802768779
+      IceBrick_bottom_center: 3602164131035388896
+      ThickSnowCover_left: -3105796825587006270
+      SnowHill_base: 4706378163995609016
+      BigAnimatedCloudDark_down_right_2: 4189321757898971295
+      Smoke_4: 7674693441881433481
+      Chain_small_black: 2102314996560794497
+      Crystals_2: -8237667901665138252
+      CloudsSunny_left_end: -73731994507418750
+      BigAnimatedCloudDark_up_right_2: -3004241931610298368
+      Cave_dark_ceiling_stalactite_2: -1454817535891617324
+      Wall_log_end_right_shadow: 5250139502412893841
+      Cave_dark_bg_right: -1847665983672621563
+      SnowCoveredIce_45_right: -7465837527117720587
+      PlatformHardIce_top_right: -3153309497502606979
+      Wall_log_shadow_left: 8165969589133796104
+      IcePillar_middle: -3105578481876670164
+      Door_cabin_small_open_2: 8044069793673390957
+      StripedPlatform_thin_left: 7522776987976826826
+      BigAnimatedCloudDark_up_right_1: 4980812850558577108
+      Cave_dark_ceiling_stalactite_1: -5850378504912467134
+      IceBrick_inner_top_left: -3722942363683477333
+      BigAnimatedCloudDark_down_left_1: -1426799962288505916
+      IceBrick_top: -7006810992058906587
+      Mountain_bg_1: -5082964564549600199
+      ThickSnowCover_center: -7287243298595484329
+      Icicle_4: -7647844174097378995
+      SnowHill_top_right: -6334023026728455192
+      IceTopHills_30_right: 3175843207370052536
+      CloudsSunny_right_end: -5256979230535580556
+      Moon: 7798260202119174485
+      Spruce_small_2: -5013568712506540417
+      StripedPlatform_top: 7350568302030157519
+      Crystals_1: 7308664677214642820
+      IceBlock_big: -4385641046983212072
+      CloudsSunny_small_2: 5553087534235451322
+      Wall_log_45_right: 1222717805661114413
+      SnowCoveredIce_top_right: -5040156952940299162
+      RockFace_top_left: -3528252661744182765
+      Wall_log_left: -4652595124229650311
+      Cave_dark_ceiling_base: -5565750930314111910
+      Stone_snow_covered_2: 5820014169307960107
+      Smoke_1: 8726148449916930910
+      IceBrick_bottom_left: 2299233763937213156
+      StripedPlatform_45_bottom_right: 3229823885040760842
+      Smoke_3: 4012990250835332762
+      FrostyStoneGround_30_left: 2097199495133046274
+      IceBrick_arch: -2864981217860766304
+      IceTopHills_top_right: 718288798199991400
+      StripedPlatform_shadows_right: 1234953331106286879
+      ThickSnowCover_right: -2916057842279993126
+      IceBrick_left: -1107122919434288233
+      AnimatedCloudDark_down_left_2: 7891945372952606195
+      FrostyStoneGround_right: -9167685443071234692
+      Star_3: -8516704356247455896
+      StripedPlatform_shadows_left: -1601531159386960777
+      Roof_snow_45_right_end: -3276192293565892070
+      Hills_bg_low_far: -3176828208325962608
+      AnimatedCloudDark_up_right_2: -7948672386676010087
+      Spruce_big_bottom_left: -8760333974007683527
+      StripedPole_24_base: 281551815248219673
+      Chimney_grey: 7132341887516859810
+      BigAnimatedCloudDark_down_right_1: 7330213442772260760
+      Cave_dark_bg_45_left: 4349239134971527207
+      Spruce_big_left: -5524838247133661370
+      IceBrick_right: 4651233658924295793
+      GrassFrozen_left: -6246738121928160213
+      RockFace_left: 5303609170958747540
+      AnimatedCloudDark_up_left_1: 6412230623698387957
+      CloudsSunny_bottom_plain: 7060410001635807585
+      SnowHill_left: -4601453439905149945
+      StripedPole_24_top: 7542770001336434526
+      Stone_snow_covered_1: 9163636417239050079
+      Cave_dark_bg_inner_right_bottom: -8631787814960838269
+      AnimatedCloudDark_down_left_1: -2546938165981888139
+      IceTopHills_base: 6568660402051165980
+      Spruce_big_base: -8914494547546199284
+      StripedPlatform_bottom: -3562384576721671467
+      Fence_wood_snow_covered_center: -8201861119818620892
+      Clouds_center_1: -6918667468653950866
+      SnowCoveredIce_right: 2836038334817362023
+      CloudsSunny_small_1: -793721891531431667
+      PlatformHardIce_bottom_left: -3397259038460519474
+      StripedPlatform_bottom_left: 6700436645699636171
+      SnowCoveredIce_left: 230994958749774091
+      StripedPlatform_45_top_left: -8993317672341016715
+      AnimatedCloudDark_down_right_2: 339936955617486565
+      PileOfSnow_1: -2328196627906323135
+      CloudsSunny_right_down: 473739925574432396
+      RockFace_top: -8595958679601532020
+      Cave_dark_bg_45_top_left: -3966133877340822294
+      BigAnimatedCloudDark_up_left_1: 6476219840385836497
+      Cave_dark_bg_ramp_right: -6908399139386908105
+      Cave_dark_bg_45_right: -3580856668022893053
+      Star_4: 530494583715035032
+      StripedPlatform_shadows_center: 3467996617650683395
+      Spruce_big_bottom_right: -6589691738594289023
+      PlatformHardIce_bottom_right: 7473951356802685674
+      IceTopHills_right: 8177310222156958048
+      StripedPlatform_45_bottom_left: 759147154399933516
+      SnowCoveredIce_inner_top_right: -2252016025601670253
+      StripedPlatform_thin_right: -5182408353213108900
+      BigAnimatedCloudDark_up_left_2: -7118412559889453126
+      RockFace_base: -7548914865563572978
+      SnowCoveredIce_inner_top_left: 6166425302724002096
+      Cave_dark_bg_inner_left_bottom: 7290797058652765832
+      IceTopHills_top: 3581276649640154043
+      CloudsSunny_left_down: 1614378816021980147
+      Smoke_7: -4073179049984778777
+      StripedPlatform_top_right_end: -4466285698180895721
+      IceBrick_top_right: -7824664806636135652
+      PlatformHardIce_top_left: 4264041715883724069
+      SnowCoveredIce_45_left_inner_seam: 3346859501431171265
+      Roof_snow_45_right: 2284012630379468877
+      RockFace_top_right: 5278485284012631150
+      Crystals_3: -2467140366469486843
+      Hills_bg_low: -162509079628819402
+      IceTile: 3829086656415426163
+      Star_2: 612620484901056731
+      Spruce_big_right: -3320377274108590842
+      Spruce_small_1: 8444598406455433591
+      Icicle_1: 6547246780511205408
+      CloudsSunny_top_3: 3259381049147563456
+      Fence_wood_snow_covered_right: 2143230375066095842
+      Clouds_center_2: 1736314687710842504
+      Cave_far_bg: 6731882490834186639
+      RockFace_right: -2792046452808650818
+      StripedPlatform_top_right: 8692609632349472598
+      AnimatedCloudDark_down_right_1: 6622071260518156719
+      Icicle_3: -4961817944218590229
+      SnowCoveredIce_top_left: -1021737486890942921
+      Smoke_2: -8044494511525273312
+      IceTopHills_45_right: -7219356481868704962
+      Door_cabin_small_open_1: 8582104906308279780
+      PlatformHardIce_left: -2936786143511539492
+      Wall_log_end_right: 8962612771129397838
+      GrassFrozen_bg_left: -6799240586952672900
+      WoodSignPole_horizontal_center: 1553907389417095239
+      WoodSignPole_middle: -2879152432393517794
+      WoodSignPole_top_right_beam: -5876959969157143145
+      CloudsSunny_bottom_1: -8245475938414567484
+      Clouds_left_short: -2747302319761963413
+      Spruce_big_bottom: -1300382053092332139
+      Hills_bg_high: 1921729832628389042
+      AnimatedCloudDark_up_right_1: -362457961067294303
+      Lantern_2: -4588757027190294421
+      StripedPlatform_base: 288965125952212715
+      Clouds_left_long: -5011852392092684926
+      GrassFrozen_bg_center: 6447593480257575880
+      IceBlock_small: 8775846025441241741
+      CloudsSunny_bottom_2: -3955069901117264983
+      IceTopHills_30_left: -2921573557142994635
+      FrostyStoneGround_top_right: 5528219145720905373
+      Wall_log_shadow: -7173168926039945098
+      GrassFrozen_bg_right: 2049120017547013973
+      GrassFrozen_right: -7414259859645459388
+      IcePillar_top: 2251581395219346269
+      IceTopHills_top_left: 5380756229560350382
+      WoodSignPole_horizontal_right: -429359612446135740
+      Window_round_small_cabin: -4517408255020937649
+      IceTopHills_left: 8656778566461918012
+      Icicle_2: -6207490166859875265
+      StripedHill_snow_top: -5230988611066256486
+      Cave_dark_bg_ramp_left: 5673102506073067073
+      StripedPole_16_top: -8196291995138836868
+      Roof_snow_45_left: 6177598392413943662
+      Cave_dark_bg_inner_left_top: 225224000211043688
+      Lantern_1: -2035379156054680241
+      SnowHill_top_left: 8203219340142538820
+      Cave_dark_bg_left: 3354496696727780407
+      Wall_log_shadow_right: -1016100691278005462
+      Fence_wood_snow_covered_left: 5156160712824375860
+      IceTopHills_45_left: 5589520652803144738
+      Wall_log_end_left_shadow: -1899738553105248906
+      Wall_log_right: -5941625648278346132
+      StripedPlatform_bottom_right: 7641328460446420243
+      PlatformHardIce_center_fill: 3006114857606902457
+      Cave_dark_floor_stalactite_2: 7972812525079606791
+      Clouds_right_long: -522473214259101842
+      FrostyStoneGround_30_right: -3148391001905642957
+      PlatformHardIce_bottom: 1903521206836470303
+      FrostyStoneGround_inner_left: -5186355811709013610
+      Cave_dark_floor_base: 474006542505667796
+      Door_cabin_small_closed: -7705301737551360483
+      CloudsSunny_top_2: 3135268656236819616
+      IcePillar_bottom: -4947792968711445049
+      StripedPlatform_left: -4399769515505570776
+      SnowHill_right: 8634050564145579644
+      Smoke_6: -7707245647601438625
+      CloudsSunny_top_1: 7356412101397556792
+      StripedHill_base: -1775881029770291605
+      Clouds_small: 73095297193925144
+      Wall_log_45_left: -1233549564039053940
+      Smoke_8: -4653406051338019027
+      PlatformHardIce_right: 1656063254429885255
+      Lantern_3: 3472529655171932213
+      StripedPlatform_top_left: 7793573307602464885
+      Popsicle_big: 6819749627617489661
+      FrostyStoneGround_inner_right: 1444163251293054399
+      Smoke_5: -4176298113601619864
+      Roof_snow_45_left_end: 2759868970605939254
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

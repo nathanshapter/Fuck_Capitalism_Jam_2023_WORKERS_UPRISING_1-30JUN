@@ -2817,7 +2817,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: db97d3f01cf732847b4ff99cc5e210bc
-      internalID: -5344500854483659349
+      internalID: 5495647165509638072
       vertices: []
       indices: 
       edges: []
@@ -5883,7 +5883,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 0c9b14e32603c38448fb0f30813f4779
-      internalID: 4178646564399375581
+      internalID: 6727757182373569673
       vertices: []
       indices: 
       edges: []
@@ -5904,7 +5904,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 8b5f9344a84cb9746bb9fb49504b2397
-      internalID: 6177617668486598445
+      internalID: -4652665092303428793
       vertices: []
       indices: 
       edges: []
@@ -9303,7 +9303,7 @@ TextureImporter:
       Counter_window_empty_left: 4298535699013958793
       Tiles_dark_grey: -8017842418843107584
       GhettoBarrel: 6333267573775751755
-      Tiles_light_grey_shadow_left: 4178646564399375581
+      Tiles_light_grey_shadow_left: 6727757182373569673
       Wall_concrete_base: 8845191186493500314
       Train_roof_center: 3079131982686423893
       Cable_horizontal: -3944977667882379520
@@ -9338,7 +9338,7 @@ TextureImporter:
       Sign_crosswalk_stop: 3301833155640055104
       Skyscaper_distant_bg_1_fade: 1658345505706814640
       Wall_curved_glass_right: 8146515192047810061
-      Tiles_light_grey_shadow_right: 6177617668486598445
+      Tiles_light_grey_shadow_right: -4652665092303428793
       Neon_rain_8: -6623503486648457439
       Pillar_subway_front: -887396349006854536
       Wall_panel_dark_shadow_right: -217419268683913613
@@ -9353,7 +9353,7 @@ TextureImporter:
       Metal_ledge_center: 739531425642199766
       WireFence_top_left: -3753004184650463047
       Corner_concrete_left: 2626110231347592817
-      Wall_panel_dark: -5344500854483659349
+      Wall_panel_dark: 5495647165509638072
       JumboScreen_cat_1: 241478461051679992
       Tiles_light_grey: 4885633339187527753
       Rock_ground_right_end: 4971463899732856547
