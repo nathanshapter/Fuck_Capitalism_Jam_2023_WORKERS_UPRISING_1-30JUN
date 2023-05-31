@@ -6,6 +6,7 @@ TagManager:
   tags:
   - Ground
   - Spike
+  - Bullet
   layers:
   - Default
   - TransparentFX
@@ -14,8 +15,8 @@ TagManager:
   - Water
   - UI
   - Ground
-  - 
-  - 
+  - Bullet
+  - Player
   - 
   - 
   - 
@@ -43,11 +44,11 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
-  - name: ForegroundTop
-    uniqueID: 2002717741
+  - name: BackgroundTop
+    uniqueID: 3641257881
     locked: 0
-  - name: ForegroundBottom
-    uniqueID: 4065348071
+  - name: BackgroundBottom
+    uniqueID: 1025438153
     locked: 0
   - name: Ground
     uniqueID: 2920403537
@@ -58,13 +59,13 @@ TagManager:
   - name: Player
     uniqueID: 3504611765
     locked: 0
-  - name: BackgroundTop
-    uniqueID: 3641257881
+  - name: ForegroundTop
+    uniqueID: 2002717741
     locked: 0
-  - name: BackgroundBottom
-    uniqueID: 1025438153
+  - name: ForegroundBottom
+    uniqueID: 4065348071
     locked: 0
-  - name: 
+  - name: Bullet
     uniqueID: 2870844909
     locked: 0
   - name: 

@@ -22,7 +22,11 @@ public class Shooting : MonoBehaviour
 
     private void Update()
     {
-        mousePos = cam.ScreenToWorldPoint(Input.mousePosition);
+        //   mousePos = cam.ScreenToWorldPoint(Input.mousePosition);
+
+        mousePos = Mouse.current.position.ReadValue();
+        mousePos = cam.ScreenToWorldPoint(mousePos);
+        
 
         if (!pc.isFacingRight)
         {
