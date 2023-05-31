@@ -93,11 +93,11 @@ public class PlayerController : MonoBehaviour
     }
     public void PanCameraUp(InputAction.CallbackContext context)
     {
-        print("up");
+       
     }
     public void PanCameraDown(InputAction.CallbackContext context)
     {
-        print("down");
+       
     }
   
 
@@ -161,7 +161,7 @@ public class PlayerController : MonoBehaviour
     {
 
 
-        if (collision.transform.CompareTag("Ground")) // why set parent to box?
+        if (collision.transform.CompareTag("Ground")) 
         {
             transform.SetParent(collision.transform);
             AudioManager.instance.PlaySound(landClip);
