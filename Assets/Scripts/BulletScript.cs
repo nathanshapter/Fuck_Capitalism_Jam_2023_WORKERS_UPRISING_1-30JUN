@@ -10,6 +10,7 @@ public class BulletScript : MonoBehaviour
     public float force;
 
     Vector3 mousePos;
+    int bulletDamage = 15;
 
     private void Start()
     {
@@ -34,12 +35,13 @@ public class BulletScript : MonoBehaviour
             Destroy(this.gameObject);
 
         }
-        else
+        else if(collision.gameObject.CompareTag("Enemy"))
         {
-            Destroy(this.gameObject);
+            collision.gameObject.GetComponent<EnemyHealth>().TakeDamageEnemy(bulletDamage);
         }
-   
        
+        Destroy(this.gameObject);
+
     }
     private IEnumerator Destroy()
     {
