@@ -6,6 +6,8 @@ public class CameraSystem : MonoBehaviour
 {
    [SerializeField] SecurityCamera[] cameras;
 
+    bool breachConfirmed;
+
     private void Start()
     {
         cameras= GetComponentsInChildren<SecurityCamera>();
@@ -19,4 +21,14 @@ public class CameraSystem : MonoBehaviour
             item.target = item.player;
         }
     }
+
+    public void TurnOffCameras()
+    {
+        foreach (var item in cameras) 
+        {
+            item.isOn = false;
+        }
+        print("cameras have been turned off");
+    }
+    
 }

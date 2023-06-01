@@ -25,16 +25,21 @@ public class SecurityCamera : MonoBehaviour
    public bool breachConfirmed = false;
 
     CameraSystem cameraSystem;
+
+    public bool isOn = true;
     private void Start()
     {
         rays = new Ray2D[5];
         originalTarget = target;
         player = FindObjectOfType<PlayerController>().transform;
         cameraSystem= GetComponentInParent<CameraSystem>();
-        
+        Physics2D.queriesStartInColliders = false;
+
     }
     private void Update()
     {
+        if(!isOn) return;
+
         ShootRays();
         LookAtTarget();
     }
@@ -65,7 +70,7 @@ public class SecurityCamera : MonoBehaviour
             if (hit.collider != null)
             {
 
-                print(hit.collider);
+                
                 if (hit.collider.CompareTag("Player"))
                 {
                    
@@ -95,21 +100,24 @@ public class SecurityCamera : MonoBehaviour
         target = player;
         coroutineStarted = true;
         yield return new WaitForSeconds(alarmTime);
-
-        if(Vector3.Distance(player.transform.position, this.transform.position) > maxRayDistance +1)
+        if (isOn)
         {
-            coroutineStarted= false;
-            target = originalTarget;
-            print(Vector3.Distance(player.transform.position, this.transform.position));
-        }
-        else
-        {
-            print(Vector3.Distance(player.transform.position, this.transform.position));
-            print("breach confirmed");
-            cameraSystem.SetOffAlarm();
+            if (Vector3.Distance(player.transform.position, this.transform.position) > maxRayDistance + 1)
+            {
+                coroutineStarted = false;
+                target = originalTarget;
+                print(Vector3.Distance(player.transform.position, this.transform.position));
+            }
+            else
+            {
+                print(Vector3.Distance(player.transform.position, this.transform.position));
+                print("breach confirmed");
+                cameraSystem.SetOffAlarm();
 
-            // alarm code here
-        }
+                // alarm code here
+            }
+        } 
+       
      
 
 
