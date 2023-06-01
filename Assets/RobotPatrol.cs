@@ -21,7 +21,7 @@ public class RobotPatrol : MonoBehaviour
 
     [SerializeField] Transform detectionCentre;
 
-
+ [SerializeField]   EnemyGun enemyGun;
 
     void Start()
     {
@@ -31,11 +31,21 @@ public class RobotPatrol : MonoBehaviour
       player = FindObjectOfType<PlayerController>().transform;
        
        gun.SetActive(false);
+      
     }
 
     // Update is called once per frame
     void Update()
     {
+        if(Vector2.Distance(this.transform.position, player.position) > 25)
+        {
+            chasing = false;
+            gun.SetActive(false);
+            rb.constraints = RigidbodyConstraints2D.FreezeRotation;
+            enemyGun.isFiring= false;
+        }
+        print((Vector2.Distance(this.transform.position, player.position)));
+
         if (chasing) { return; }
      
 
@@ -92,9 +102,10 @@ public class RobotPatrol : MonoBehaviour
     bool chasing = false;
     IEnumerator StartChase()
     {
-        yield return new WaitForSeconds(1);
-        rb.constraints = RigidbodyConstraints2D.FreezeAll;
+        yield return new WaitForSeconds(0);
+       
         chasing = true;
+        rb.constraints = RigidbodyConstraints2D.FreezeAll;
         PullOutGun();
 
         yield return new WaitForSeconds(1);

@@ -19,19 +19,25 @@ public class EnemyGun : MonoBehaviour
     {
         LookAtTarget();
     }
-
+   public bool isFiring = false;
     void LookAtTarget()
     {
         var dir = target.position - this.transform.position;
         var angle = Mathf.Atan2(dir.y, dir.x) * Mathf.Rad2Deg + rotationOffset;
         transform.rotation = Quaternion.AngleAxis(angle, Vector3.forward);
-        StartCoroutine(Shoot());
+        if(!isFiring)
+        {
+            StartCoroutine(Shoot());
+        }
+        
     }
 
 
     IEnumerator Shoot()
     {
-        Instantiate(enemyBullet, bulletTransform.position, Quaternion.identity);
+        isFiring= true;
         yield return new WaitForSeconds(1);
+        Instantiate(enemyBullet, bulletTransform.position, Quaternion.identity);
+       StartCoroutine(Shoot());
     }
 }

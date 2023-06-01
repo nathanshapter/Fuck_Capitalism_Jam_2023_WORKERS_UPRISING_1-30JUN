@@ -59,7 +59,7 @@ public class PlayerHealth : MonoBehaviour
 
     public void TakeDamage(int damage)
     {
-        transform.SetParent(null);
+        
         health-= damage;
         print($"you have {health} now");
     

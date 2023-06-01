@@ -9,16 +9,28 @@ public class EnemyBullet : MonoBehaviour
     int bulletDamage = 15;
 
     Transform player;
+    PlayerHealth playerHealth;
     private void Start()
     {
+        playerHealth= FindObjectOfType<PlayerHealth>();
         rb = GetComponent<Rigidbody2D>();
         player = FindObjectOfType<PlayerController>().transform;
 
-
         Vector3 direction = player.position - transform.position;
         Vector3 rotation = transform.position - player.position;
-        rb.velocity = new Vector2(direction.x, direction.y).normalized * force;
+        rb.velocity = new Vector2(direction.x, direction.y +1.2f).normalized * force;
         float rot = Mathf.Atan2(rotation.y, rotation.x) * Mathf.Rad2Deg;
         transform.rotation = Quaternion.Euler(0, 0, rot + 90);
+
+    }
+
+    private void OnCollisionEnter2D(Collision2D collision)
+    {
+        if (collision.gameObject.CompareTag("Player"))
+        {
+            playerHealth.TakeDamage(bulletDamage);
+            
+        }
+        Destroy(this.gameObject);
     }
 }
