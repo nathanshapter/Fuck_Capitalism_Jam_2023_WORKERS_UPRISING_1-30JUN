@@ -27,6 +27,7 @@ public class SecurityCamera : MonoBehaviour
     CameraSystem cameraSystem;
 
     public bool isOn = true;
+
     private void Start()
     {
         rays = new Ray2D[5];

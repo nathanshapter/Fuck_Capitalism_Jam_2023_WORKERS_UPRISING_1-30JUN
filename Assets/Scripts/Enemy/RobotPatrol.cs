@@ -14,7 +14,7 @@ public class RobotPatrol : MonoBehaviour
     private Transform currentPoint;
     private Transform player;
     public float speed = 5;
-
+    bool chasing = false;
 
 
     [SerializeField] GameObject gun;
@@ -22,6 +22,8 @@ public class RobotPatrol : MonoBehaviour
     [SerializeField] Transform detectionCentre;
 
  [SerializeField]   EnemyGun enemyGun;
+
+    [SerializeField] float enemyAggroDistance = 25;
 
     void Start()
     {
@@ -37,60 +39,10 @@ public class RobotPatrol : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        if(Vector2.Distance(this.transform.position, player.position) > 25)
-        {
-            chasing = false;
-            gun.SetActive(false);
-            rb.constraints = RigidbodyConstraints2D.FreezeRotation;
-            enemyGun.isFiring= false;
-        }
-      
+        StopChase();
 
-        if (chasing) { return; }
-     
+        Patrol();
 
-
-      
-
-        Vector2 point = currentPoint.position -transform.position;
-        if(currentPoint == pointB.transform)
-        {
-            rb.velocity = new Vector2(speed, 0);
-        }
-        else
-        {
-            rb.velocity = new Vector2(-speed, 0);
-        }
-      
-        if(Vector2.Distance(transform.position, currentPoint.position) < 1 && currentPoint == pointB.transform)
-        {
-            currentPoint = pointA.transform;
-            FlipSprite();
-        }
-        if(Vector2.Distance(transform.position, currentPoint.position) < 1 && currentPoint == pointA.transform)
-        {
-            currentPoint = pointB.transform;
-            FlipSprite();
-        }
-    }
-  void FlipSprite()
-    {
-        Vector3 localScale = transform.localScale;
-        localScale.x /= -1f;
-        transform.localScale = localScale;
-    }
-
-    private void OnDrawGizmos()
-    {
-        // platform gizmos
-        
-        Gizmos.DrawWireSphere(new Vector3(pointA.transform.position.x, pointA.transform.position.y), 2);
-        Gizmos.DrawWireSphere(new Vector3(pointB.transform.position.x, pointB.transform.position.y), 2);
-        Gizmos.DrawLine(pointA.transform.position, pointB.transform.position);
-
-        //detection boxcast
-
-  Gizmos.DrawWireSphere(this.transform.position, 25);
     }
     private void OnTriggerEnter2D(Collider2D collision)
     {
@@ -99,7 +51,56 @@ public class RobotPatrol : MonoBehaviour
             StartCoroutine(StartChase());
         }
     }
-    bool chasing = false;
+
+    private void Patrol()
+    {
+        if (!chasing)
+        {
+            Vector2 point = currentPoint.position - transform.position;
+            if (currentPoint == pointB.transform)
+            {
+                rb.velocity = new Vector2(speed, 0);
+            }
+            else
+            {
+                rb.velocity = new Vector2(-speed, 0);
+            }
+
+            if (Vector2.Distance(transform.position, currentPoint.position) < 1 && currentPoint == pointB.transform)
+            {
+                currentPoint = pointA.transform;
+                FlipSprite();
+            }
+            if (Vector2.Distance(transform.position, currentPoint.position) < 1 && currentPoint == pointA.transform)
+            {
+                currentPoint = pointB.transform;
+                FlipSprite();
+            }
+        }
+    }
+
+    private void StopChase()
+    {
+        if (Vector2.Distance(this.transform.position, player.position) > enemyAggroDistance)
+        {
+            chasing = false;
+            gun.SetActive(false);
+            rb.constraints = RigidbodyConstraints2D.FreezeRotation;
+            enemyGun.isFiring = false;
+        }
+    }
+
+   
+    void FlipSprite()
+    {
+        Vector3 localScale = transform.localScale;
+        localScale.x /= -1f;
+        transform.localScale = localScale;
+    }
+
+ 
+    
+ 
     IEnumerator StartChase()
     {
         yield return new WaitForSeconds(0);
@@ -109,19 +110,27 @@ public class RobotPatrol : MonoBehaviour
         PullOutGun();
 
         yield return new WaitForSeconds(1);
-        StartCoroutine(StartShooting());
+      
     }
 
-    IEnumerator StartShooting()
-    {
-        yield return new WaitForSeconds(1);
-       
-
-    }
+   
     void PullOutGun()
     {
         gun.SetActive(true);
         // animation here
         print("gun animation here");
+    }
+
+    private void OnDrawGizmos()
+    {
+        // platform gizmos
+
+        Gizmos.DrawWireSphere(new Vector3(pointA.transform.position.x, pointA.transform.position.y), 2);
+        Gizmos.DrawWireSphere(new Vector3(pointB.transform.position.x, pointB.transform.position.y), 2);
+        Gizmos.DrawLine(pointA.transform.position, pointB.transform.position);
+
+        //detection boxcast
+
+        Gizmos.DrawWireSphere(this.transform.position, enemyAggroDistance);
     }
 }

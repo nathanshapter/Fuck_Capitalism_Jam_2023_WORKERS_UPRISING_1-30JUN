@@ -22,15 +22,46 @@ public class Shooting : MonoBehaviour
 
     private void Update()
     {
-        //   mousePos = cam.ScreenToWorldPoint(Input.mousePosition);
+
 
         mousePos = Mouse.current.position.ReadValue();
         mousePos = cam.ScreenToWorldPoint(mousePos);
-        
 
+        ProcessAimingDirection();
+
+        ProcessStoppingTime();
+
+    }
+
+    public void OnShoot(InputAction.CallbackContext context)
+    {
+
+        if (canFire)
+        {
+            canFire = false;
+            Instantiate(bullet, bulletTransform.position, Quaternion.identity);
+
+        }
+
+
+    }
+    private void ProcessStoppingTime()
+    {
+        if (!canFire)
+        {
+            timer += Time.deltaTime;
+            if (timer > timeBetweenFiring)
+            {
+                canFire = true;
+                timer = 0;
+            }
+        }
+    }
+
+    private void ProcessAimingDirection()
+    {
         if (!pc.isFacingRight)
         {
-            
 
             Vector3 rotation = mousePos - transform.position;
 
@@ -42,7 +73,6 @@ public class Shooting : MonoBehaviour
         }
         else
         {
-            
 
             Vector3 rotation = -(mousePos - transform.position);
 
@@ -51,34 +81,7 @@ public class Shooting : MonoBehaviour
 
             transform.rotation = Quaternion.Euler(0, 0, rotZ);
         }
-
-
-
-
-        if (!canFire)
-        {
-            timer += Time.deltaTime;
-            if(timer > timeBetweenFiring)
-            {
-                canFire = true;
-                timer = 0;
-            }
-        }
-
-
-
-
     }
-    public void OnShoot(InputAction.CallbackContext context)
-    {
-        
-        if (canFire)
-        {
-            canFire = false;
-            Instantiate(bullet, bulletTransform.position, Quaternion.identity);
-            
-        }
 
-       
-    }
+   
 }

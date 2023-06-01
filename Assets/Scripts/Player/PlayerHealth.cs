@@ -15,6 +15,14 @@ public class PlayerHealth : MonoBehaviour
         rb = GetComponent<Rigidbody2D>();
     }
 
+    private void Update()
+    {
+        if (Input.GetKeyDown(KeyCode.F))
+        {
+            rb.AddForce(new Vector2(500, 0));
+        }
+    }
+
     private void OnCollisionEnter2D(Collision2D collision)
     {
         if (collision.gameObject.CompareTag("Spike"))
@@ -37,13 +45,7 @@ public class PlayerHealth : MonoBehaviour
         }
     }
 
-    private void Update()
-    {
-        if(Input.GetKeyDown(KeyCode.F))
-        {
-            rb.AddForce(new Vector2(500,0));
-        }
-    }
+  
 
     bool IsAlive()
     {

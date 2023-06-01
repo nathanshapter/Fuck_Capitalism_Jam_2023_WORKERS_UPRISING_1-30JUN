@@ -7,10 +7,8 @@ public class RespawnManager : MonoBehaviour
 {
  
     public float waitBeforeRespawn = 3;
-    Animator animator;
-   
-    bool deathInProgress;
-  
+    Animator animator;   
+    bool deathInProgress; 
 
     [SerializeField] AudioClip deathClip;
 
@@ -20,10 +18,10 @@ public class RespawnManager : MonoBehaviour
    public Vector2 respawnPosition;
     PlayerHealth health;
     PlayerInput playerInput;
-    
+
+    bool isDying = false;
     private void Start()
     {
-        
         animator = GetComponentInChildren<Animator>();
       
        health= GetComponent<PlayerHealth>();
@@ -31,18 +29,20 @@ public class RespawnManager : MonoBehaviour
         playerInput = GetComponent<PlayerInput>();
     }
 
-   
+    private void Update()
+    {
+        if (transform.position.y < -100)
+        {
+            ProcessDeath();
+        }
+    }
 
     public IEnumerator ReturnPlayerToStart()
     {
         playerInput.enabled= false;
-        yield return new WaitForSeconds(waitBeforeRespawn);
-
-
-       
+        yield return new WaitForSeconds(waitBeforeRespawn);       
         animator.SetTrigger("Alive");
       this.transform.position = respawnPosition;
-
         deathInProgress = false;
         if (isDying)
         {
@@ -52,7 +52,7 @@ public class RespawnManager : MonoBehaviour
         playerInput.enabled = true;
 
     }
-    bool isDying = false;
+  
     public void ProcessDeath()
     {
         if (!isDying)
@@ -76,11 +76,5 @@ public class RespawnManager : MonoBehaviour
         }
 
     }
-    private void Update()
-    {
-        if (transform.position.y < -100)
-        {
-            ProcessDeath();
-        }
-    }
+   
 }

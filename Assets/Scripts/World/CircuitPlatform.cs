@@ -62,6 +62,27 @@ public class CircuitPlatform : MonoBehaviour
 
         if (activatedByTouch) { canMove = false; }
     }
+    private void Update()
+    {
+        this.transform.Rotate(0, 0, 0);
+
+
+        if (delay || !canMove) { return; }
+
+        CalculateNextWaypoint();
+
+        float distance = Vector2.Distance(waypoints[index].position, transform.position);
+
+        CalculateSpeed(distance);
+
+
+
+
+
+
+
+
+    }
 
     private void OnCollisionEnter2D(Collision2D collision)
     {
@@ -84,27 +105,7 @@ public class CircuitPlatform : MonoBehaviour
         this.transform.Rotate(0, 0, 0);
     }
 
-    private void Update()
-    {
-        this.transform.Rotate(0, 0, 0);
-
-
-        if (delay || !canMove) { return; }
-
-        CalculateNextWaypoint();
-
-        float distance = Vector2.Distance(waypoints[index].position, transform.position);
-
-        CalculateSpeed(distance);
-
-
-
-
-
-
-
-
-    }
+   
 
 
     private void CalculateSpeed(float distance)

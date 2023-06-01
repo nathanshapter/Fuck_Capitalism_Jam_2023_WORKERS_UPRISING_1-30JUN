@@ -18,13 +18,6 @@ public class PlayerController : MonoBehaviour
 
     Animator animator;
 
-    
-   
-   
-
-  
-
- 
 
     [SerializeField] CinemachineVirtualCamera virtualCamera;
 
@@ -32,6 +25,7 @@ public class PlayerController : MonoBehaviour
 
     RespawnManager rm;
     PlayerInput playerInput;
+    public float vertical;
 
     private void Start()
     {
@@ -55,18 +49,19 @@ public class PlayerController : MonoBehaviour
             coyoteTimeCounter -= Time.deltaTime;
             animator.SetBool("isGrounded", false);
 
-        }
-        
-       
+        }       
     }
 
-
-    public IEnumerator DisableControls()
+    private void OnCollisionEnter2D(Collision2D collision)
     {
-        playerInput.enabled = false;
-        yield return new WaitForSeconds(rm.waitBeforeRespawn);
-        playerInput.enabled = true;
+        if (collision.transform.CompareTag("Ground"))
+        {
+            transform.SetParent(collision.transform);
+            AudioManager.instance.PlaySound(landClip);
+        }
     }
+
+   
     public void Move(InputAction.CallbackContext context)
     {
         
@@ -86,14 +81,14 @@ public class PlayerController : MonoBehaviour
 
 
     }
-    public float vertical;
+   
     public void Suicide(InputAction.CallbackContext context)
     {
         GetComponent<RespawnManager>().ProcessDeath();
     }
     public void PanCameraUp(InputAction.CallbackContext context)
     {
-       
+       // after holding for 1.5 seconds should pan the camera up/down
     }
     public void PanCameraDown(InputAction.CallbackContext context)
     {
@@ -104,8 +99,7 @@ public class PlayerController : MonoBehaviour
 
     public void Jump(InputAction.CallbackContext context)
     {
-        transform.SetParent(null);
-        
+        transform.SetParent(null);        
 
         if (context.performed && coyoteTimeCounter > 0)
         {
@@ -121,17 +115,23 @@ public class PlayerController : MonoBehaviour
             AudioManager.instance.StopSound(jumpClip);
         }
     }
+
+    public IEnumerator DisableControls()
+    {
+        playerInput.enabled = false;
+        yield return new WaitForSeconds(rm.waitBeforeRespawn);
+        playerInput.enabled = true;
+    }
     public bool IsGrounded()
     {
         return Physics2D.OverlapCircle(groundCheck.transform.position, 0.5f, groundLayer);
 
     }
 
-    public bool OnBox()
+    public bool OnBox() // useful for later for other layers
     {
         return Physics2D.OverlapCircle(groundCheck.transform.position, 0.5f, boxLayer);
     }
-
 
 
     private void FlipPlayer()
@@ -157,16 +157,7 @@ public class PlayerController : MonoBehaviour
         transform.localScale = localScale;
 
     }
-    private void OnCollisionEnter2D(Collision2D collision)
-    {
-
-
-        if (collision.transform.CompareTag("Ground")) 
-        {
-            transform.SetParent(collision.transform);
-            AudioManager.instance.PlaySound(landClip);
-        }
-    }
+ 
 
 
 }

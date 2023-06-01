@@ -22,7 +22,7 @@ public class CameraSwitch : MonoBehaviour
             Array.Resize(ref electricity.camSwitch, electricity.camSwitch.Length - 1);
             electricity.CheckSwitches();
 
-           // anim.SetBool("TorchOn", true);
+           // anim.SetBool("TorchOn", true); // to set later and make it obvious that it has been clicked
             
             Destroy(box);
              gameObject.SetActive(false);

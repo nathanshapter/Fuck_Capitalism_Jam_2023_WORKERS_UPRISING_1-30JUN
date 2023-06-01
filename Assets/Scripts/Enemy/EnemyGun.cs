@@ -9,7 +9,7 @@ public class EnemyGun : MonoBehaviour
     float rotationOffset;
   [SerializeField]  GameObject enemyBullet;
     [SerializeField] Transform bulletTransform;
-
+    public bool isFiring = false;
     private void Start()
     {
         target = FindObjectOfType<PlayerController>().transform;
@@ -19,7 +19,7 @@ public class EnemyGun : MonoBehaviour
     {
         LookAtTarget();
     }
-   public bool isFiring = false;
+   
     void LookAtTarget()
     {
         var dir = target.position - this.transform.position;

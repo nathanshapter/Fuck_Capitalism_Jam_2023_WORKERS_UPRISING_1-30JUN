@@ -28,7 +28,7 @@ public class AudioManager : MonoBehaviour
         effectsSource.Stop();
     }
 
-    public void ChangeMasterVolume(float volume)
+    public void ChangeMasterVolume(float volume) // this does not yet do anything need to have options to turn off sfx and music
     {
         AudioListener.volume = volume;
     }
