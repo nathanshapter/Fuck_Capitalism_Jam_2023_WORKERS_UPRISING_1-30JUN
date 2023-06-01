@@ -44,7 +44,7 @@ public class RobotPatrol : MonoBehaviour
             rb.constraints = RigidbodyConstraints2D.FreezeRotation;
             enemyGun.isFiring= false;
         }
-        print((Vector2.Distance(this.transform.position, player.position)));
+      
 
         if (chasing) { return; }
      
@@ -90,7 +90,7 @@ public class RobotPatrol : MonoBehaviour
 
         //detection boxcast
 
-  
+  Gizmos.DrawWireSphere(this.transform.position, 25);
     }
     private void OnTriggerEnter2D(Collider2D collision)
     {
