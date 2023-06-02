@@ -5,12 +5,13 @@ using UnityEngine;
 public class CameraSystem : MonoBehaviour
 {
    [SerializeField] SecurityCamera[] cameras;
+    EnemySpawnPoints esp;
 
-  
 
     private void Start()
     {
         cameras= GetComponentsInChildren<SecurityCamera>();
+        esp = FindObjectOfType<EnemySpawnPoints>();
     }
 
     public void SetOffAlarm()
@@ -19,6 +20,17 @@ public class CameraSystem : MonoBehaviour
         {
             item.breachConfirmed = true;
             item.target = item.player;
+
+
+
+        }
+
+        int number = -1;
+        foreach (var item in esp.spawnpoints)
+        {
+
+            print(esp.spawnpoints[number += 1].transform.position);
+
         }
     }
 
