@@ -26,7 +26,7 @@ public class RobotPatrol : MonoBehaviour
     [SerializeField] float enemyAggroDistance = 25;
 
     Animator anim;
-
+ 
 
     void Start()
     {
@@ -46,12 +46,7 @@ public class RobotPatrol : MonoBehaviour
        // StopChase();
 
         Patrol();
-        if(chasing)
-        {
-           
-        }
-
-        print(chasing);
+       
     }
     private void OnTriggerEnter2D(Collider2D collision)
     {
@@ -111,7 +106,7 @@ public class RobotPatrol : MonoBehaviour
  
     
  
-    IEnumerator StartChase()
+   IEnumerator StartChase()
     {
         yield return new WaitForSeconds(0);
         anim.SetTrigger("PlayerDetected");
