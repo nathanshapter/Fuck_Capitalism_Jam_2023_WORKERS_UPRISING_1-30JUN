@@ -27,6 +27,7 @@ public class RobotPatrol : MonoBehaviour
 
     Animator anim;
 
+
     void Start()
     {
         rb = GetComponent<Rigidbody2D>();
@@ -42,14 +43,19 @@ public class RobotPatrol : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        StopChase();
+       // StopChase();
 
         Patrol();
+        if(chasing)
+        {
+           
+        }
 
+        print(chasing);
     }
     private void OnTriggerEnter2D(Collider2D collision)
     {
-        if (collision.gameObject.CompareTag("Player"))
+        if (collision.gameObject.CompareTag("Player") && !chasing)
         {
             StartCoroutine(StartChase());
         }
@@ -95,7 +101,7 @@ public class RobotPatrol : MonoBehaviour
     }
 
    
-    void FlipSprite()
+  public  void FlipSprite()
     {
         Vector3 localScale = transform.localScale;
         localScale.x /= -1f;

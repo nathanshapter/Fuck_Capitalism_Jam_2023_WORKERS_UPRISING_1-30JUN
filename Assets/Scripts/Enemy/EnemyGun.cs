@@ -14,11 +14,13 @@ public class EnemyGun : MonoBehaviour
     SpriteRenderer gunSprite;
     [SerializeField] float waitForGunEnable = 3;
     [SerializeField] float timeBetweenBullets =1;
+   
     private void Start()
     {
         target = FindObjectOfType<PlayerController>().transform;
         gunSprite = GetComponent<SpriteRenderer>();
         gunSprite.enabled = false;
+       
     }
 
     void Update()
@@ -35,7 +37,18 @@ public class EnemyGun : MonoBehaviour
         {
             StartCoroutine(EnableGun());
         }
-        
+      if(target.position.x > this.transform.position.x)
+        {
+            Vector3 localScale = transform.localScale;
+          localScale.y = 1f;
+            transform.localScale = localScale;
+        }
+        else
+        {
+            Vector3 localScale = transform.localScale;
+            localScale.y = -1f;
+            transform.localScale = localScale;
+        }
     }
 
 
@@ -53,7 +66,10 @@ public class EnemyGun : MonoBehaviour
     }
     IEnumerator Shoot()
     {
-        isFiring= true;
+       
+
+
+        isFiring = true;
         yield return new WaitForSeconds(timeBetweenBullets);
         Instantiate(enemyBullet, bulletTransform.position, Quaternion.identity);
         StartCoroutine(Shoot());
