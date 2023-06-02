@@ -25,6 +25,8 @@ public class RobotPatrol : MonoBehaviour
 
     [SerializeField] float enemyAggroDistance = 25;
 
+    Animator anim;
+
     void Start()
     {
         rb = GetComponent<Rigidbody2D>();
@@ -33,6 +35,7 @@ public class RobotPatrol : MonoBehaviour
       player = FindObjectOfType<PlayerController>().transform;
        
        gun.SetActive(false);
+        anim = GetComponentInChildren<Animator>();
       
     }
 
@@ -104,7 +107,7 @@ public class RobotPatrol : MonoBehaviour
     IEnumerator StartChase()
     {
         yield return new WaitForSeconds(0);
-       
+        anim.SetTrigger("PlayerDetected");
         chasing = true;
         rb.constraints = RigidbodyConstraints2D.FreezeAll;
         PullOutGun();

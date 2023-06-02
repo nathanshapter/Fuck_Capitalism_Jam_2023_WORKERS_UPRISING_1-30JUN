@@ -6,7 +6,7 @@ public class CameraSystem : MonoBehaviour
 {
    [SerializeField] SecurityCamera[] cameras;
 
-    bool breachConfirmed;
+  
 
     private void Start()
     {

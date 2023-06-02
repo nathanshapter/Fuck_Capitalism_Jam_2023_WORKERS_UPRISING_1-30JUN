@@ -103,9 +103,7 @@ public class CircuitPlatform : MonoBehaviour
         }
         transform.SetParent(null);
         this.transform.Rotate(0, 0, 0);
-    }
-
-   
+    }   
 
 
     private void CalculateSpeed(float distance)

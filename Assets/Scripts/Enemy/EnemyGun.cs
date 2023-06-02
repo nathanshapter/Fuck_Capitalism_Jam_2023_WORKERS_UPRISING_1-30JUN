@@ -10,9 +10,14 @@ public class EnemyGun : MonoBehaviour
   [SerializeField]  GameObject enemyBullet;
     [SerializeField] Transform bulletTransform;
     public bool isFiring = false;
+    SpriteRenderer gunSprite;
+    [SerializeField] float waitForGunEnable = 3;
+    [SerializeField] float timeBetweenBullets =1;
     private void Start()
     {
         target = FindObjectOfType<PlayerController>().transform;
+        gunSprite = GetComponent<SpriteRenderer>();
+        gunSprite.enabled = false;
     }
 
     void Update()
@@ -27,17 +32,26 @@ public class EnemyGun : MonoBehaviour
         transform.rotation = Quaternion.AngleAxis(angle, Vector3.forward);
         if(!isFiring)
         {
-            StartCoroutine(Shoot());
+            StartCoroutine(EnableGun());
         }
         
     }
 
 
-    IEnumerator Shoot()
+    IEnumerator EnableGun()
     {
+
+        yield return new WaitForSeconds(waitForGunEnable);
+        gunSprite.enabled = true;
         isFiring= true;
-        yield return new WaitForSeconds(1);
-        Instantiate(enemyBullet, bulletTransform.position, Quaternion.identity);
+      
        StartCoroutine(Shoot());
     }
+    IEnumerator Shoot()
+    {
+        yield return new WaitForSeconds(timeBetweenBullets);
+        Instantiate(enemyBullet, bulletTransform.position, Quaternion.identity);
+        StartCoroutine(Shoot());
+    }
+    
 }

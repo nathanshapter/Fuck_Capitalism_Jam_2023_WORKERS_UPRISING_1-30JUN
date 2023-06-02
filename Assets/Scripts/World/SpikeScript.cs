@@ -23,10 +23,6 @@ public class SpikeScript : MonoBehaviour
             }
 
            
-
-
-      
-           
         }
     }
 }

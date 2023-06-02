@@ -32,8 +32,7 @@ public class PlayerHealth : MonoBehaviour
                 rm.ProcessDeath();
             }
             else
-            {
-               
+            {              
 
                 if (!IsAlive())
                 {

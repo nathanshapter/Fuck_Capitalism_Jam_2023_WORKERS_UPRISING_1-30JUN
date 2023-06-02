@@ -2348,6 +2348,31 @@ Rigidbody2D:
   m_SleepingMode: 1
   m_CollisionDetection: 0
   m_Constraints: 0
+--- !u!1 &1858515938 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 8498060986801594771, guid: 9bc651ffd8effe2458f0ca0b416c2c70, type: 3}
+  m_PrefabInstance: {fileID: 8498060986031768257}
+  m_PrefabAsset: {fileID: 0}
+--- !u!95 &1858515946
+Animator:
+  serializedVersion: 5
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1858515938}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: b25ac51b1e67e584ba76cdff97a2cf65, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_StabilizeFeet: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorStateOnDisable: 0
 --- !u!1 &2027764505
 GameObject:
   m_ObjectHideFlags: 0
@@ -2972,6 +2997,14 @@ PrefabInstance:
     - target: {fileID: 8498060985883076859, guid: 9bc651ffd8effe2458f0ca0b416c2c70, type: 3}
       propertyPath: m_Name
       value: RobotManager
+      objectReference: {fileID: 0}
+    - target: {fileID: 8498060986801594775, guid: 9bc651ffd8effe2458f0ca0b416c2c70, type: 3}
+      propertyPath: m_SortingLayer
+      value: 5
+      objectReference: {fileID: 0}
+    - target: {fileID: 8498060986801594775, guid: 9bc651ffd8effe2458f0ca0b416c2c70, type: 3}
+      propertyPath: m_SortingLayerID
+      value: -790355531
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 9bc651ffd8effe2458f0ca0b416c2c70, type: 3}
