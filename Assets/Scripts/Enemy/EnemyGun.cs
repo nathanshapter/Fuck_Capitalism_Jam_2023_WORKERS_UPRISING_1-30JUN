@@ -9,6 +9,7 @@ public class EnemyGun : MonoBehaviour
     float rotationOffset;
   [SerializeField]  GameObject enemyBullet;
     [SerializeField] Transform bulletTransform;
+    public bool gunShowing = false;
     public bool isFiring = false;
     SpriteRenderer gunSprite;
     [SerializeField] float waitForGunEnable = 3;
@@ -30,7 +31,7 @@ public class EnemyGun : MonoBehaviour
         var dir = target.position - this.transform.position;
         var angle = Mathf.Atan2(dir.y, dir.x) * Mathf.Rad2Deg + rotationOffset;
         transform.rotation = Quaternion.AngleAxis(angle, Vector3.forward);
-        if(!isFiring)
+        if(!gunShowing)
         {
             StartCoroutine(EnableGun());
         }
@@ -43,12 +44,16 @@ public class EnemyGun : MonoBehaviour
 
         yield return new WaitForSeconds(waitForGunEnable);
         gunSprite.enabled = true;
-        isFiring= true;
+        gunShowing= true;
+      if(!isFiring)
+        {
+            StartCoroutine(Shoot());
+        }
       
-       StartCoroutine(Shoot());
     }
     IEnumerator Shoot()
     {
+        isFiring= true;
         yield return new WaitForSeconds(timeBetweenBullets);
         Instantiate(enemyBullet, bulletTransform.position, Quaternion.identity);
         StartCoroutine(Shoot());

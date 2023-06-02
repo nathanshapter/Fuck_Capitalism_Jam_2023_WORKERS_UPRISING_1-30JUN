@@ -86,10 +86,11 @@ public class RobotPatrol : MonoBehaviour
     {
         if (Vector2.Distance(this.transform.position, player.position) > enemyAggroDistance)
         {
+            anim.SetTrigger("PlayerGone");
             chasing = false;
             gun.SetActive(false);
             rb.constraints = RigidbodyConstraints2D.FreezeRotation;
-            enemyGun.isFiring = false;
+            enemyGun.gunShowing = false;
         }
     }
 
@@ -120,8 +121,7 @@ public class RobotPatrol : MonoBehaviour
     void PullOutGun()
     {
         gun.SetActive(true);
-        // animation here
-        print("gun animation here");
+     
     }
 
     private void OnDrawGizmos()
