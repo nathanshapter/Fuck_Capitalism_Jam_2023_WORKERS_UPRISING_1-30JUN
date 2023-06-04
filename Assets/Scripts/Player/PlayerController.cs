@@ -38,6 +38,7 @@ public class PlayerController : MonoBehaviour
     }
     private void Update()
     {
+        print(IsGrounded());
         FlipPlayer();
         if (IsGrounded()) 
         {
@@ -124,8 +125,14 @@ public class PlayerController : MonoBehaviour
     }
     public bool IsGrounded()
     {
-        return Physics2D.OverlapCircle(groundCheck.transform.position, 0.5f, groundLayer);
+        return Physics2D.OverlapCircle(groundCheck.transform.position, 1, groundLayer);
 
+    }
+
+    private void OnDrawGizmos()
+    {
+        Gizmos.color = Color.yellow;
+        Gizmos.DrawWireSphere(groundCheck.transform.position, 1);
     }
 
     public bool OnBox() // useful for later for other layers

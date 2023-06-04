@@ -5981,6 +5981,14 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 8648000737619546026, guid: 101e1a0962bf2b3498547d3c652e79f1, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -0.02
+      objectReference: {fileID: 0}
+    - target: {fileID: 8648000737619546026, guid: 101e1a0962bf2b3498547d3c652e79f1, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -0.47
+      objectReference: {fileID: 0}
     - target: {fileID: 8648000738224038048, guid: 101e1a0962bf2b3498547d3c652e79f1, type: 3}
       propertyPath: m_Name
       value: Player
@@ -6028,6 +6036,14 @@ PrefabInstance:
     - target: {fileID: 8648000738224038049, guid: 101e1a0962bf2b3498547d3c652e79f1, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8648000738224038060, guid: 101e1a0962bf2b3498547d3c652e79f1, type: 3}
+      propertyPath: boxLayer.m_Bits
+      value: 64
+      objectReference: {fileID: 0}
+    - target: {fileID: 8648000738224038060, guid: 101e1a0962bf2b3498547d3c652e79f1, type: 3}
+      propertyPath: groundLayer.m_Bits
+      value: 64
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 101e1a0962bf2b3498547d3c652e79f1, type: 3}
