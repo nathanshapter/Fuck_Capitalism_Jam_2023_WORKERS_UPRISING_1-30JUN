@@ -1163,6 +1163,11 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!212 &1214232419 stripped
+SpriteRenderer:
+  m_CorrespondingSourceObject: {fileID: 1214232419, guid: 101e1a0962bf2b3498547d3c652e79f1, type: 3}
+  m_PrefabInstance: {fileID: 8648000738352755988}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &1296156008
 GameObject:
   m_ObjectHideFlags: 0
@@ -5968,9 +5973,17 @@ PrefabInstance:
       propertyPath: m_Name
       value: RobotManager
       objectReference: {fileID: 0}
+    - target: {fileID: 8498060986011442110, guid: 9bc651ffd8effe2458f0ca0b416c2c70, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 21.19
+      objectReference: {fileID: 0}
     - target: {fileID: 8498060986222811722, guid: 9bc651ffd8effe2458f0ca0b416c2c70, type: 3}
       propertyPath: m_Enabled
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8498060986391033950, guid: 9bc651ffd8effe2458f0ca0b416c2c70, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 10.2
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 9bc651ffd8effe2458f0ca0b416c2c70, type: 3}
@@ -5981,14 +5994,14 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
-    - target: {fileID: 8648000737619546026, guid: 101e1a0962bf2b3498547d3c652e79f1, type: 3}
-      propertyPath: m_LocalPosition.x
-      value: -0.02
+    - target: {fileID: 1214232418, guid: 101e1a0962bf2b3498547d3c652e79f1, type: 3}
+      propertyPath: m_ConstrainProportionsScale
+      value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 8648000737619546026, guid: 101e1a0962bf2b3498547d3c652e79f1, type: 3}
-      propertyPath: m_LocalPosition.y
-      value: -0.47
-      objectReference: {fileID: 0}
+    - target: {fileID: 8648000738111472209, guid: 101e1a0962bf2b3498547d3c652e79f1, type: 3}
+      propertyPath: gunSprite
+      value: 
+      objectReference: {fileID: 1214232419}
     - target: {fileID: 8648000738224038048, guid: 101e1a0962bf2b3498547d3c652e79f1, type: 3}
       propertyPath: m_Name
       value: Player
@@ -6038,12 +6051,8 @@ PrefabInstance:
       value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 8648000738224038060, guid: 101e1a0962bf2b3498547d3c652e79f1, type: 3}
-      propertyPath: boxLayer.m_Bits
-      value: 64
-      objectReference: {fileID: 0}
-    - target: {fileID: 8648000738224038060, guid: 101e1a0962bf2b3498547d3c652e79f1, type: 3}
-      propertyPath: groundLayer.m_Bits
-      value: 64
-      objectReference: {fileID: 0}
+      propertyPath: virtualCamera
+      value: 
+      objectReference: {fileID: 2027764507}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 101e1a0962bf2b3498547d3c652e79f1, type: 3}

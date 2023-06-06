@@ -38,7 +38,7 @@ public class PlayerController : MonoBehaviour
     }
     private void Update()
     {
-        print(IsGrounded());
+       
         FlipPlayer();
         if (IsGrounded()) 
         {
