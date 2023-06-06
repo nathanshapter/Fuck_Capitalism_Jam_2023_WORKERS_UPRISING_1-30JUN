@@ -69814,6 +69814,26 @@ Tilemap:
     e31: 0
     e32: 0
     e33: 1
+--- !u!1 &1350759530 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 146852697144422496, guid: 44596b4a6f2d38d47ad851536a0cafeb, type: 3}
+  m_PrefabInstance: {fileID: 146852697068622696}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &1350759533
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1350759530}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9025fba1950f9e14184962638a35a2dc, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  intro: {fileID: 8300000, guid: 04f975d14fb0780489133b3bbf249e53, type: 3}
+  level1: {fileID: 0}
+  level2: {fileID: 0}
 --- !u!1 &1355228320 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 4682778740015751206, guid: dacb71d7693d51b419e3959775ab66ea, type: 3}
@@ -74125,6 +74145,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 146852697144422497, guid: 44596b4a6f2d38d47ad851536a0cafeb, type: 3}
+      propertyPath: m_Volume
+      value: 0.695
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 44596b4a6f2d38d47ad851536a0cafeb, type: 3}
 --- !u!1001 &2043215750817637871
@@ -74552,6 +74576,10 @@ PrefabInstance:
       propertyPath: m_SortingLayerID
       value: 312276503
       objectReference: {fileID: 0}
+    - target: {fileID: 8498060987056007508, guid: 9bc651ffd8effe2458f0ca0b416c2c70, type: 3}
+      propertyPath: fire
+      value: 
+      objectReference: {fileID: 8300000, guid: 6075a8ce96a1ece4bab2d68620015926, type: 3}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 9bc651ffd8effe2458f0ca0b416c2c70, type: 3}
 --- !u!1001 &8648000738352755988
