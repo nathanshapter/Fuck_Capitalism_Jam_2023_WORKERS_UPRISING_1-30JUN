@@ -22,7 +22,9 @@ public class Shooting : MonoBehaviour
     [SerializeField] static int ammoMax = 30;
     [SerializeField] float camShakeIntensity;
     [SerializeField] float camShakeTime = .1f;
-   
+
+    [SerializeField] private AudioClip fire, reload, empty;
+
 
     private void Start()
     {
@@ -54,6 +56,7 @@ public class Shooting : MonoBehaviour
 
         if (canFire && ammo > 0)
         {
+            AudioManager.instance.PlaySound(fire);
             CinemachineShake.instance.ShakeCamera(camShakeIntensity, camShakeTime);
             canFire = false;
             Instantiate(bullet, bulletTransform.position, Quaternion.identity);
@@ -63,8 +66,9 @@ public class Shooting : MonoBehaviour
         }
         else if(ammo == 0)
         {
+            AudioManager.instance.PlaySound(empty);
             // play empty ammo sound
-            if(magazines > 0)
+            if (magazines > 0)
             {
                 print("you could reload here");
             }
@@ -78,6 +82,7 @@ public class Shooting : MonoBehaviour
     {
         if(ammo != ammoMax && magazines >=1 && !isReloading)
         {
+            AudioManager.instance.PlaySound(reload);
             isReloading = true;
             StartCoroutine(ReloadRoutine());
         }

@@ -21,7 +21,7 @@ public class PlayerController : MonoBehaviour
 
     [SerializeField] CinemachineVirtualCamera virtualCamera;
 
-    [SerializeField] private AudioClip jumpClip, landClip, runningClip, deathClip, lightThrow;
+    [SerializeField] private AudioClip jumpClip, landClip, runningClip, deathClip;
 
     RespawnManager rm;
     PlayerInput playerInput;
