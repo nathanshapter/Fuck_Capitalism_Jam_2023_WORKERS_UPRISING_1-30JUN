@@ -18,8 +18,9 @@ public class AudioManager : MonoBehaviour
     }
 
 
-    public void PlaySound(AudioClip clip)
+    public void PlaySound(AudioClip clip, float volume)
     {
+        effectsSource.volume = volume;
         effectsSource.PlayOneShot(clip);
     }
 
@@ -27,7 +28,10 @@ public class AudioManager : MonoBehaviour
     {
         effectsSource.Stop();
     }
-
+    public void PlayMusic(AudioClip clip)
+    {
+        musicSource.PlayOneShot(clip);
+    }
     public void ChangeMasterVolume(float volume) // this does not yet do anything need to have options to turn off sfx and music
     {
         AudioListener.volume = volume;

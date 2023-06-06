@@ -14,6 +14,7 @@ public class EnemyGun : MonoBehaviour
     SpriteRenderer gunSprite;
     [SerializeField] float waitForGunEnable = 3;
     [SerializeField] float timeBetweenBullets =1;
+    [SerializeField] AudioClip fire;
    
     private void Start()
     {
@@ -72,6 +73,7 @@ public class EnemyGun : MonoBehaviour
         isFiring = true;
         yield return new WaitForSeconds(timeBetweenBullets);
         Instantiate(enemyBullet, bulletTransform.position, Quaternion.identity);
+        AudioManager.instance.PlaySound(fire, 1);
         StartCoroutine(Shoot());
     }
     

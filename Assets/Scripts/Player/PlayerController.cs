@@ -58,7 +58,7 @@ public class PlayerController : MonoBehaviour
         if (collision.transform.CompareTag("Ground"))
         {
             transform.SetParent(collision.transform);
-            AudioManager.instance.PlaySound(landClip);
+            AudioManager.instance.PlaySound(landClip, 1.5f);
         }
     }
 
@@ -68,7 +68,7 @@ public class PlayerController : MonoBehaviour
         
         if (IsGrounded())
         {
-            AudioManager.instance.PlaySound(runningClip);
+            AudioManager.instance.PlaySound(runningClip,1);
         }
         horizontal = context.ReadValue<Vector2>().x;
 
@@ -107,7 +107,7 @@ public class PlayerController : MonoBehaviour
             rb.velocity = new Vector2(rb.velocity.x, jumpingPower);
 
             animator.SetTrigger("Jump");
-            AudioManager.instance.PlaySound(jumpClip);
+            AudioManager.instance.PlaySound(jumpClip, 0.5f);
         }
         if (context.canceled && rb.velocity.y > 0f)
         {

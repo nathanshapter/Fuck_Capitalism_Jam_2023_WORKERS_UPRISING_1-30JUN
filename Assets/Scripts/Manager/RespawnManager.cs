@@ -60,7 +60,7 @@ public class RespawnManager : MonoBehaviour
             StartCoroutine(pc.DisableControls());
 
             isDying = true;
-            AudioManager.instance.PlaySound(deathClip);
+            AudioManager.instance.PlaySound(deathClip, 1);
 
             transform.SetParent(null);
             if (deathInProgress)

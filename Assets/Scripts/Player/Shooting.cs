@@ -56,7 +56,7 @@ public class Shooting : MonoBehaviour
 
         if (canFire && ammo > 0)
         {
-            AudioManager.instance.PlaySound(fire);
+            AudioManager.instance.PlaySound(fire, 1);
             CinemachineShake.instance.ShakeCamera(camShakeIntensity, camShakeTime);
             canFire = false;
             Instantiate(bullet, bulletTransform.position, Quaternion.identity);
@@ -66,7 +66,7 @@ public class Shooting : MonoBehaviour
         }
         else if(ammo == 0)
         {
-            AudioManager.instance.PlaySound(empty);
+            AudioManager.instance.PlaySound(empty, 1);
             // play empty ammo sound
             if (magazines > 0)
             {
@@ -82,7 +82,7 @@ public class Shooting : MonoBehaviour
     {
         if(ammo != ammoMax && magazines >=1 && !isReloading)
         {
-            AudioManager.instance.PlaySound(reload);
+            AudioManager.instance.PlaySound(reload, 1);
             isReloading = true;
             StartCoroutine(ReloadRoutine());
         }
