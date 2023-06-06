@@ -28,6 +28,8 @@ public class SecurityCamera : MonoBehaviour
 
     public bool isOn = true;
 
+    Animator anim;
+
     private void Start()
     {
         rays = new Ray2D[5];
@@ -35,6 +37,7 @@ public class SecurityCamera : MonoBehaviour
         player = FindObjectOfType<PlayerController>().transform;
         cameraSystem= GetComponentInParent<CameraSystem>();
         Physics2D.queriesStartInColliders = false;
+        anim = GetComponentInChildren<Animator>();
 
     }
     private void Update()
@@ -43,6 +46,10 @@ public class SecurityCamera : MonoBehaviour
 
         ShootRays();
         LookAtTarget();
+        if(breachConfirmed)
+        {
+            anim.SetTrigger("BreachConfirmed");
+        }
     }
   public  bool coroutineStarted;
     RaycastHit2D hit;
@@ -98,6 +105,7 @@ public class SecurityCamera : MonoBehaviour
 
     private IEnumerator PlayerSeen()
     {
+        anim.SetBool("PlayerSeen", true);
         target = player;
         coroutineStarted = true;
         yield return new WaitForSeconds(alarmTime);
@@ -108,13 +116,14 @@ public class SecurityCamera : MonoBehaviour
                 coroutineStarted = false;
                 target = originalTarget;
                 print(Vector3.Distance(player.transform.position, this.transform.position));
+                anim.SetBool("PlayerSeen", false);
             }
             else
             {
                 print(Vector3.Distance(player.transform.position, this.transform.position));
                 print("breach confirmed");
                 cameraSystem.SetOffAlarm();
-
+                anim.SetTrigger("BreachConfirmed");
                 // alarm code here
             }
         } 
