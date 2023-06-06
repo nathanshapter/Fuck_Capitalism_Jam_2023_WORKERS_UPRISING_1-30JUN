@@ -40,7 +40,7 @@ public class CameraSystem : MonoBehaviour
         {
             item.isOn = false;
         }
-        print("cameras have been turned off");
+        
     }
     
 }

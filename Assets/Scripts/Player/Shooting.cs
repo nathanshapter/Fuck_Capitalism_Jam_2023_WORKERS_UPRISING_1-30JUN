@@ -20,11 +20,13 @@ public class Shooting : MonoBehaviour
     [SerializeField] int ammo =30;
     [SerializeField] int magazines;
     [SerializeField] static int ammoMax = 30;
-
-    
+    [SerializeField] float camShakeIntensity;
+    [SerializeField] float camShakeTime = .1f;
+   
 
     private void Start()
     {
+       
         cam = GameObject.FindGameObjectWithTag("MainCamera").GetComponent<Camera>();
         pc = GetComponentInParent<PlayerController>();
         ammo = ammoMax;
@@ -52,6 +54,7 @@ public class Shooting : MonoBehaviour
 
         if (canFire && ammo > 0)
         {
+            CinemachineShake.instance.ShakeCamera(camShakeIntensity, camShakeTime);
             canFire = false;
             Instantiate(bullet, bulletTransform.position, Quaternion.identity);
             ammo -= 1;
