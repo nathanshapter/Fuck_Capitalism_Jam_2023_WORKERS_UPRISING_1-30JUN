@@ -50,9 +50,11 @@ public class PlayerController : MonoBehaviour
             coyoteTimeCounter -= Time.deltaTime;
             animator.SetBool("isGrounded", false);
 
-        }       
+        }
+      
+      
     }
-
+    bool sprinting;
     private void OnCollisionEnter2D(Collision2D collision)
     {
         if (collision.transform.CompareTag("Ground"))
@@ -70,7 +72,17 @@ public class PlayerController : MonoBehaviour
         {
             AudioManager.instance.PlaySound(runningClip,1);
         }
-        horizontal = context.ReadValue<Vector2>().x;
+       if(!sprinting)
+        {
+            horizontal = context.ReadValue<Vector2>().x;
+        }
+        else
+        {
+            horizontal = context.ReadValue<Vector2>().x *2;
+        }
+           
+      
+       
 
 
           animator.SetBool("isRunning", true);
@@ -82,6 +94,7 @@ public class PlayerController : MonoBehaviour
 
 
     }
+   
    
     public void Suicide(InputAction.CallbackContext context)
     {

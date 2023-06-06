@@ -54,27 +54,30 @@ public class Shooting : MonoBehaviour
 
     public void OnShoot(InputAction.CallbackContext context)
     {
-
-        if (canFire && ammo > 0)
+        if(context.performed)
         {
-            AudioManager.instance.PlaySound(fire, 1);
-            CinemachineShake.instance.ShakeCamera(camShakeIntensity, camShakeTime);
-            canFire = false;
-            Instantiate(bullet, bulletTransform.position, Quaternion.identity);
-            ammo -= 1;
-            cs.UpdateAmmoText();
-            bulletFire.Emit(1);
-
-        }
-        else if(ammo == 0)
-        {
-            AudioManager.instance.PlaySound(empty, 1);
-            // play empty ammo sound
-            if (magazines > 0)
+            if (canFire && ammo > 0)
             {
-                print("you could reload here");
+                AudioManager.instance.PlaySound(fire, 1);
+                CinemachineShake.instance.ShakeCamera(camShakeIntensity, camShakeTime);
+                canFire = false;
+                Instantiate(bullet, bulletTransform.position, Quaternion.identity);
+                ammo -= 1;
+                cs.UpdateAmmoText();
+                bulletFire.Emit(1);
+
+            }
+            else if (ammo == 0)
+            {
+                AudioManager.instance.PlaySound(empty, 1);
+                // play empty ammo sound
+                if (magazines > 0)
+                {
+                    print("you could reload here");
+                }
             }
         }
+       
         
 
 
