@@ -5,29 +5,36 @@ using UnityEngine;
 
 public class CanvasScript : MonoBehaviour
 {
-    [SerializeField] TextMeshProUGUI leverText, deathText;
+    [SerializeField] TextMeshProUGUI switches, deathText, ammoText;
    
     DeathCounter dc;
 
 
     int baseSwitch;
     int switchesClicked;
+    Shooting playerGun;
     private void Start()
     {
+        playerGun = FindObjectOfType<Shooting>();
         dc = FindObjectOfType<DeathCounter>();
        
         
-        leverText.text = $"{switchesClicked}/{baseSwitch}";
-        deathText.text = $"  X  {dc.amountOfDeaths}";
+     //   switches.text = $"{switchesClicked}/{baseSwitch}";
+    //    deathText.text = $"  X  {dc.amountOfDeaths}";
+        UpdateAmmoText();
     }
 
     public void UpdateLeverText()
     {
         switchesClicked++;
-        leverText.text = $"{switchesClicked}/{baseSwitch}";
+        switches.text = $"{switchesClicked}/{baseSwitch}";
     }
     public void UpdateDeathText()
     {
         deathText.text = $"  X  {dc.amountOfDeaths}";
+    }
+    public void UpdateAmmoText()
+    {
+        ammoText.text = $"{playerGun.ammo} / {playerGun.ammoMax}";
     }
 }

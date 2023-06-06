@@ -1,6 +1,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using System.Runtime.CompilerServices;
+using System.Xml;
 using UnityEngine;
 using UnityEngine.InputSystem;
 
@@ -17,18 +18,18 @@ public class Shooting : MonoBehaviour
 
     [SerializeField] ParticleSystem bulletFire;
     [SerializeField] SpriteRenderer gunSprite;
-    [SerializeField] int ammo =30;
-    [SerializeField] int magazines;
-    [SerializeField] static int ammoMax = 30;
+    public int ammo =30;
+   public int magazines;
+    public  int ammoMax = 30;
     [SerializeField] float camShakeIntensity;
     [SerializeField] float camShakeTime = .1f;
 
     [SerializeField] private AudioClip fire, reload, empty;
 
-
+    CanvasScript cs;
     private void Start()
     {
-       
+       cs = FindObjectOfType<CanvasScript>();
         cam = GameObject.FindGameObjectWithTag("MainCamera").GetComponent<Camera>();
         pc = GetComponentInParent<PlayerController>();
         ammo = ammoMax;
@@ -61,6 +62,7 @@ public class Shooting : MonoBehaviour
             canFire = false;
             Instantiate(bullet, bulletTransform.position, Quaternion.identity);
             ammo -= 1;
+            cs.UpdateAmmoText();
             bulletFire.Emit(1);
 
         }
