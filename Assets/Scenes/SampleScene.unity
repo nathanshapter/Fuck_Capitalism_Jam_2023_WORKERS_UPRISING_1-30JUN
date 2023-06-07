@@ -74645,6 +74645,10 @@ PrefabInstance:
       propertyPath: camShakeIntensity
       value: 4
       objectReference: {fileID: 0}
+    - target: {fileID: 8648000738111472209, guid: 101e1a0962bf2b3498547d3c652e79f1, type: 3}
+      propertyPath: timeBetweenFiring
+      value: 0.1
+      objectReference: {fileID: 0}
     - target: {fileID: 8648000738111472215, guid: 101e1a0962bf2b3498547d3c652e79f1, type: 3}
       propertyPath: m_Name
       value: GUn RotatePoint

@@ -20,6 +20,7 @@ public class PlayerController : MonoBehaviour
 
 
     [SerializeField] CinemachineVirtualCamera virtualCamera;
+    [SerializeField] float movementSpeed;
 
     [SerializeField] private AudioClip jumpClip, landClip, runningClip, deathClip;
 
@@ -72,14 +73,9 @@ public class PlayerController : MonoBehaviour
         {
             AudioManager.instance.PlaySound(runningClip,1);
         }
-       if(!sprinting)
-        {
-            horizontal = context.ReadValue<Vector2>().x;
-        }
-        else
-        {
-            horizontal = context.ReadValue<Vector2>().x *2;
-        }
+   
+            horizontal = context.ReadValue<Vector2>().x *movementSpeed;
+        
            
       
        
