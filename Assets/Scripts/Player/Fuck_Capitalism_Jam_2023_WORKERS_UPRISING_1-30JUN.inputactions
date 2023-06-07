@@ -78,9 +78,9 @@
                     "initialStateCheck": false
                 },
                 {
-                    "name": "Sprint",
+                    "name": "Grapple",
                     "type": "Button",
-                    "id": "699c8aad-cc0c-46ad-a898-e618c49c5152",
+                    "id": "7fd4a0f4-796c-487c-b81b-5c90efdda920",
                     "expectedControlType": "Button",
                     "processors": "",
                     "interactions": "",
@@ -321,12 +321,12 @@
                 },
                 {
                     "name": "",
-                    "id": "9278c5fe-ac28-45f3-bb5b-ccc204989d3f",
-                    "path": "<Keyboard>/shift",
+                    "id": "035d6ea9-1745-41fa-8905-a4be85d83240",
+                    "path": "<Mouse>/rightButton",
                     "interactions": "",
                     "processors": "",
                     "groups": "",
-                    "action": "Sprint",
+                    "action": "Grapple",
                     "isComposite": false,
                     "isPartOfComposite": false
                 }
